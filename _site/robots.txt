@@ -1,4 +1,0 @@
-Sitemap: mar-muel.github.io/osip2019/sitemap.xml
-
-User-agent: *
-Disallow: /css
