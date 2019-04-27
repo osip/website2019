@@ -4,10 +4,10 @@
     <title>Open Science in Practice</title>
     <description>Open Science in Pracice summer school
 </description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 27 Apr 2019 18:53:50 +0200</pubDate>
-    <lastBuildDate>Sat, 27 Apr 2019 18:53:50 +0200</lastBuildDate>
+    <link>mar-muel.github.io/osip2019/</link>
+    <atom:link href="mar-muel.github.io/osip2019/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 27 Apr 2019 18:56:06 +0200</pubDate>
+    <lastBuildDate>Sat, 27 Apr 2019 18:56:06 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
   </channel>
