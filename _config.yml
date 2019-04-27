@@ -1,8 +1,8 @@
 title: Open Science in Practice
 description: > # this means to ignore newlines until "baseurl:"
   Open Science in Practice summer school
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "mar-muel.github.io/osip2019" # the base hostname & protocol for your site
+baseurl: "/osip2019" # the subpath of your site, e.g. /blog
+url: "mar-muel.github.io" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
