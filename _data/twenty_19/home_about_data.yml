@@ -1,20 +1,14 @@
-- inverted: 
-  img: icon-about.jpeg
-  name: Theme, Vision, Mission
-  info: Read more about our Theme, Vision, and Mission
-  link: "/2019/about"
+# - inverted: 
+  # img: icon-about.jpeg
+  # name: Mission
+  # info: Read more about our Theme, Vision, and Mission
+  # link: "/2019/about"
 
-- inverted: timeline-inverted
-  img: icon-agenda.jpeg
-  name: Agenda
-  info: Check out the agenda
-  link: /2016/agenda
-
-- inverted: 
-  img: icon-team.jpeg
-  name: Team
-  info: Find out the team members
-  link: /2016/team
+# - inverted: timeline-inverted
+  # img: icon-agenda.jpeg
+  # name: Agenda
+  # info: Check out the agenda
+  # link: agenda
 
 - inverted: timeline-inverted
   img: icon-venue.jpeg
@@ -23,7 +17,13 @@
   link: /2016/venue
 
 - inverted: 
-  img: icon-faq.jpeg
-  name: FAQs
-  info: Have a Question? Many answers can be found right here in our FAQs
-  link: /2016/faqs
+  img: icon-team.jpeg
+  name: Team
+  info: Find out the team members
+  link: /2016/team
+
+# - inverted: 
+  # img: icon-faq.jpeg
+  # name: FAQs
+  # info: Have a Question? Many answers can be found right here in our FAQs
+  # link: /2016/faqs

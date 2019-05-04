@@ -1,0 +1,17 @@
+- name: Thursday (computational)
+- - time: 8:00 AM - 12:00 PM
+    title: Intro
+    name: A.D.
+    position: Director
+    topic: Welcome
+  - time: 12:00 PM - 3:00 PM
+    title: Greetings
+    name: H.G. 
+    position: Student
+    topic: How to be an excellent student.
+- name: Friday (computational)
+- - time: 8:00 AM - 12:00 PM
+    title: Rules
+    name: A.F.
+    position: Concierge
+    topic: House Rules

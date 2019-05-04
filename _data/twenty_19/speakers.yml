@@ -1,11 +1,12 @@
-- title: Name
-  name: Name-1
-  subtitle: Position
-  img: dummy.jpg
-  thumbnail: dummy.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+- title: A. D.  # 
+  name: AD # no spaces allowed.
+  subtitle: Director
+  img: dumbledore.jpg
+  thumbnail: dumbledore.jpg
+  alt: Picture of Dumbledore.
+  topic: How to be a good magician
+  description: > 
+    A.D. is the director of Hogwarts School of Magical Sciences. 
 
 - title: Name
   name: Name-2
