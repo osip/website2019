@@ -14,13 +14,24 @@
           </tr>
           {% for slot in day %}
             {% if slot.time %}
-              <tr> 
+              <tr class="{{ slot.kind }}" > 
                 <td> 
                   {{ slot.time }} 
                 </td>
-                <td> 
-                  <b> {{ slot.title }}:  {{ slot.topic }} </b> - 
-                <i> {{ slot.name }} ({{ slot.position }}) </i> 
+                <td > 
+                  {% if slot.kind == "lecture" or slot.kind == "workshop"%}
+                    <b> {{ slot.title }} {{ slot.topic }} </b> -
+                    <i> {{ slot.name }} 
+                    {% if slot.position %}
+                      ({{ slot.position }}) 
+                    {% endif %}
+                    </i> 
+                  {% else if slot.kind == "break" %}
+                    <b> {{ slot.topic }} </b> 
+                  {% endif %}
+                </td>
+                <td class="{{ slot.kind }}" > 
+                  {{ slot.location }}
                 </td>
               </tr>
             {% endif %}
