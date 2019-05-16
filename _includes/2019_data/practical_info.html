@@ -21,9 +21,7 @@
               <div class="timeline-heading">
                 <p class="text-muted">{{ about_data.info }}</p>
               </div>
-              {% if about_data.link %}
-              <a href="{{ about_data.link }}" class="page-scroll btn btn-sm">Learn More</a>
-              {% endif %}
+              <a href="#{{ about_data.name }}" class="btn btn-sm" data-toggle="modal">Learn More</a>
             </div>
           </li>
           {% endfor %}

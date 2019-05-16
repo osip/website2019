@@ -13,14 +13,12 @@
 - inverted: timeline-inverted
   img: icon-venue.jpeg
   name: Venue
-  info: Learn more about our location
-  link: /2016/venue
+  info: Learn more about the location
 
 - inverted: 
   img: icon-team.jpeg
   name: Team
-  info: Find out the team members
-  link: /2016/team
+  info: Meet the organizers 
 
 # - inverted: 
   # img: icon-faq.jpeg
