@@ -23,8 +23,7 @@ body {
   min-height: 100%;
   width: 100%;
   overflow-x: hidden;
-  font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
-  color: #{{ site.data.template.color.secondary-dark }};
+  color: #{{ site.data.template.color.black }};
 }
 
 @media screen and (max-width : 1200px){
@@ -40,6 +39,7 @@ body {
 }
 
 .text-muted {
+  font-family: {{ site.data.template.font.secondary }};
   color: #{{ site.data.template.color.muted }};
 }
 
@@ -81,8 +81,7 @@ h3,
 h4,
 h5,
 h6 {
-  text-transform: uppercase;
-  font-family: {{ site.data.template.font.primary }};
+  font-family: {{ site.data.template.font.title }};
   font-weight: 700;
 }
 
@@ -172,9 +171,7 @@ fieldset[disabled] .btn-primary.active {
 .btn-sm, .btn-xl {
   color: #fff;
   background-color: #{{ site.data.template.color.primary }};
-  border-color: #{{ site.data.template.color.primary }};
-  border-radius: 3px;
-  text-transform: uppercase;
+  border-radius: 2px;
   font-family: {{ site.data.template.font.primary }};
 }
 
@@ -187,7 +184,6 @@ fieldset[disabled] .btn-primary.active {
 .btn-xl:active,
 .btn-xl.active,
 .open .dropdown-toggle.btn-xl {
-  border-color: #{{ site.data.template.color.primary }};
   color: #fff;
   background-color: #{{ site.data.template.color.secondary }};
 }
@@ -230,7 +226,6 @@ fieldset[disabled] .btn-xl:active,
 .btn-xl.disabled.active,
 .btn-xl[disabled].active,
 fieldset[disabled] .btn-xl.active {
-  border-color: #{{ site.data.template.color.primary }};
   background-color: #{{ site.data.template.color.primary }};
 }
 
@@ -354,16 +349,15 @@ header .intro-text {
 
 header .intro-text .intro-lead-in {
   margin-bottom: 25px;
-  font-family: {{ site.data.template.font.secondary }};
+  font-family: {{ site.data.template.font.title }};
   font-size: 22px;
-  font-style: italic;
   line-height: 22px;
 }
 
 header .intro-text .intro-heading {
   margin-bottom: 25px;
   text-transform: uppercase;
-  font-family: {{ site.data.template.font.primary }};
+  font-family: {{ site.data.template.font.title }};
   font-size: 40px;
   font-weight: 700;
   line-height: 40px;
@@ -377,16 +371,15 @@ header .intro-text .intro-heading {
 
   header .intro-text .intro-lead-in {
     margin-bottom: 25px;
-    font-family: {{ site.data.template.font.secondary }};
+    font-family: {{ site.data.template.font.title }};
     font-size: 40px;
-    font-style: italic;
     line-height: 40px;
   }
 
   header .intro-text .intro-heading {
     margin-bottom: 50px;
-    text-transform: uppercase;
-    font-family: {{ site.data.template.font.primary }};
+    /* text-transform: uppercase; */
+    font-family: {{ site.data.template.font.title }};
     font-size: 75px;
     font-weight: 700;
     line-height: 75px;
@@ -919,4 +912,19 @@ img::-moz-selection {
 
 body {
   webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
+}
+
+
+
+/* Agenda additional styles */
+.break {
+  background-color: #{{ site.data.template.color.light-grey }};
+}
+
+.workshop {
+  background-color: #{{ site.data.template.color.light-red }};
+}
+
+.lecture {
+  background-color: #{{ site.data.template.color.light-green }};
 }
