@@ -46,21 +46,32 @@
       <div class="col-md-6 col-lg-6 col-sm-12">
         <table class="table table-striped">
         <tbody>
-        {% for day in site.data.twenty_19.agenda_computational %}
+        {% for day in site.data.twenty_19.agenda_experimental %}
           <tr>
-            <td colspan="2" class="table-warning"> 
+            <td colspan="2" class="table-primary"> 
               <h3> {{ day.name }} </h3>
             </td>
           </tr>
           {% for slot in day %}
             {% if slot.time %}
-              <tr> 
+              <tr class="{{ slot.kind }}" > 
                 <td> 
                   {{ slot.time }} 
                 </td>
-                <td> 
-                  <b> {{ slot.title }}:  {{ slot.topic }} </b> - 
-                <i> {{ slot.name }} ({{ slot.position }}) </i> 
+                <td > 
+                  {% if slot.kind == "lecture" or slot.kind == "workshop"%}
+                    <b> {{ slot.title }} {{ slot.topic }} </b> -
+                    <i> {{ slot.name }} 
+                    {% if slot.position %}
+                      ({{ slot.position }}) 
+                    {% endif %}
+                    </i> 
+                  {% else if slot.kind == "break" %}
+                    <b> {{ slot.topic }} </b> 
+                  {% endif %}
+                </td>
+                <td class="{{ slot.kind }}" > 
+                  {{ slot.location }}
                 </td>
               </tr>
             {% endif %}
@@ -72,21 +83,69 @@
       <div class="col-md-6 col-lg-6 col-sm-12">
         <table class="table table-striped">
         <tbody>
-        {% for day in site.data.twenty_19.agenda_experimental %}
+        {% for day in site.data.twenty_19.agenda_computational %}
           <tr>
-            <td colspan="2" class="table-success"> 
+            <td colspan="2" class="table-primary"> 
               <h3> {{ day.name }} </h3>
             </td>
           </tr>
           {% for slot in day %}
             {% if slot.time %}
-              <tr> 
+              <tr class="{{ slot.kind }}" > 
                 <td> 
                   {{ slot.time }} 
                 </td>
+                <td > 
+                  {% if slot.kind == "lecture" or slot.kind == "workshop"%}
+                    <b> {{ slot.title }} {{ slot.topic }} </b> -
+                    <i> {{ slot.name }} 
+                    {% if slot.position %}
+                      ({{ slot.position }}) 
+                    {% endif %}
+                    </i> 
+                  {% else if slot.kind == "break" %}
+                    <b> {{ slot.topic }} </b> 
+                  {% endif %}
+                </td>
+                <td class="{{ slot.kind }}" > 
+                  {{ slot.location }}
+                </td>
+              </tr>
+            {% endif %}
+          {% endfor %}
+        {% endfor %}
+        </tbody>
+        </table>
+      </div>
+      <div class="col-md-12">
+        <table class="table table-striped">
+        <tbody>
+        {% for day in site.data.twenty_19.agenda_common_friday %}
+          <tr>
+            <td colspan="2" class="table-primary"> 
+              <h3> {{ day.name }} </h3>
+            </td>
+          </tr>
+          {% for slot in day %}
+            {% if slot.time %}
+              <tr class="{{ slot.kind }}" > 
                 <td> 
-                  <b> {{ slot.title }}:  {{ slot.topic }} </b> - 
-                <i> {{ slot.name }} ({{ slot.position }}) </i> 
+                  {{ slot.time }} 
+                </td>
+                <td > 
+                  {% if slot.kind == "lecture" or slot.kind == "workshop"%}
+                    <b> {{ slot.title }} {{ slot.topic }} </b> -
+                    <i> {{ slot.name }} 
+                    {% if slot.position %}
+                      ({{ slot.position }}) 
+                    {% endif %}
+                    </i> 
+                  {% else if slot.kind == "break" %}
+                    <b> {{ slot.topic }} </b> 
+                  {% endif %}
+                </td>
+                <td class="{{ slot.kind }}" > 
+                  {{ slot.location }}
                 </td>
               </tr>
             {% endif %}

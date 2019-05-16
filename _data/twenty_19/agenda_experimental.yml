@@ -1,17 +1,56 @@
+- name: Wednesday (experimental)
+- - time: 8:45 - 9:00 
+    kind: break
+    topic: Arrival
+  - time: 9:00 - 10:00 
+    kind: lecture
+    topic: Lecture 1
+  - time: 10:00 - 11:00 
+    kind: lecture
+    topic: Lecture 2
+  - time: 11:00 - 11:15
+    kind: break 
+    topic: Coffee break
+  - time: 11:15 - 12:00 
+    kind: break
+    topic: Lecture 3
+  - time: 12:00 - 13:30 
+    kind: break
+    topic: Lunch break 
+  - time: 13:30 - 15:30 
+    kind: workshop 
+    topic: Workshop I
+  - time: 15:30 - 16:00 
+    kind: break
+    topic: Coffee break
+  - time: 16:00 - 18:00 
+    kind: workshop 
+    topic: Workshop II
 - name: Thursday (experimental)
-- - time: 8:00 AM - 12:00 PM
-    title: Intro
-    name: A.D.
-    position: Director
-    topic: Welcome
-  - time: 12:00 PM - 3:00 PM
-    title: Greetings
-    name: H.G. 
-    position: Student
-    topic: How to be an excellent student.
-- name: Friday (experimental)
-- - time: 8:00 AM - 12:00 PM
-    title: Rules
-    name: A.F.
-    position: Concierge
-    topic: House Rules
+- - time: 8:45 - 9:00 
+    kind: break
+    topic: Arrival
+  - time: 9:00 - 10:00 
+    kind: lecture
+    topic: Lecture 1
+  - time: 10:00 - 11:00 
+    kind: lecture
+    topic: Lecture 2
+  - time: 11:00 - 11:15
+    kind: break 
+    topic: Coffee break
+  - time: 11:15 - 12:00 
+    kind: break
+    topic: Lecture 3
+  - time: 12:00 - 13:30 
+    kind: break
+    topic: Lunch break 
+  - time: 13:30 - 15:30 
+    kind: workshop 
+    topic: Workshop III
+  - time: 15:30 - 16:00 
+    kind: break
+    topic: Coffee break
+  - time: 16:00 - 18:00 
+    kind: workshop 
+    topic: Workshop IV
