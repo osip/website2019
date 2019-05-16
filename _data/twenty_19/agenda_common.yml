@@ -19,7 +19,7 @@
     kind: break
     topic: Lunch break 
   - time: 13:30 - 15:30 
-    kind: workshop 
+    kind: workshop
     topic: Workshop I
   - time: 15:30 - 16:00 
     kind: break
