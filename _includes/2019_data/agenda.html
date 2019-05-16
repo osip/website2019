@@ -4,47 +4,44 @@
     <div class="col-lg-12 text-center">
       <h2 class="section-heading">Agenda</h2>
       <div class="col-md-12">
-        <!-- <table class="table table&#45;striped agenda"> -->
-        <table class="table agenda">
-          <tbody>
-            {% for day in site.data.twenty_19.agenda_common %}
-            <tr>
-              <!-- <td colspan="2" class="table&#45;primary">  -->
-              <td colspan="3" class="table-primary"> 
-                <h3> {{ day.name }} </h3>
-              </td>
-            </tr>
-            {% for slot in day %}
+        <table class="table table-agenda">
+        <tbody>
+        {% for day in site.data.twenty_19.agenda_common %}
+          <tr>
+            <td colspan="2" class="table-primary"> 
+              <h3> {{ day.name }} </h3>
+            </td>
+          </tr>
+          {% for slot in day %}
             {% if slot.time %}
-            <tr class="{{ slot.kind }}" > 
-              <td> 
-                {{ slot.time }} 
-              </td>
-              <td > 
-                {% if slot.kind == "lecture" or slot.kind == "workshop"%}
-                <b> {{ slot.title }} {{ slot.topic }} </b> -
-                <i> {{ slot.name }} 
-                  {% if slot.position %}
-                  ({{ slot.position }}) 
+              <tr class="{{ slot.kind }}" > 
+                <td> 
+                  {{ slot.time }} 
+                </td>
+                <td > 
+                  {% if slot.kind == "lecture" or slot.kind == "workshop"%}
+                    <b> {{ slot.title }} {{ slot.topic }} </b> -
+                    <i> {{ slot.name }} 
+                    {% if slot.position %}
+                      ({{ slot.position }}) 
+                    {% endif %}
+                    </i> 
+                  {% else if slot.kind == "break" %}
+                    <b> {{ slot.topic }} </b> 
                   {% endif %}
-                </i> 
-                {% else if slot.kind == "break" %}
-                <b> {{ slot.topic }} </b> 
-                {% endif %}
-              </td>
-              <td> 
-                {{ slot.location }}
-              </td>
-            </tr>
+                </td>
+                <td class="{{ slot.kind }}" > 
+                  {{ slot.location }}
+                </td>
+              </tr>
             {% endif %}
-            {% endfor %}
-            {% endfor %}
-          </tbody>
+          {% endfor %}
+        {% endfor %}
+        </tbody>
         </table>
       </div>
       <!-- Two tracks: half columns  -->
       <!-- I would like to loop over compuational, experimental agendas here
-<<<<<<< Updated upstream
            but it is not possible to initialize an array in liquid.-->
       <div class="col-md-6 col-lg-6 col-sm-12">
         <table class="table table-striped">
@@ -95,47 +92,6 @@
           {% for slot in day %}
             {% if slot.time %}
               <tr class="{{ slot.kind }}" > 
-=======
-        but it is not possible to initialize an array in liquid.-->
-        <div class="col-md-6 col-lg-6 col-sm-12">
-          <table class="table table-striped">
-            <tbody>
-              {% for day in site.data.twenty_19.agenda_computational %}
-              <tr>
-                <td colspan="2" class="table-warning"> 
-                  <h3> {{ day.name }} </h3>
-                </td>
-              </tr>
-              {% for slot in day %}
-              {% if slot.time %}
-              <tr> 
-                <td> 
-                  {{ slot.time }} 
-                </td>
-                <td> 
-                  <b> {{ slot.title }}:  {{ slot.topic }} </b> - 
-                  <i> {{ slot.name }} ({{ slot.position }}) </i> 
-                </td>
-              </tr>
-              {% endif %}
-              {% endfor %}
-              {% endfor %}
-            </tbody>
-          </table>
-        </div>
-        <div class="col-md-6 col-lg-6 col-sm-12">
-          <table class="table table-striped">
-            <tbody>
-              {% for day in site.data.twenty_19.agenda_experimental %}
-              <tr>
-                <td colspan="2" class="table-success"> 
-                  <h3> {{ day.name }} </h3>
-                </td>
-              </tr>
-              {% for slot in day %}
-              {% if slot.time %}
-              <tr> 
->>>>>>> Stashed changes
                 <td> 
                   {{ slot.time }} 
                 </td>
@@ -174,7 +130,6 @@
             {% if slot.time %}
               <tr class="{{ slot.kind }}" > 
                 <td> 
-<<<<<<< Updated upstream
                   {{ slot.time }} 
                 </td>
                 <td > 
@@ -191,18 +146,14 @@
                 </td>
                 <td class="{{ slot.kind }}" > 
                   {{ slot.location }}
-=======
-                  <b> {{ slot.title }}:  {{ slot.topic }} </b> - 
-                  <i> {{ slot.name }} ({{ slot.position }}) </i> 
->>>>>>> Stashed changes
                 </td>
               </tr>
-              {% endif %}
-              {% endfor %}
-              {% endfor %}
-            </tbody>
-          </table>
-        </div>
+            {% endif %}
+          {% endfor %}
+        {% endfor %}
+        </tbody>
+        </table>
+      </div>
     </div>
   </div>
 </section>
