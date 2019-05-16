@@ -3,10 +3,10 @@
     kind: break
     topic: Arrival
   - time: 9:00 - 10:00 
-    kind: lecture
+    kind: "lecture"
     topic: Lecture 1
   - time: 10:00 - 11:00 
-    kind: lecture
+    kind: "lecture"
     topic: Lecture 2
   - time: 11:00 - 11:15
     kind: break 
@@ -31,16 +31,16 @@
     kind: break
     topic: Arrival
   - time: 9:00 - 10:00 
-    kind: lecture
+    kind: "lecture"
     topic: Lecture 1
   - time: 10:00 - 11:00 
-    kind: lecture
+    kind: "lecture"
     topic: Lecture 2
   - time: 11:00 - 11:15
     kind: break 
     topic: Coffee break
   - time: 11:15 - 12:00 
-    kind: break
+    kind: "lecture"
     topic: Lecture 3
   - time: 12:00 - 13:30 
     kind: break

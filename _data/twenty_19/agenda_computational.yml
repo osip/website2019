@@ -3,10 +3,10 @@
     kind: break
     topic: Arrival
   - time: 9:00 - 10:00 
-    kind: lecture
+    kind: "lecture"
     topic: "Lecture: software design patterns in research code." 
   - time: 10:00 - 11:00 
-    kind: lecture
+    kind: "lecture"
     topic: "Lecture: coding with style" 
   - time: 11:00 - 11:15
     kind: break 
@@ -31,16 +31,16 @@
     kind: break
     topic: Arrival
   - time: 9:00 - 10:00 
-    kind: lecture
+    kind: "lecture"
     topic: "Lecture: publishing and documenting data"
   - time: 10:00 - 11:00 
-    kind: lecture
+    kind: "lecture"
     topic: "Lecture: version control + going open source"
   - time: 11:00 - 11:15
     kind: break 
     topic: Coffee break
   - time: 11:15 - 12:00 
-    kind: break
+    kind: "lecture"
     topic: "Lecture: community management and communication"
   - time: 12:00 - 13:30 
     kind: break
