@@ -437,7 +437,7 @@ section h3.section-subheading {
   -webkit-transition: all ease .5s;
   -moz-transition: all ease .5s;
   transition: all ease .5s;
-  background: #3cb371;
+  background-color: #{{ site.data.template.color.primary }};
 }
 
 #speakers .speakers-item .speakers-link .speakers-hover:hover {
@@ -466,8 +466,7 @@ section h3.section-subheading {
 
 #speakers .speakers-item .speakers-caption {
   margin: 0 auto;
-  padding-top: 25px;
-  padding-bottom: 5px;
+  padding: 15px 15px 5px 15px;
   max-width: 400px;
   min-height: 100px;
   text-align: center;
@@ -915,16 +914,20 @@ body {
 }
 
 
+.agenda-day {
+  margin-top: 40px;
+}
+
 
 /* Agenda additional styles */
-.break {
-  background-color: #{{ site.data.template.color.light-grey }};
-}
-
-.workshop {
-  background-color: #{{ site.data.template.color.light-red }};
-}
-
-.lecture {
-  background-color: #{{ site.data.template.color.light-green }};
-}
+/* .break { */
+/*   background-color: #{{ site.data.template.color.light-grey }}; */
+/* } */
+/*  */
+/* .workshop { */
+/*   background-color: #{{ site.data.template.color.light-red }}; */
+/* } */
+/*  */
+/* .lecture { */
+/*   background-color: #{{ site.data.template.color.light-green }}; */
+/* } */

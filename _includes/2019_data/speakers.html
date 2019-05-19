@@ -7,10 +7,13 @@
         <h3 class="section-subheading text-muted"></h3>
       </div>
     </div>
-    <div class="row">
       {% for post in site.data.twenty_19.speakers %}
+      {% assign indexmod3 = forloop.index | modulo: 4 %}
+      {% if indexmod3 == 0 %}
+      <div style="clear: both;"></div>
+      {% endif %}
       <div class="col-md-4 col-sm-6 speakers-item">
-        <a href="#{{ post.name }}" class="speakers-link" data-toggle="modal">
+        <a href="#{{ post.id }}" class="speakers-link" data-toggle="modal">
           <div class="speakers-hover">
             <div class="speakers-hover-content">
               <i class="fa fa-plus fa-3x"></i>
@@ -19,7 +22,7 @@
           <img class="img-centered img-responsive" src="{{ post.thumbnail | prepend: "/../css/2019_style/img/speaker/" | prepend: site.baseurl }}" alt="">
         </a>
         <div class="speakers-caption">
-          <h4>{{ post.title }}</h4>
+          <h2>{{ post.name }}</h2>
           <p class="text-muted">{{ post.subtitle }}</p>
         </div>
       </div>

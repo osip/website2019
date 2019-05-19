@@ -1,0 +1,142 @@
+Monday:
+  schedule:
+  - time: 8:15 - 8:45 
+    kind: break
+    topic: Arrival
+  - time: 8:45 - 9:00 
+    kind: lecture
+    name: Organizers
+    topic: Welcome + Intro
+  - time: 9:00 - 10:00 
+    kind: lecture
+    topic: "Open Science: Why does it matter?"
+  - time: 10:00 - 10:30 
+    kind: break
+    topic: Coffee + Ice breaker
+  - time: 10:30 - 11:30 
+    kind: lecture
+    topic: Lecture 3
+  - time: 11:30 - 13:30 
+    kind: break
+    topic: Lunch break 
+  - time: 13:30 - 15:30 
+    kind: workshop
+    topic: Workshop I
+  - time: 15:30 - 16:00 
+    kind: break
+    topic: Coffee break
+  - time: 16:00 - 18:00 
+    kind: workshop 
+    topic: Workshop II
+
+Tuesday:
+  schedule:
+  - time: 8:15 - 8:45 
+    kind: break
+    topic: Arrival
+  - time: 8:45 - 9:00 
+    kind: lecture
+    name: Organizers
+    topic: Welcome + Intro
+  - time: 9:00 - 10:00 
+    kind: lecture
+    topic: "Open Science: Why does it matter?"
+  - time: 10:00 - 10:30 
+    kind: break
+    topic: Coffee + Ice breaker
+  - time: 10:30 - 11:30 
+    kind: lecture
+    topic: Lecture 3
+  - time: 11:30 - 13:30 
+    kind: break
+    topic: Lunch break 
+  - time: 13:30 - 15:30 
+    kind: workshop
+    topic: Workshop I
+  - time: 15:30 - 16:00 
+    kind: break
+    topic: Coffee break
+  - time: 16:00 - 18:00 
+    kind: workshop 
+    topic: Workshop II
+
+Wednesday:
+  experimental:
+    schedule:
+    - time: 8:45 - 9:00 
+      kind: break
+      topic: Arrival
+    - time: 9:00 - 10:00 
+      kind: "lecture"
+      topic: Lecture 1
+    - time: 10:00 - 11:00 
+      kind: "lecture"
+      topic: Lecture 2
+    - time: 11:00 - 11:15
+      kind: break 
+      topic: Coffee break
+    - time: 11:15 - 12:00 
+      kind: break
+      topic: Lecture 3
+    - time: 12:00 - 13:30 
+      kind: break
+      topic: Lunch break 
+    - time: 13:30 - 15:30 
+      kind: workshop 
+      topic: Workshop I
+    - time: 15:30 - 16:00 
+      kind: break
+      topic: Coffee break
+    - time: 16:00 - 18:00 
+      kind: workshop 
+      topic: Workshop II
+  computational:
+    schedule:
+    - time: 8:45 - 9:00 
+      kind: break
+      topic: Arrival
+    - time: 9:00 - 10:00 
+      kind: "lecture"
+      topic: "Lecture: software design patterns in research code." 
+    - time: 10:00 - 11:00 
+      kind: "lecture"
+      topic: "Lecture: coding with style" 
+    - time: 11:00 - 11:15
+      kind: break 
+      topic: Coffee break
+    - time: 11:15 - 12:00 
+      kind: workshop 
+      topic: Github crash course
+    - time: 12:00 - 13:30 
+      kind: break
+      topic: Lunch break 
+    - time: 13:30 - 15:30 
+      kind: workshop 
+      topic: Binder workshop
+    - time: 15:30 - 16:00 
+      kind: break
+      topic: Coffee break
+    - time: 16:00 - 18:00 
+      kind: workshop 
+      topic: Containerization workshop
+
+Friday:
+  schedule:
+  - time: 8:15 - 8:30
+    kind: break
+    topic: Arrival
+  - time: 8:30 - 10:30 
+    kind: workshop 
+    topic: Workshop
+  - time: 10:30 - 11:00 
+    kind: break
+    topic: Coffee break
+  - time: 11:00 - 12:00 
+    kind: workshop
+    topic: Student presentations
+  - time: 12:30 - 13:00 
+    kind: lecture
+    topic: Conclusions
+  - time: 13:00 - 14:00 
+    kind: break
+    topic: Goodbye lunch

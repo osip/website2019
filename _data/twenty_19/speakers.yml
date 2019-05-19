@@ -1,45 +1,43 @@
-- title:  # 
-  name: Anita Bröllochs # no spaces allowed.
+- id: anita_broellochs
+  name: Anita Bröllochs
   subtitle: Head of Outreach, Protocols.io
-  img: AnitaBroellochs.jpg
-  thumbnail: AnitaBroellochs.jpg
+  img: dummy.jpg
+  thumbnail: dummy.jpg
+  # img: AnitaBroellochs.jpg
+  # thumbnail: AnitaBroellochs.jpg
   alt: Picture of Anita Bröllochs
   topic: Detailed experimental methods for reproducible science
-  description: Anita Bröllochs is working closely with the scientific community to help make research more reproducible. She has a strong passion for open access and tools that help accelerate scientific discoveries. Anita studied Life Science Engineering at the Friedrich-Alexander University Erlangen-Nürnberg, Germany. Her background is in optical clearing of skeletal muscle tissue for multi-photon microscopy. 
+  description: Anita Bröllochs is working closely with the scientific community to help make research more reproducible. She has a strong passion for open access and tools that help accelerate scientific discoveries. Anita studied Life Science Engineering at the Friedrich-Alexander University Erlangen-Nürnberg, Germany. Her background is in optical clearing of skeletal muscle tissue for multi-photon microscopy.
 
-- title: Dr.
+- id: maximilian_strauss
   name: Maximilian Strauss
   subtitle: Postdoctoral Researcher, Ludwig-Maximilians Universität München and Max Planck Institute of Biochemistry
-  img: MaxStrauss.jpg
-  thumbnail: MaxStrauss.jpg
+  # img: MaxStrauss.jpg
+  # thumbnail: MaxStrauss.jpg
+  img: dummy.jpg
+  thumbnail: dummy.jpg
   alt: Picture of Maximilian Strauss
-  topic: Employing Open Source: A case study
+  topic: "Employing Open Source: A case study"
   description: Maximilian is a mechanical engineer with specialization in medical technology / biomedical engineering with a research doctorate in physics. Being fascinated by the question of What is Life? he decided to dive into Biophysics to understand the physical aspects of the building blocks of life. To study these objects, he built microscopes and employed super-resolution microscopy techniques. During his research, he noticed the increasing demand for computational methods to gather meaningful data and was amazed to explore the state of the art of Machine Learning and the Open Source community. Having now found a great workhorse in Python he is eager to apply cutting-edge algorithms and statistical methods to bring meaningful insight into data and optimize technology. He is currently working at the Max Planck Institute of Biochemistry in the group of Matthias Mann.
 
-- title: Dr.
+- id: fatma_deniz
   name: Fatma Deniz
   subtitle: Postdoctoral Fellow, University of California Berkeley, and visiting scientist at the Technical University Berlin.
-  img: FatmaDeniz.jpg
-  thumbnail: FatmaDeniz.jpg
+  # img: FatmaDeniz.jpg
+  # thumbnail: FatmaDeniz.jpg
+  img: dummy.jpg
+  thumbnail: dummy.jpg
   alt: Picture of Fatma Deniz
   topic: Reproducible Science
-  description: Prior her current position, Fatma was a Moore-Sloan Data Science Fellow at Berkeley Institute for Data Science and a fellow at the International Computer Science Institute in Berkeley. She is interested in how sensory information is encoded in the brain and uses machine-learning approaches to fit computational models to large-scale brain data. Her current work focuses on cross-modal language representation in the human brain. She did her Ph.D. in Dr. John-Dylan Haynes’s laboratory at Bernstein Center for Computational Neuroscience in Berlin, where she studied functional connectivity changes during conscious perception in humans. She got a bachelor’s and master’s degrees in Computer Science from the Technical University Munich. During her master’s work Dr. Deniz worked with Dr. Christof Koch at Caltech, where she studied visual saliency and automated text detection.
-As an advocate of reproducible research practices, she is the editor of the book titled “The Practice of Reproducible Research”. In addition, she works on improving Internet security applications using the knowledge gained from cognitive neuroscience and Mooney images (mooneyauth.org). Her work is at the intersection between computer science, human cognition, and neuroscience. She is a passionate coder, baker, and loves to play the cello.
-  
-- title: Prof.
+  description: Prior her current position, Fatma was a Moore-Sloan Data Science Fellow at Berkeley Institute for Data Science and a fellow at the International Computer Science Institute in Berkeley. She is interested in how sensory information is encoded in the brain and uses machine-learning approaches to fit computational models to large-scale brain data. Her current work focuses on cross-modal language representation in the human brain. She did her Ph.D. in Dr. John-Dylan Haynes’s laboratory at Bernstein Center for Computational Neuroscience in Berlin, where she studied functional connectivity changes during conscious perception in humans. She got a bachelor’s and master’s degrees in Computer Science from the Technical University Munich. During her master’s work Dr. Deniz worked with Dr. Christof Koch at Caltech, where she studied visual saliency and automated text detection. As an advocate of reproducible research practices, she is the editor of the book titled “The Practice of Reproducible Research”. In addition, she works on improving Internet security applications using the knowledge gained from cognitive neuroscience and Mooney images (mooneyauth.org). Her work is at the intersection between computer science, human cognition, and neuroscience. She is a passionate coder, baker, and loves to play the cello.
+
+- id: marc_robinson_rechavi
   name: Marc Robinson-Rechavi
   subtitle: Associate Professor of Bioinformatics at University of Lausanne, and Group Leader of Evolutionary Bioinformatics at the Swiss Institute of Bioinformatics.
-  img: MarcRR.jpg
-  thumbnail: MarcRR.jpg
+  # img: MarcRR.jpg
+  # thumbnail: MarcRR.jpg
+  img: dummy.jpg
+  thumbnail: dummy.jpg
   alt: Picture of Marc Robinson-Rechavi
   topic: Preprints
   description: Research in the group of Marc Robinson-Rechavi is mainly focused on linking the evolution of animal development to genome evolution. The group develops database for evolutionary biology, and studies genome evolution in vertebrates. The group is also involved in targeted projects in functional genomics.
-  
-  - title: # Title
-  name: # Full Name
-  subtitle: # Position
-  img: dummy.jpg
-  thumbnail: dummy.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
