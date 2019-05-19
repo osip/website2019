@@ -920,14 +920,14 @@ body {
 
 
 /* Agenda additional styles */
-/* .break { */
-/*   background-color: #{{ site.data.template.color.light-grey }}; */
-/* } */
-/*  */
-/* .workshop { */
-/*   background-color: #{{ site.data.template.color.light-red }}; */
-/* } */
-/*  */
-/* .lecture { */
-/*   background-color: #{{ site.data.template.color.light-green }}; */
-/* } */
+.break {
+   font-style: italic;
+}
+
+.workshop {
+   font-weight: bold;
+}
+
+.lecture {
+   font-weight: bold;
+}

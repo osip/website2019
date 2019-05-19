@@ -24,16 +24,7 @@
                 {{ slot.time }} 
               </td>
               <td > 
-                {% if slot.kind == "lecture" or slot.kind == "workshop"%}
-                <b> {{ slot.title }} {{ slot.topic }} </b> 
-                <i> {{ slot.name }} 
-                  {% if slot.position %}
-                  ({{ slot.position }}) 
-                  {% endif %}
-                </i> 
-                {% else if slot.kind == "break" %}
-                <b> {{ slot.topic }} </b> 
-                {% endif %}
+                {{ slot.topic }}
               </td>
               <td class="{{ slot.kind }}" > 
                 {{ slot.location }}
@@ -63,16 +54,7 @@
                 {{ slot.time }} 
               </td>
               <td > 
-                {% if slot.kind == "lecture" or slot.kind == "workshop"%}
-                <b> {{ slot.title }} {{ slot.topic }} </b> 
-                <i> {{ slot.name }} 
-                  {% if slot.position %}
-                  ({{ slot.position }}) 
-                  {% endif %}
-                </i> 
-                {% else if slot.kind == "break" %}
-                <b> {{ slot.topic }} </b> 
-                {% endif %}
+                {{ slot.topic }}
               </td>
               <td class="{{ slot.kind }}" > 
                 {{ slot.location }}
