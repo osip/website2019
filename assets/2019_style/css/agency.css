@@ -315,7 +315,7 @@ fieldset[disabled] .btn-xl.active {
   }
 
   .navbar-default .navbar-nav>.active>a {
-    border-radius: 2px;
+    border-radius: 3px;
   }
 
   .navbar-default.navbar-shrink {
@@ -333,7 +333,7 @@ header {
   text-align: center;
   color: #fff;
   background-attachment: scroll;
-  background-image: url('img/header-bg.jpg');
+  background-image: url('../img/header-bg.jpg');
   background-position: center center;
   background-repeat: none;
   -webkit-background-size: cover;
@@ -555,13 +555,14 @@ font-style: italic;
   z-index: 100;
   position: absolute;
   left: 0;
-  max-width: 80px;
-  width: 100%;
-  margin: auto;
+  width: 80px;
+  height: 80px;
+  margin-left: 0;
+  border: 7px solid #f1f1f1;
+  border-radius: 100%;
   text-align: center;
   color: #fff;
-  background-color: none;
-  padding-top: 30px;
+  background-color: #{{ site.data.template.color.primary }};
 }
 
 .timeline>li .timeline-image h4 {
@@ -626,11 +627,16 @@ font-style: italic;
   }
 
   .timeline>li .timeline-image {
-    left: 45%;
+    left: 50%;
+    width: 100px;
+    height: 100px;
+    margin-left: -50px;
   }
 
   .timeline>li .timeline-image h4 {
-    left: 45%;
+    margin-top: 16px;
+    font-size: 100%;
+    line-height: 18px;
   }
 
   .timeline>li.timeline-inverted>.timeline-panel {
@@ -650,7 +656,9 @@ font-style: italic;
   }
 
   .timeline>li .timeline-image {
-    left: 45%;
+    width: 150px;
+    height: 150px;
+    margin-left: -75px;
   }
 
   .timeline>li .timeline-image h4 {
@@ -674,7 +682,9 @@ font-style: italic;
   }
 
   .timeline>li .timeline-image {
-    left: 45%;
+    width: 170px;
+    height: 170px;
+    margin-left: -85px;
   }
 
   .timeline>li .timeline-image h4 {
@@ -692,7 +702,7 @@ aside.clients img {
 
 section#contact {
   background-color: #222;
-  background-image: url('img/map-image.png');
+  background-image: url('../img/map-image.png');
   background-position: center;
   background-repeat: no-repeat;
 }
@@ -862,7 +872,7 @@ ul.social-buttons li a:active {
 
 .portfolio-modal .close-modal .lr {
   z-index: 1051;
-  width: 2px;
+  width: 1px;
   height: 75px;
   margin-left: 35px;
   background-color: #222;
@@ -873,7 +883,7 @@ ul.social-buttons li a:active {
 
 .portfolio-modal .close-modal .lr .rl {
   z-index: 1052;
-  width: 2px;
+  width: 1px;
   height: 75px;
   background-color: #222;
   -webkit-transform: rotate(90deg);

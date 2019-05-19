@@ -42,6 +42,27 @@
 }
 
 
+.agenda-day {
+  margin-top: 40px;
+}
+
+
+/* Agenda additional styles */
+.break {
+   font-style: italic;
+}
+
+.workshop {
+   font-weight: bold;
+}
+
+.lecture {
+   font-weight: bold;
+}
+
+.table-agenda {
+}
+
 @media screen and (max-width: 760px){
     .agenda {
         .agenda-time {

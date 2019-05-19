@@ -1,3 +1,24 @@
+.icon-about {
+  margin: 180px;
+}
+//
+.icon-text {
+}
+.icon-image {
+  max-width: 80px;
+}
+
+.icon-left {
+  // left: 400px;
+  // position: absolute;
+}
+
+.icon-right {
+  // right: 400px;
+  // position: absolute;
+}
+
+
 .about {
   padding: 5%;
   margin: 30px 15vw 30px 15vw;
@@ -31,6 +52,12 @@
   h2.third {
     width: 150px;
   }
+}
+
+.about-image {
+  width: 50%;
+  margin: auto;
+  margin-top: 50px;
 }
 
 .about-container-top {

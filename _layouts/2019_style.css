@@ -1,3 +1,5 @@
 {% include 2019_css/bootstrap.min.css %}
 {% include 2019_css/agency.css %}
+{% include 2019_css/critical.css %}
 {{ content }}
+

@@ -1,4 +1,31 @@
-- intro1:
-  text: It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends
-- intro2:
-  text: It is our choices, Harry, that show what we truly are, far more than our abilities. 
+# - intro1:
+#   text: It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends
+# - intro2:
+#   text: It is our choices, Harry, that show what we truly are, far more than our abilities. 
+#
+icons:
+  cite:
+    - text: "Cite text"
+      alt: "cite"
+      img: "cite.png"
+      side: "left"
+  code:
+    - text: "Code text"
+      alt: "code"
+      img: "code.png"
+      side: "right"
+  people:
+    - text: "People text"
+      alt: "people"
+      img: "people.png"
+      side: "left"
+  share:
+    - text: "Share text"
+      alt: "share"
+      img: "share.png"
+      side: "right"
+  unlock:
+    - text: "Unlock text"
+      alt: "unlock"
+      img: "unlock.png"
+      side: "left"

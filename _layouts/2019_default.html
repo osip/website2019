@@ -4,7 +4,7 @@
   <style type="text/css">
     /*INCLUDE MAIN CSS FILE*/
     {% capture criticalcss %}
-      {% include /2019_css/critical.scss %}
+      {% include /2019_css/critical.css %}
     {% endcapture %}
     {{ criticalcss | scssify }}
   </style>
@@ -14,7 +14,7 @@
 
   <body>
     {% include /2019_data/header.html %}
-        {{ content }}
+    {{ content }}
   </body>
   {% include /2019_data/footer.html %}
 </html>

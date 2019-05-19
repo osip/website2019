@@ -1,0 +1,23 @@
+---
+---
+$black: '#444444';
+$color_primary: '#79B473';
+$color_secondary: '#82C67B';
+$color_secondary-dark: '#79B473';
+$color_muted: '#777';
+$light-grey: '#fafafa';
+$light-green: '#eaf5e9';
+$light-red: '#fae7e7';
+
+$font_title: "Roboto Slab";
+$font_primary: "Lato", "Helvetica Neue",Helvetica,Arial,sans-serif;
+$font_secondary: "Lato", "Helvetica Neue",Helvetica,Arial,sans-serif;
+
+@import "2019_sass/more";
+@import "2019_sass/404";
+@import "2019_sass/agenda";
+@import "2019_sass/team";
+@import "2019_sass/event";
+@import "2019_sass/form";
+@import "2019_sass/sponsors";
+@import "2019_sass/about";
