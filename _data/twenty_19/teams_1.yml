@@ -1,8 +1,9 @@
 # Put images in assets/2019_style/img/team/
-- name: Manfred Mustermann
-  position: Position
-  thumbnail: TBD.jpg
-  email: hello.world@gmail.com
+- name: Luc Henry
+  position: Scientific Advisor, EPFL
+  thumbnail: LucHenry.jpg
+  email: luc.henry@epfl.ch
+  twitter: @heluc
 
 - name: John Doe
   position: Position
