@@ -117,3 +117,18 @@
   website:
   topic: Closing remarks
   description: Martin Vetterli is the President of the Swiss Federal Institute of Technology Lausanne (EPFL) since 2017. After a degree in electrical engineering from the ETH Zürich in 1981, he graduated from the Stanford University in 1982. He then obtained his doctorate in science at EPFL in 1986 and went on to teach at Columbia University as an assistant and then associate professor. In 1993, he was appointed ordinary professor in the Department of Electrical Engineering and Computer Science of the University of Berkeley. Since 1995, he is a full professor at the audiovisual communications laboratory at EPFL. From 2013 to 2016, Martin Vetterli was President of the National Research Council of the Swiss National Science Foundation (SNSF). In this role, he strengthened the promotion of young scientists under the 2013-2016 multiannual programme, as well as the SNSF’s commitment to Open Access and Open Science.
+
+- id: malvika_sharan
+  name: Malvika Sharan
+  subtitle:Computational Biologist, EMBL, Heidelberg, Germany
+  # img: MalvikaSharan.jpg
+  # thumbnail: MalvikaSharan.jpg
+  img: dummy.jpg
+  thumbnail: dummy.jpg
+  alt: Picture of Malvika Sharan
+  twitter: @MalvikaSharan
+  github: @malvikasharan
+  linkedin: https://www.linkedin.com/in/malvikasharan/
+  website: https://about.me/malvikasharan
+  topic: Closing remarks
+  description: Malvika is a computational biologist at the European Molecular Biology Laboratory, Heidelberg, Germany, where she coordinates the Bio-IT project, a community-driven platform for bioinformaticians. She organizes training activities and events for EMBL, de.NBI/ELIXIR Germany and other open source communities such as The Carpentries. She promotes diversity and open access through her work as a community outreach coordinator.
