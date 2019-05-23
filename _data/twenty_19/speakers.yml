@@ -8,7 +8,7 @@
   alt: Picture of Anita Bröllochs
   twitter: @AnitaBroellochs
   github:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/anita-bröllochs-a42119100/
   website:
   topic: Detailed experimental methods for reproducible science
   description: Anita Bröllochs is working closely with the scientific community to help make research more reproducible. She has a strong passion for open access and tools that help accelerate scientific discoveries. Anita studied Life Science Engineering at the Friedrich-Alexander University Erlangen-Nürnberg, Germany. Her background is in optical clearing of skeletal muscle tissue for multi-photon microscopy.
@@ -23,7 +23,7 @@
   alt: Picture of Maximilian Strauss
   twitter: @maxtstrauss
   github:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/maximiliantstrauss/
   website:
   topic: "Employing Open Source: A case study"
   description: Maximilian is a mechanical engineer with specialization in medical technology / biomedical engineering with a research doctorate in physics. Being fascinated by the question of What is Life? he decided to dive into Biophysics to understand the physical aspects of the building blocks of life. To study these objects, he built microscopes and employed super-resolution microscopy techniques. During his research, he noticed the increasing demand for computational methods to gather meaningful data and was amazed to explore the state of the art of Machine Learning and the Open Source community. Having now found a great workhorse in Python he is eager to apply cutting-edge algorithms and statistical methods to bring meaningful insight into data and optimize technology. He is currently working at the Max Planck Institute of Biochemistry in the group of Matthias Mann.
@@ -38,7 +38,7 @@
   alt: Picture of Fatma Deniz
   twitter: 
   github:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/fatma-deniz-57075938/
   website:
   topic: Reproducible Science
   description: Prior her current position, Fatma was a Moore-Sloan Data Science Fellow at Berkeley Institute for Data Science and a fellow at the International Computer Science Institute in Berkeley. She is interested in how sensory information is encoded in the brain and uses machine-learning approaches to fit computational models to large-scale brain data. Her current work focuses on cross-modal language representation in the human brain. She did her Ph.D. in Dr. John-Dylan Haynes’s laboratory at Bernstein Center for Computational Neuroscience in Berlin, where she studied functional connectivity changes during conscious perception in humans. She got a bachelor’s and master’s degrees in Computer Science from the Technical University Munich. During her master’s work Dr. Deniz worked with Dr. Christof Koch at Caltech, where she studied visual saliency and automated text detection. As an advocate of reproducible research practices, she is the editor of the book titled “The Practice of Reproducible Research”. In addition, she works on improving Internet security applications using the knowledge gained from cognitive neuroscience and Mooney images (mooneyauth.org). Her work is at the intersection between computer science, human cognition, and neuroscience. She is a passionate coder, baker, and loves to play the cello.
@@ -53,7 +53,7 @@
   alt: Picture of Marc Robinson-Rechavi
   twitter: @marc_rr
   github:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/marcrobinsonrechavi/
   website:
   topic: Preprints
   description: Research in the group of Marc Robinson-Rechavi is mainly focused on linking the evolution of animal development to genome evolution. The group develops database for evolutionary biology, and studies genome evolution in vertebrates. The group is also involved in targeted projects in functional genomics.
@@ -68,7 +68,7 @@
   alt: Picture of Jon Tennant
   twitter: @Protohedgehog
   github:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/jonathan-tennant-3546953a/
   website:
   topic: Open Science: just science done right?
   description: Jon completed his award-winning PhD at Imperial College London where he researched evolutionary patterns in animals like dinosaurs and crocodiles. He was the Communications Director of ScienceOpen for 2 years, but has spent the last two years as an independent researcher. He is the founder of the Open Science MOOC, the digital publishing platform paleorXiv, and currently works as a PLOS Paleo Community Editor. He has spent much of his recent time challenging the business practices of the scholarly publishing industry, including working with Education International on a global campaign to democratise knowledge. He is also a Shuttleworth Flash grantee, and has also won an award for this work on peer review. As well as this, Jon was the lead author of the Foundations for Open Scholarship Strategy Development, is co-author for the Open Science Training Handbook, and is the Executive Editor for the OA journal Geoscience Communication. He has also written several kids books on dinosaurs.
@@ -83,7 +83,7 @@
   alt: Picture of Michel Jaccard
   twitter: @MichelJaccard
   github:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/jaccard/
   website:
   topic: Open Science: what can we expect from lawyers?
   description: Michel is the founder of corporate and technology boutique firm id est avocats, Lausanne. He has been involved in the last 20 years in more than a hundred corporate finance and M&A deals in Switzerland and abroad, acting for entrepreneurs and owners, venture capital and private equity firms, industrial buyers and financial sponsors. Along his corporate expertise, he sits on several advisory boards and regularly helps C-level execs and board members of SMEs and global brands navigate the world of advanced technologies, distributed computing, open source and open access, data protection and cybersecurity, and more generally manage their online presence and digital transformation. Michel holds a JD and PhD from the University of Lausanne and an LLM from Columbia Law School (Stone Scholar, Fulbright grantee). He also maintains a blog on innovation and technology law and frequently acts as jury member or mentor in national and international startup competitions.
@@ -98,7 +98,7 @@
   alt: Picture of Stephan Heunis
   twitter: @jsheunis
   github:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/stephan-heunis-4b558154/
   website:
   topic: Practical tips for building open science communities
   description: 
@@ -113,14 +113,14 @@
   alt: Picture of Martin Vetterli
   twitter: @MartinVetterli
   github:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/martin-vetterli-13842082/
   website:
   topic: Closing remarks
   description: Martin Vetterli is the President of the Swiss Federal Institute of Technology Lausanne (EPFL) since 2017. After a degree in electrical engineering from the ETH Zürich in 1981, he graduated from the Stanford University in 1982. He then obtained his doctorate in science at EPFL in 1986 and went on to teach at Columbia University as an assistant and then associate professor. In 1993, he was appointed ordinary professor in the Department of Electrical Engineering and Computer Science of the University of Berkeley. Since 1995, he is a full professor at the audiovisual communications laboratory at EPFL. From 2013 to 2016, Martin Vetterli was President of the National Research Council of the Swiss National Science Foundation (SNSF). In this role, he strengthened the promotion of young scientists under the 2013-2016 multiannual programme, as well as the SNSF’s commitment to Open Access and Open Science.
 
 - id: malvika_sharan
   name: Malvika Sharan
-  subtitle:Computational Biologist, EMBL, Heidelberg, Germany
+  subtitle: Computational Biologist, EMBL, Heidelberg, Germany
   # img: MalvikaSharan.jpg
   # thumbnail: MalvikaSharan.jpg
   img: dummy.jpg
@@ -130,5 +130,20 @@
   github: @malvikasharan
   linkedin: https://www.linkedin.com/in/malvikasharan/
   website: https://about.me/malvikasharan
-  topic: Closing remarks
+  topic: Diversity and inclusiveness in Open Science
   description: Malvika is a computational biologist at the European Molecular Biology Laboratory, Heidelberg, Germany, where she coordinates the Bio-IT project, a community-driven platform for bioinformaticians. She organizes training activities and events for EMBL, de.NBI/ELIXIR Germany and other open source communities such as The Carpentries. She promotes diversity and open access through her work as a community outreach coordinator.
+
+- id: frederic_schutz
+  name: Frédéric Schütz
+  subtitle: Statistician at Swiss Institute of Bioinformatics, Wikipedian
+  # img: FrédéricSchutz.jpg
+  # thumbnail: FrédéricSchutz.jpg
+  img: dummy.jpg
+  thumbnail: dummy.jpg
+  alt: Picture of Frédéric Schütz
+  twitter: @fredericschutz
+  github: 
+  linkedin: https://www.linkedin.com/in/malvikasharan/
+  website: https://about.me/malvikasharan
+  topic: Wikipedia and Open Science
+  description: 
