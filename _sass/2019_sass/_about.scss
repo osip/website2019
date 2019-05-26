@@ -1,23 +1,32 @@
 .icon-about {
   margin: 180px;
 }
-//
+
+.icon-list {
+  list-style-type: none;
+}
+
+.icon-item {
+  text-align: center; margin: 1em 0;
+}
 .icon-text {
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
 }
 .icon-image {
-  max-width: 80px;
-}
+  vertical-align: middle;
+  max-height: 40px;
+  // max-width: 160px;
+  // float: left;
+  // width: 40px;
+  // margin-right: 20px;
+  // vertical-align: middle
+  // height: 100%;
+  // padding-bottom: 50px;
 
-.icon-left {
-  // left: 400px;
-  // position: absolute;
+  // margin-bottom: 5px;
 }
-
-.icon-right {
-  // right: 400px;
-  // position: absolute;
-}
-
 
 .about {
   padding: 5%;
@@ -41,7 +50,7 @@
     color: white;
     padding: 5px 5px 5px 10px;
     -webkit-clip-path: polygon(0 0, 100% 0, 85% 100%, 0 100%);
-    clip-path: polygon(0 0, 100% 0, 85% 100%, 0 100%);       
+    clip-path: polygon(0 0, 100% 0, 85% 100%, 0 100%);
   }
   h2.first {
     width: 190px;
