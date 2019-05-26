@@ -1,12 +1,10 @@
 - id: anita_broellochs
   name: Anita Bröllochs
   subtitle: Head of Outreach, Protocols.io
-  img: dummy.jpg
-  thumbnail: dummy.jpg
-  # img: AnitaBroellochs.jpg
-  # thumbnail: AnitaBroellochs.jpg
+  img: AnitaBroellochs.jpg
+  thumbnail: AnitaBroellochs.jpg
   alt: Picture of Anita Bröllochs
-  twitter: @AnitaBroellochs
+  twitter: "@AnitaBroellochs"
   github:
   linkedin: https://www.linkedin.com/in/anita-bröllochs-a42119100/
   website:
@@ -16,12 +14,10 @@
 - id: maximilian_strauss
   name: Maximilian Strauss
   subtitle: Postdoctoral Researcher, Ludwig-Maximilians Universität München and Max Planck Institute of Biochemistry
-  # img: MaxStrauss.jpg
-  # thumbnail: MaxStrauss.jpg
-  img: dummy.jpg
-  thumbnail: dummy.jpg
+  img: MaxStrauss.jpg
+  thumbnail: MaxStrauss.jpg
   alt: Picture of Maximilian Strauss
-  twitter: @maxtstrauss
+  twitter: "@maxtstrauss"
   github:
   linkedin: https://www.linkedin.com/in/maximiliantstrauss/
   website:
@@ -31,12 +27,10 @@
 - id: fatma_deniz
   name: Fatma Deniz
   subtitle: Postdoctoral Fellow, University of California Berkeley, and visiting scientist at the Technical University Berlin.
-  # img: FatmaDeniz.jpg
-  # thumbnail: FatmaDeniz.jpg
-  img: dummy.jpg
-  thumbnail: dummy.jpg
+  img: FatmaDeniz.jpg
+  thumbnail: FatmaDeniz.jpg
   alt: Picture of Fatma Deniz
-  twitter: 
+  twitter:
   github:
   linkedin: https://www.linkedin.com/in/fatma-deniz-57075938/
   website:
@@ -46,12 +40,10 @@
 - id: marc_robinson_rechavi
   name: Marc Robinson-Rechavi
   subtitle: Associate Professor of Bioinformatics at University of Lausanne, and Group Leader of Evolutionary Bioinformatics at the Swiss Institute of Bioinformatics.
-  # img: MarcRR.jpg
-  # thumbnail: MarcRR.jpg
-  img: dummy.jpg
-  thumbnail: dummy.jpg
+  img: MarcRR.jpg
+  thumbnail: MarcRR.jpg
   alt: Picture of Marc Robinson-Rechavi
-  twitter: @marc_rr
+  twitter: "@marc_rr"
   github:
   linkedin: https://www.linkedin.com/in/marcrobinsonrechavi/
   website:
@@ -60,58 +52,50 @@
 
 - id: jon_tennant
   name: Jon Tennant
-  subtitle: 
-  # img: JonTennant.jpg
-  # thumbnail: JonTennant.jpg
-  img: dummy.jpg
-  thumbnail: dummy.jpg
+  subtitle:
+  img: JonTennant.jpg
+  thumbnail: JonTennant.jpg
   alt: Picture of Jon Tennant
-  twitter: @Protohedgehog
+  twitter: "@Protohedgehog"
   github:
   linkedin: https://www.linkedin.com/in/jonathan-tennant-3546953a/
   website:
-  topic: Open Science: just science done right?
+  topic: "Open Science: just science done right?"
   description: Jon completed his award-winning PhD at Imperial College London where he researched evolutionary patterns in animals like dinosaurs and crocodiles. He was the Communications Director of ScienceOpen for 2 years, but has spent the last two years as an independent researcher. He is the founder of the Open Science MOOC, the digital publishing platform paleorXiv, and currently works as a PLOS Paleo Community Editor. He has spent much of his recent time challenging the business practices of the scholarly publishing industry, including working with Education International on a global campaign to democratise knowledge. He is also a Shuttleworth Flash grantee, and has also won an award for this work on peer review. As well as this, Jon was the lead author of the Foundations for Open Scholarship Strategy Development, is co-author for the Open Science Training Handbook, and is the Executive Editor for the OA journal Geoscience Communication. He has also written several kids books on dinosaurs.
 
 - id: michel_jaccard
   name: Michel Jaccard
   subtitle: id est avocats
-  # img: MichelJaccard.jpg
-  # thumbnail: MichelJaccard.jpg
-  img: dummy.jpg
-  thumbnail: dummy.jpg
+  img: MichelJaccard.jpg
+  thumbnail: MichelJaccard.jpg
   alt: Picture of Michel Jaccard
-  twitter: @MichelJaccard
+  twitter: "@MichelJaccard"
   github:
   linkedin: https://www.linkedin.com/in/jaccard/
   website:
-  topic: Open Science: what can we expect from lawyers?
+  topic: "Open Science: what can we expect from lawyers?"
   description: Michel is the founder of corporate and technology boutique firm id est avocats, Lausanne. He has been involved in the last 20 years in more than a hundred corporate finance and M&A deals in Switzerland and abroad, acting for entrepreneurs and owners, venture capital and private equity firms, industrial buyers and financial sponsors. Along his corporate expertise, he sits on several advisory boards and regularly helps C-level execs and board members of SMEs and global brands navigate the world of advanced technologies, distributed computing, open source and open access, data protection and cybersecurity, and more generally manage their online presence and digital transformation. Michel holds a JD and PhD from the University of Lausanne and an LLM from Columbia Law School (Stone Scholar, Fulbright grantee). He also maintains a blog on innovation and technology law and frequently acts as jury member or mentor in national and international startup competitions.
 
 - id: stephan_heunis
   name: Stephan Heunis
   subtitle: PhD candidate at the Electrical Engineering department of the Eindhoven University of Technology, The Netherlands
-  # img: StephanHeunis.jpg
-  # thumbnail: StephanHeunis.jpg
-  img: dummy.jpg
-  thumbnail: dummy.jpg
+  img: StephanHeunis.jpg
+  thumbnail: StephanHeunis.jpg
   alt: Picture of Stephan Heunis
-  twitter: @jsheunis
+  twitter: "@jsheunis"
   github:
   linkedin: https://www.linkedin.com/in/stephan-heunis-4b558154/
   website:
   topic: Practical tips for building open science communities
-  description: 
-  
+  description:
+
 - id: martin_vetterli
   name: Martin Vetterli
   subtitle:
-  # img: MartinVetterli.jpg
-  # thumbnail: MartinVetterli.jpg
-  img: dummy.jpg
-  thumbnail: dummy.jpg
+  img: MartinVetterli.jpg
+  thumbnail: MartinVetterli.jpg
   alt: Picture of Martin Vetterli
-  twitter: @MartinVetterli
+  twitter: "@MartinVetterli"
   github:
   linkedin: https://www.linkedin.com/in/martin-vetterli-13842082/
   website:
@@ -121,13 +105,11 @@
 - id: malvika_sharan
   name: Malvika Sharan
   subtitle: Computational Biologist, EMBL, Heidelberg, Germany
-  # img: MalvikaSharan.jpg
-  # thumbnail: MalvikaSharan.jpg
-  img: dummy.jpg
-  thumbnail: dummy.jpg
+  img: MalvikaSharan.jpg
+  thumbnail: MalvikaSharan.jpg
   alt: Picture of Malvika Sharan
-  twitter: @MalvikaSharan
-  github: @malvikasharan
+  twitter: "@MalvikaSharan"
+  github: "malvikasharan"
   linkedin: https://www.linkedin.com/in/malvikasharan/
   website: https://about.me/malvikasharan
   topic: Diversity and inclusiveness in Open Science
@@ -136,14 +118,12 @@
 - id: frederic_schutz
   name: Frédéric Schütz
   subtitle: Statistician at Swiss Institute of Bioinformatics, Wikipedian
-  # img: FrédéricSchutz.jpg
-  # thumbnail: FrédéricSchutz.jpg
-  img: dummy.jpg
-  thumbnail: dummy.jpg
+  img: FredericSchutz.jpg
+  thumbnail: FredericSchutz.jpg
   alt: Picture of Frédéric Schütz
-  twitter: @fredericschutz
-  github: 
+  twitter: "@fredericschutz"
+  github:
   linkedin: https://www.linkedin.com/in/malvikasharan/
   website: https://about.me/malvikasharan
   topic: Wikipedia and Open Science
-  description: 
+  description:
