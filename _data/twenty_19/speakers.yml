@@ -4,7 +4,7 @@
   img: AnitaBroellochs.jpg
   thumbnail: AnitaBroellochs.jpg
   alt: Picture of Anita Bröllochs
-  twitter: "@AnitaBroellochs"
+  twitter: AnitaBroellochs
   github:
   linkedin: https://www.linkedin.com/in/anita-bröllochs-a42119100/
   website:
@@ -17,7 +17,7 @@
   img: MaxStrauss.jpg
   thumbnail: MaxStrauss.jpg
   alt: Picture of Maximilian Strauss
-  twitter: "@maxtstrauss"
+  twitter: maxtstrauss
   github:
   linkedin: https://www.linkedin.com/in/maximiliantstrauss/
   website:
@@ -43,7 +43,7 @@
   img: MarcRR.jpg
   thumbnail: MarcRR.jpg
   alt: Picture of Marc Robinson-Rechavi
-  twitter: "@marc_rr"
+  twitter: marc_rr
   github:
   linkedin: https://www.linkedin.com/in/marcrobinsonrechavi/
   website:
@@ -56,7 +56,7 @@
   img: JonTennant.jpg
   thumbnail: JonTennant.jpg
   alt: Picture of Jon Tennant
-  twitter: "@Protohedgehog"
+  twitter: Protohedgehog
   github:
   linkedin: https://www.linkedin.com/in/jonathan-tennant-3546953a/
   website:
@@ -69,7 +69,7 @@
   img: MichelJaccard.jpg
   thumbnail: MichelJaccard.jpg
   alt: Picture of Michel Jaccard
-  twitter: "@MichelJaccard"
+  twitter: MichelJaccard
   github:
   linkedin: https://www.linkedin.com/in/jaccard/
   website:
@@ -82,7 +82,7 @@
   img: StephanHeunis.jpg
   thumbnail: StephanHeunis.jpg
   alt: Picture of Stephan Heunis
-  twitter: "@jsheunis"
+  twitter: jsheunis
   github:
   linkedin: https://www.linkedin.com/in/stephan-heunis-4b558154/
   website:
@@ -95,7 +95,7 @@
   img: MartinVetterli.jpg
   thumbnail: MartinVetterli.jpg
   alt: Picture of Martin Vetterli
-  twitter: "@MartinVetterli"
+  twitter: MartinVetterli
   github:
   linkedin: https://www.linkedin.com/in/martin-vetterli-13842082/
   website:
@@ -108,8 +108,8 @@
   img: MalvikaSharan.jpg
   thumbnail: MalvikaSharan.jpg
   alt: Picture of Malvika Sharan
-  twitter: "@MalvikaSharan"
-  github: "malvikasharan"
+  twitter: MalvikaSharan
+  github: malvikasharan
   linkedin: https://www.linkedin.com/in/malvikasharan/
   website: https://about.me/malvikasharan
   topic: Diversity and inclusiveness in Open Science
@@ -121,7 +121,7 @@
   img: FredericSchutz.jpg
   thumbnail: FredericSchutz.jpg
   alt: Picture of Frédéric Schütz
-  twitter: "@fredericschutz"
+  twitter: fredericschutz
   github:
   linkedin: https://www.linkedin.com/in/malvikasharan/
   website: https://about.me/malvikasharan

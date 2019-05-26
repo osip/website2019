@@ -1,8 +1,11 @@
 # Color settings (hex-codes without the leading hash-tag)
 color:
   black: '444444'
-  primary: '79B473'
-  secondary: '82C67B'
+  primary: '444444'
+  secondary: 'FF9E6B' # orange
+  # primary: '79B473'
+  # primary: '444444'
+  # secondary: '82C67B'
   secondary-dark: 79B473
   muted: 777
   light-grey: fafafa

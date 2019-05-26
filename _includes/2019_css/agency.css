@@ -93,6 +93,13 @@ h4 {
   margin: 0 auto;
 }
 
+.img-modal {
+  max-width: 250px;
+}
+.img-modal-team {
+  /* max-width: 250px; */
+}
+
 aside.clients {
   padding-top: 150px;
   padding-bottom: 100px;
@@ -188,6 +195,44 @@ fieldset[disabled] .btn-primary.active {
   background-color: #{{ site.data.template.color.secondary }};
 }
 
+
+/* NEW BUTTONS  */
+.btn-sm-new {
+  padding: 12px 25px;
+  font-size: 14px;
+  font-weight: 700;
+  background-color: #fff;
+  color: #{{ site.data.template.color.primary }};
+  border-color: #{{ site.data.template.color.primary }};
+  border-width: 1px;
+  border-radius: 2px;
+}
+
+.btn-xl-new {
+  padding: 20px 40px;
+  font-size: 20px;
+  font-weight: 700;
+  background-color: #fff;
+  color: #{{ site.data.template.color.primary }};
+  border-color: #{{ site.data.template.color.primary }};
+  border-width: 1px;
+  border-radius: 2px;
+}
+
+.btn-sm-new:hover,
+.btn-sm-new:focus,
+.btn-sm-new:active,
+.btn-xl-new:hover,
+.btn-xl-new:focus,
+.btn-xl-new.active {
+  color: #fff;
+  background-color: #{{ site.data.template.color.primary }};
+}
+
+.no-click {
+  pointer-events: none;
+}
+
 .btn-sm:active,
 .btn-sm.active,
 .open .dropdown-toggle.btn-sm,
@@ -237,7 +282,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default {
   border-color: transparent;
-  background-color: #222;
+  /* background-color: #222; */
 }
 
 .navbar-default .navbar-brand {
@@ -258,7 +303,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-toggle {
   border-color: #{{ site.data.template.color.primary }};
-  background-color: #{{ site.data.template.color.primary }};
+  /* background-color: #{{ site.data.template.color.primary }}; */
 }
 
 .navbar-default .navbar-toggle .icon-bar {
@@ -281,19 +326,26 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .nav li a:hover,
 .navbar-default .nav li a:focus {
   outline: 0;
-  color: #{{ site.data.template.color.primary }};
+}
+.navbar-default .nav li a:hover {
+  outline: 0;
+  color: #{{ site.data.template.color.secondary }};
 }
 
 .navbar-default .navbar-nav>.active>a {
   border-radius: 0;
-  color: #fff;
-  background-color: #{{ site.data.template.color.primary }};
+  /* color: #fff; */
+  color: #{{ site.data.template.color.secondary }};
+  background-color: transparent !important;
+  /* background-color: #{{ site.data.template.color.primary }}; */
 }
 
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
-  color: #fff;
-  background-color: #{{ site.data.template.color.secondary }};
+  /* color: #fff; */
+  color: #{{ site.data.template.color.secondary }};
+  background-color: none;
+  /* background-color: #{{ site.data.template.color.secondary }}; */
 }
 
 @media(min-width:768px) {
@@ -363,7 +415,7 @@ header .intro-text .intro-heading {
   line-height: 40px;
 }
 
-@media(min-width:768px) {    
+@media(min-width:768px) {
   header .intro-text {
     padding-top: 300px;
     padding-bottom: 200px;
@@ -441,7 +493,7 @@ section h3.section-subheading {
 }
 
 #speakers .speakers-item .speakers-link .speakers-hover:hover {
-  opacity: 1;
+  opacity: .5;
 }
 
 #speakers .speakers-item .speakers-link .speakers-hover .speakers-hover-content {
@@ -812,7 +864,7 @@ ul.social-buttons li a:active {
 }
 
 .portfolio-modal .modal-content {
-  padding: 100px 0;
+  padding: 50px 0;
   min-height: 100%;
   border: 0;
   border-radius: 0;
@@ -848,16 +900,23 @@ ul.social-buttons li a:active {
 
 .portfolio-modal .close-modal {
   position: absolute;
-  top: 25px;
-  right: 25px;
-  width: 75px;
-  height: 75px;
+  top: 0px;
+  right: 0px;
+  /* width: 75px; */
+  /* height: 75px; */
   background-color: transparent;
   cursor: pointer;
 }
+.close-modal-cross {
+  font-size: 40px;
+}
+.close-modal-cross-team {
+  font-size: 40px;
+  right: 40px;
+}
 
 .portfolio-modal .close-modal:hover {
-  opacity: .3;
+  color: #{{ site.data.template.color.secondary }};
 }
 
 .portfolio-modal .close-modal .lr {
@@ -901,4 +960,14 @@ img::-moz-selection {
 
 body {
   webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
+}
+
+.social-links a {
+  margin: 5px;
+  font-size: 20px;
+  text-decoration: none;
+}
+.social-links {
+  margin-top: 0px;
+  margin-bottom: 50px;
 }

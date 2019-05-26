@@ -2,22 +2,42 @@
 {% for post in site.data.twenty_19.speakers %}
 <div class="portfolio-modal modal fade" id="{{ post.id }}" tabindex="-1" role="dialog" aria-hidden="true">
   <div class="modal-content">
-    <div class="close-modal" data-dismiss="modal">
-      <div class="lr">
-        <div class="rl">
-        </div>
-      </div>
-    </div>
     <div class="container">
       <div class="row">
         <div class="col-lg-8 col-lg-offset-2">
           <div class="modal-body">
+            <div class="close-modal close-modal-cross" data-dismiss="modal">
+              <i class="fa fa-close"></i>
+            </div>
+            <img class="img-centered img-responsive img-modal" src="{{ post.img | prepend: "/../assets/2019_style/img/speaker/" | prepend: site.baseurl }}" alt="{{ post.alt }}">
             <h2>{{ post.name }}</h2>
-            <hr class="star-primary">
-            <img class="img-centered img-responsive" src="{{ post.img | prepend: "/../assets/2019_style/img/speaker/" | prepend: site.baseurl }}" alt="{{ post.alt }}">
             <h3>Topic: {{ post.topic }}</h3>
             <p>{{ post.description }}</p>
-            <button type="button" class="btn btn-sm" data-dismiss="modal"><i class="fa fa-times"></i>&ensp;Close</button>
+            <div class="social-links">
+              {% if post.twitter %}
+              <a href="https://www.twitter.com/{{post.twitter}}" target="_blank" alt="Link to @{{post.twitter}}">
+                <i class="fa fa-twitter"></i>
+              </a>
+              {% endif %}
+              {% if post.linkedin %}
+              <a href="{{post.linkedin}}" target="_blank" alt="Link to LinkedIn">
+                <i class="fa fa-linkedin"></i>
+              </a>
+              {% endif %}
+              {% if post.website %}
+              <a href="{{post.website}}" target="_blank" alt="Link to personal website">
+                <i class="fa fa-home"></i>
+              </a>
+              {% endif %}
+              {% if post.github %}
+              <a href="https://www.github.com/{{post.github}}" target="_blank" alt="Link to Github profile">
+                <i class="fa fa-github"></i>
+              </a>
+              {% endif %}
+            </div>
+            <div class="text-center">
+              <button type="button" class="btn btn-sm-new mt-4" data-dismiss="modal"><i class="fa fa-times"></i>&ensp;Close</button>
+            </div>
           </div>
         </div>
       </div>

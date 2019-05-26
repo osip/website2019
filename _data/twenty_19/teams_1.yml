@@ -4,8 +4,8 @@
   thumbnail: LucHenry.jpg
   email: "luc.henry@epfl.ch"
   twitter: heluc
-  LinkedIn: https://www.linkedin.com/in/luc-henry/
-  github: "@heluc"
+  linkedIn: https://www.linkedin.com/in/luc-henry/
+  github: heluc
   description: Luc Henry has perfected his research skills in Switzerland, Sweden, Germany and the United Kingdom, between 2002 and 2014. Over his scientific career, he gradually got involved in communication and policy. As a journalist and advisor, he later focused on the impact of new technologies on society, in particular in the fields of biotechnology and health. In 2014, Luc founded the community laboratory ‘Hackuarium’ in order to provide a space where like-minded people can meet and learn biology by doing, independently of their education and occupation. He currently advises the president of EPFL on research policy issues. Luc earned a DPhil (PhD) in chemical biology from the University of Oxford in 2012.
 
 - name: Galina Limorenko
@@ -13,7 +13,7 @@
   thumbnail: GalinaLimorenko.jpeg
   email: "galina.limorenko@epfl.ch"
   twitter:
-  LinkedIn:
+  linkedIn:
   github:
   description: Galina is investigating molecular mechanisms of neurodegeneration using novel biochemical and biophysical methods. She has a degree in Genetics from Cardiff University, UK, and gained laboratory experiences in UK, Switzerland and Sweden. Galina is interested in bringing the methods for large data analysis into the field of experimental molecular science. She is an eLife Ambassador and is committed to advocating and promoting the open science culture.
 
@@ -21,8 +21,8 @@
   position: PhD candidate at the Electrical Engineering department of the Eindhoven University of Technology, The Netherlands
   thumbnail: StephanHeunis.jpeg
   email:
-  twitter: "@jsheunis"
-  LinkedIn:
+  twitter: jsheunis
+  linkedIn:
   github:
   description: Stephan’s research focuses on developing new acquisition and signal processing methods for functional neuroimaging that allow the tracking and visualisation of distributed brain activity patterns in real-time, i.e. while someone is inside an MRI scanner, and applying this in clinical practice. Stephan is passionate about making research and scientific practice more transparent, rigorous and inclusive. He started the Open Science Community Eindhoven , which is part of a wide Dutch network of researchers and university employees that works on improving the way we do science, and he is the founder of OpenMR Benelux , a community working on wider adoption of open science principles in MRI research through talks, discussions, workshops and hackathons.
 
@@ -30,7 +30,7 @@
   position: PhD candidate at the Technical University of Denmark (DTU), Denmark
   thumbnail: AnubhavRatha.jpg
   email: "arath@elektro.dtu.dk"
-  twitter: "@anubhavratha"
-  LinkedIn: https://www.linkedin.com/in/anubhavratha/
+  twitter: anubhavratha
+  linkedIn: https://www.linkedin.com/in/anubhavratha/
   github:
   description: Anubhav's research focus is on the design of market mechanisms and market products for an energy future where integrated multi-energy systems (electricity, natural gas and heating/cooling) will be commonplace. After receiving his M.Sc. from ETH Zurich, Anubhav co-founded a start-up which developed innovative solutions for the future of electricity grids with increasing renewable energy, demand-side participation and a smarter grid.

@@ -1,26 +1,57 @@
 <div class="portfolio-modal modal fade" id="Team" tabindex="-1" role="dialog" aria-hidden="true">
   <div class="modal-content">
-    <div class="close-modal" data-dismiss="modal">
-      <div class="lr">
-        <div class="rl">
-        </div>
-      </div>
+    <div class="close-modal close-modal-cross" style="right:40px;top:10px;" data-dismiss="modal">
+      <i class="fa fa-close"></i>
     </div>
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-8 col-lg-offset-2">
-          <div class="modal-body">
-            {% for member in site.data.twenty_19.teams_1 %}
-            <div class="col-md-4 col-sm-6 speakers-item">
-              <img class="img-centered img-responsive" src="{{ member.thumbnail | prepend: "/../assets/2019_style/img/team/" | prepend: site.baseurl }}" alt="">
-              <div class="speakers-caption">
-                <h4>{{ member.name }}</h4>
-                <p class="text-muted"> {{ member.position }}  </p>
-                <p class="text-muted"> {{ member.email }}  </p>
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2">
+        <div class="modal-body">
+          <div class="text-center" style="margin-bottom:50px;">
+            <h1 class="section-heading">Team</h1>
+          </div>
+          {% for member in site.data.twenty_19.teams_1 %}
+          {% assign indexmod3 = forloop.index | modulo: 4 %}
+          {% if indexmod3 == 0 %}
+          <div style="clear: both;"></div>
+          {% endif %}
+          <div class="col-md-4 col-sm-6">
+            <img class="img-centered img-responsive img-modal-team" src="{{ member.thumbnail | prepend: "/../assets/2019_style/img/team/" | prepend: site.baseurl }}" alt="">
+            <div class="speakers-caption">
+              <h4>{{ member.name }}</h4>
+              <p class="text-muted"> {{ member.position }}  </p>
+              <div class="social-links">
+                {% if member.email %}
+                <a href="mailto:{{member.email}}" target="_blank" alt="Send Email to {{member.name}}">
+                  <i class="fa fa-envelope"></i>
+                </a>
+                {% endif %}
+                {% if member.twitter %}
+                <a href="https://www.twitter.com/{{member.twitter}}" target="_blank" alt="Link to @{{member.twitter}}">
+                  <i class="fa fa-twitter"></i>
+                </a>
+                {% endif %}
+                {% if member.linkedin %}
+                <a href="{{member.linkedin}}" target="_blank" alt="Link to LinkedIn">
+                  <i class="fa fa-linkedin"></i>
+                </a>
+                {% endif %}
+                {% if member.website %}
+                <a href="{{member.website}}" target="_blank" alt="Link to personal website">
+                  <i class="fa fa-home"></i>
+                </a>
+                {% endif %}
+                {% if member.github %}
+                <a href="https://www.github.com/{{member.github}}" target="_blank" alt="Link to Github profile">
+                  <i class="fa fa-github"></i>
+                </a>
+                {% endif %}
               </div>
             </div>
-            {% endfor %}
           </div>
+            {% endfor %}
+            <div class="text-center" style="clear: both;">
+              <button type="button" class="btn btn-sm-new mt-4" data-dismiss="modal"><i class="fa fa-times"></i>&ensp;Close</button>
+            </div>
         </div>
       </div>
     </div>
