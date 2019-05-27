@@ -1,4 +1,5 @@
 - id: anita_broellochs
+  idx: 0
   name: Anita Bröllochs
   subtitle: Head of Outreach, Protocols.io
   img: AnitaBroellochs.jpg
@@ -12,6 +13,7 @@
   description: Anita Bröllochs is working closely with the scientific community to help make research more reproducible. She has a strong passion for open access and tools that help accelerate scientific discoveries. Anita studied Life Science Engineering at the Friedrich-Alexander University Erlangen-Nürnberg, Germany. Her background is in optical clearing of skeletal muscle tissue for multi-photon microscopy.
 
 - id: maximilian_strauss
+  idx: 1
   name: Maximilian Strauss
   subtitle: Postdoctoral Researcher, Ludwig-Maximilians Universität München and Max Planck Institute of Biochemistry
   img: MaxStrauss.jpg
@@ -25,6 +27,7 @@
   description: Maximilian is a mechanical engineer with specialization in medical technology / biomedical engineering with a research doctorate in physics. Being fascinated by the question of What is Life? he decided to dive into Biophysics to understand the physical aspects of the building blocks of life. To study these objects, he built microscopes and employed super-resolution microscopy techniques. During his research, he noticed the increasing demand for computational methods to gather meaningful data and was amazed to explore the state of the art of Machine Learning and the Open Source community. Having now found a great workhorse in Python he is eager to apply cutting-edge algorithms and statistical methods to bring meaningful insight into data and optimize technology. He is currently working at the Max Planck Institute of Biochemistry in the group of Matthias Mann.
 
 - id: fatma_deniz
+  idx: 2
   name: Fatma Deniz
   subtitle: Postdoctoral Fellow, University of California Berkeley, and visiting scientist at the Technical University Berlin.
   img: FatmaDeniz.jpg

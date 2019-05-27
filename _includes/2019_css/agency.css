@@ -914,12 +914,12 @@ ul.social-buttons li a:active {
   position: absolute;
   top: 0px;
   right: 0px;
-  /* width: 75px; */
-  /* height: 75px; */
   background-color: transparent;
   cursor: pointer;
 }
 .close-modal-cross {
+  position: absolute;
+  right: 30px;
   font-size: 40px;
 }
 .close-modal-cross-team {
@@ -927,8 +927,9 @@ ul.social-buttons li a:active {
   right: 40px;
 }
 
-.portfolio-modal .close-modal:hover {
+.portfolio-modal, .people-modal .close-modal:hover {
   color: #{{ site.data.template.color.secondary }};
+  cursor: pointer;
 }
 
 .portfolio-modal .close-modal .lr {
@@ -986,4 +987,5 @@ body {
 .social-links {
   margin-top: 0px;
   margin-bottom: 50px;
+  padding-left: 0px;
 }

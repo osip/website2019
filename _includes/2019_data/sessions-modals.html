@@ -1,0 +1,81 @@
+<!-- Begin Sessions Modals -->
+<div class="modals" class="modals">
+  {% for session in site.data.twenty_19.sessions %}
+  <div class="modal fade text-left people-modal" id="sessionDetail-{{ session.id }}" tabindex="-1" role="dialog" aria-labelledby="sessionDetailLabel-{{ session.id }}" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-body">
+          <div class="close-modal close-modal-cross" data-dismiss="modal">
+            <i class="fa fa-close"></i>
+          </div>
+          <h4>{{ session.title }}</h4>
+          {% if session.language != null %}
+          <span class="theme-metadata"><span class="caption">Language: </span>{{ session.language }}</span>
+          {% endif %}
+          {% if session.complexity != null %}
+          <span class="theme-metadata"><span class="caption">Complexity: </span>{{ session.complexity }}</span>
+          {% endif %}
+          {% if session.video %}
+          <div class="theme-video embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" src="{{ session.video }}"></iframe>
+          </div>
+          {% endif %}
+          <p class="theme-description">{{ session.description }}</p>
+          {% if session.presentation %}
+          <a class="theme-presentation" href="{{ session.presentation }}" title="Presentation" target="_blank">View presentation</a>
+          {% endif %}
+          <hr>
+          <div class="people-details">
+            {% for speaker in site.data.twenty_19.speakers %}
+            {% for session_speaker in session.speakers %}
+            {% if session_speaker == speaker.idx %}
+            <div class="row">
+              <div class="col-md-2 col-sm-2">
+                <div class="flow-img img-circle people-img" style="background-image: url({{speaker.img | prepend: "/../assets/2019_style/img/speaker/modal/" | prepend: site.baseurl}})"></div>
+              </div>
+              <div class="col-md-10 col-sm-10 details">
+                <p class="name">{{ speaker.name }}</p>
+                <p class="position">{{ speaker.subtitle }}</p>
+                {% if speaker.ribbon != null %}
+                <div class="modal-ribbon-wrapper">
+                  {% for ribbon in speaker.ribbon %}
+                  <a class="modal-ribbon" href="{{ ribbon["url"] }}" target="_blank">{{ ribbon["title"] }}</a>
+                  {% endfor %}
+                </div>
+                {% endif %}
+                <p class="modal-description">{{ speaker.description }}</p>
+                <div class="col-md-10 social-links">
+                  {% if speaker.twitter %}
+                  <a href="https://www.twitter.com/{{speaker.twitter}}" target="_blank" alt="Link to @{{speaker.twitter}}">
+                    <i class="fa fa-twitter"></i>
+                  </a>
+                  {% endif %}
+                  {% if speaker.linkedin %}
+                  <a href="{{speaker.linkedin}}" target="_blank" alt="Link to LinkedIn">
+                    <i class="fa fa-linkedin"></i>
+                  </a>
+                  {% endif %}
+                  {% if speaker.website %}
+                  <a href="{{speaker.website}}" target="_blank" alt="Link to personal website">
+                    <i class="fa fa-home"></i>
+                  </a>
+                  {% endif %}
+                  {% if speaker.github %}
+                  <a href="https://www.github.com/{{speaker.github}}" target="_blank" alt="Link to Github profile">
+                    <i class="fa fa-github"></i>
+                  </a>
+              </div>
+                {% endif %}
+              </div>
+            </div>
+            {% endif %}
+            {% endfor %}
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+<!-- End Speakers Modals -->
