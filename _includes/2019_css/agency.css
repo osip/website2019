@@ -202,32 +202,30 @@ fieldset[disabled] .btn-primary.active {
 
 
 /* NEW BUTTONS  */
-.btn-sm-new {
-  padding: 12px 25px;
-  font-size: 14px;
+
+.btn-sm-new:active, .btn-xl-new:active,
+.btn-sm-new:focus, .btn-xl-new:focus,
+.btn-sm-new, .btn-xl-new {
   background-color: transparent;
   color: #{{ site.data.template.color.primary }};
   border-color: #{{ site.data.template.color.primary }};
   border-width: 2px;
   border-radius: 1px;
+}
+
+
+.btn-sm-new {
+  padding: 12px 25px;
+  font-size: 14px;
 }
 
 .btn-xl-new {
   padding: 20px 40px;
   font-size: 16px;
-  background-color: transparent;
-  color: #{{ site.data.template.color.primary }};
-  border-color: #{{ site.data.template.color.primary }};
-  border-width: 2px;
-  border-radius: 1px;
 }
 
 .btn-sm-new:hover,
-.btn-sm-new:focus,
-.btn-sm-new:active,
-.btn-xl-new:hover,
-.btn-xl-new:focus,
-.btn-xl-new.active {
+.btn-xl-new:hover {
   color: #fff;
   background-color: #{{ site.data.template.color.primary }};
 }
