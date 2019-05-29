@@ -1,7 +1,7 @@
 - id: anita_broellochs
   idx: 0
   name: Anita Bröllochs
-  subtitle: Head of Outreach, Protocols.io
+  subtitle: Head of Outreach, Protocols.io, USA
   img: AnitaBroellochs.jpg
   thumbnail: AnitaBroellochs.jpg
   alt: Picture of Anita Bröllochs
@@ -15,7 +15,7 @@
 - id: maximilian_strauss
   idx: 1
   name: Maximilian Strauss
-  subtitle: Postdoctoral Researcher, Ludwig-Maximilians Universität München and Max Planck Institute of Biochemistry
+  subtitle: Postdoctoral Researcher, Ludwig-Maximilians Universität München and Max Planck Institute of Biochemistry, Germany
   img: MaxStrauss.jpg
   thumbnail: MaxStrauss.jpg
   alt: Picture of Maximilian Strauss
@@ -29,7 +29,7 @@
 - id: fatma_deniz
   idx: 2
   name: Fatma Deniz
-  subtitle: Postdoctoral Fellow, University of California Berkeley, and visiting scientist at the Technical University Berlin.
+  subtitle: Postdoctoral Fellow, University of California Berkeley, and visiting scientist at the Technical University Berlin, Germany
   img: FatmaDeniz.jpg
   thumbnail: FatmaDeniz.jpg
   alt: Picture of Fatma Deniz
@@ -68,7 +68,7 @@
 
 - id: michel_jaccard
   name: Michel Jaccard
-  subtitle: id est avocats
+  subtitle: Lawyer, Associate at id est avocats, Lausanne, Switzerland
   img: MichelJaccard.jpg
   thumbnail: MichelJaccard.jpg
   alt: Picture of Michel Jaccard
@@ -86,15 +86,15 @@
   thumbnail: StephanHeunis.jpg
   alt: Picture of Stephan Heunis
   twitter: jsheunis
-  github:
+  github: jsheunis
   linkedin: https://www.linkedin.com/in/stephan-heunis-4b558154/
-  website:
+  website: http://www.fmrwhy.com
   topic: Practical tips for building open science communities
   description:
 
 - id: martin_vetterli
   name: Martin Vetterli
-  subtitle:
+  subtitle: Professor of Engineering and President at EPFL, Lausanne, Switzerland
   img: MartinVetterli.jpg
   thumbnail: MartinVetterli.jpg
   alt: Picture of Martin Vetterli
@@ -120,13 +120,53 @@
 
 - id: frederic_schutz
   name: Frédéric Schütz
-  subtitle: Statistician at Swiss Institute of Bioinformatics, Wikipedian
+  subtitle: Wikipedian and Statistician at Swiss Institute of Bioinformatics, Lausanne, Switzerland
   img: FredericSchutz.jpg
   thumbnail: FredericSchutz.jpg
   alt: Picture of Frédéric Schütz
   twitter: fredericschutz
-  github:
-  linkedin: https://www.linkedin.com/in/malvikasharan/
-  website: https://about.me/malvikasharan
+  github: fredericschutz
+  linkedin: https://www.linkedin.com/in/frédéric-schütz-6bb5282/
+  website:
   topic: Wikipedia and Open Science
   description:
+  
+- id: melanie rothlisberger
+  name: Melanie Röthlisberger
+  subtitle: Senior Research and Teaching Associate, English Department, University of Zurich, Switzerland
+  img: MelanieRothlisberger.jpg
+  thumbnail: MelanieRothlisberger.jpg
+  alt: Picture of Melanie Röthlisberger
+  twitter: m_rothlisberger
+  github:
+  linkedin: https://www.linkedin.com/in/melanie-röthlisberger-3b976957/
+  website: 
+  topic: 
+  description: Melanie Röthlisberger is a Swiss linguist working at the University of Zurich. She received her PhD in 2018 from Leuven (Belgium) and has since then been involved in the Open Science movement. Her main interests include Open Access and compliance with funding requirements, possibilities to acquire funding to publish open access (especially with regard to the humanities), making data and code open (and FAIR) and changing the reward system.
+
+- id: sina Rueeger
+  name: Sina Rüeger
+  subtitle: Postdoctoral Researcher, EPFL, Switzerland
+  img: SinaRueeger.jpg
+  thumbnail: SinaRueeger.jpg
+  alt: Picture of Sina Rüeger
+  twitter: sinarueeger
+  github: sinarueeger
+  linkedin: https://www.linkedin.com/in/sinarueeger/
+  website: 
+  topic: 
+  description: In her research, Sina Rüeger analyses human genomic data in the context of infectious diseases. Her interests include statistical modelling, programming with R, and topics intersecting health, medicine and technology. First introduced to the statistical programming language during her bachelor’s degree, Sina has been using R since then on a daily basis. She is particularly interested in reproducible analysis workflows, data visualisation and making R accessible to newcomers. Sina is also a founding member of the R-Ladies chapter in Lausanne, an organisation that promotes gender diversity in the R community.
+
+- id: galina limorenko
+  name: Galina Limorenko
+  subtitle: PhD candidate in the School of Life Sciences, EPFL, Switzerland
+  img: GalinaLimorenko.jpg
+  thumbnail: GalinaLimorenko.jpg
+  alt: Picture of Galina Limorenko
+  twitter: LashuelLab
+  github: 
+  linkedin:
+  website: 
+  topic: 
+  description: Galina is investigating molecular mechanisms of neurodegeneration using novel biochemical and biophysical methods. She has a degree in Genetics from Cardiff University, UK, and gained laboratory experiences in UK, Switzerland and Sweden. Galina is interested in bringing the methods for large data analysis into the field of experimental molecular science. She is an eLife Ambassador and is committed to advocating and promoting the open science culture.
+
