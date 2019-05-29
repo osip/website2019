@@ -121,7 +121,7 @@
   topic: Wikipedia and Open Science
   description:
   
-- id: melanie rothlisberger
+- id: melanie_rothlisberger
   name: Melanie Röthlisberger
   subtitle: Senior Research and Teaching Associate, English Department, University of Zurich, Switzerland
   thumbnail: dummy.jpg #MelanieRothlisberger.jpg
@@ -133,7 +133,7 @@
   topic: 
   description: Melanie Röthlisberger is a Swiss linguist working at the University of Zurich. She received her PhD in 2018 from Leuven (Belgium) and has since then been involved in the Open Science movement. Her main interests include Open Access and compliance with funding requirements, possibilities to acquire funding to publish open access (especially with regard to the humanities), making data and code open (and FAIR) and changing the reward system.
 
-- id: sina Rueeger
+- id: sina_Rueeger
   name: Sina Rüeger
   subtitle: Postdoctoral Researcher, EPFL, Switzerland
   thumbnail: SinaRueeger.jpg
@@ -145,7 +145,7 @@
   topic: 
   description: In her research, Sina Rüeger analyses human genomic data in the context of infectious diseases. Her interests include statistical modelling, programming with R, and topics intersecting health, medicine and technology. First introduced to the statistical programming language during her bachelor’s degree, Sina has been using R since then on a daily basis. She is particularly interested in reproducible analysis workflows, data visualisation and making R accessible to newcomers. Sina is also a founding member of the R-Ladies chapter in Lausanne, an organisation that promotes gender diversity in the R community.
 
-- id: galina limorenko
+- id: galina_limorenko
   name: Galina Limorenko
   subtitle: PhD candidate in the School of Life Sciences, EPFL, Switzerland
   thumbnail: GalinaLimorenko.jpg
@@ -157,3 +157,50 @@
   topic: 
   description: Galina is investigating molecular mechanisms of neurodegeneration using novel biochemical and biophysical methods. She has a degree in Genetics from Cardiff University, UK, and gained laboratory experiences in UK, Switzerland and Sweden. Galina is interested in bringing the methods for large data analysis into the field of experimental molecular science. She is an eLife Ambassador and is committed to advocating and promoting the open science culture.
 
+- id: rachael_ainsworth
+  name: Rachael Ainsworth
+  subtitle: Radio Astronomer at University of Manchester
+  thumbnail: RachaelAinsworth.jpg
+  alt: Picture of Rachael Ainsworth
+  twitter: rachaelevelyn 
+  github: rainsworth
+  linkedin: https://www.linkedin.com/in/rachaelainsworth/
+  website: https://rainsworth.github.io/
+  topic: Workshop on containerization using Docker and Singularity
+  description: 
+
+- id: adrien_ball
+  name: Adrien Ball
+  subtitle: Senior Machine Learning Engineer - SNIPS 
+  thumbnail: AdrienBall.jpg
+  alt: Picture of Adrien Ball
+  twitter: 
+  github: 
+  linkedin:
+  website: 
+  topic: Experiences from going Open Source
+  description: 
+
+- id: tim_head
+  name: Tim Head
+  subtitle: 
+  thumbnail: TimHead.jpg
+  alt: Picture of Tim Head
+  twitter: betatim
+  github: betatim
+  linkedin:
+  website: "https://betatim.github.io"
+  topic: coming soon
+  description: 
+
+- id: wenzel_jakob 
+  name: Wenzel Jakob
+  subtitle: Professor leading the Realistic Graphics Lab at EPFL's School of Computer and Communication Sciences.
+  thumbnail: WenzelJakob.jpg 
+  alt: Picture of Wenzel Jakob
+  twitter: 
+  github: wjakob 
+  linkedin:
+  website: "https://rgl.epfl.ch/people/wjakob"
+  topic: coming soon
+  description: 
