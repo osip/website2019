@@ -8,7 +8,7 @@
           <div class="close-modal close-modal-cross" data-dismiss="modal">
             <i class="fa fa-close"></i>
           </div>
-          <img class="img-centered img-responsive img-modal" style="padding:40px 0px;" src="{{ post.img | prepend: "/../assets/2019_style/img/speaker/" | prepend: site.baseurl }}" alt="{{ post.alt }}">
+          <img class="img-centered img-responsive img-modal" style="padding:40px 0px;" src="{{ post.thumbnail | prepend: "/../assets/2019_style/img/speaker/" | prepend: site.baseurl }}" alt="{{ post.alt }}">
           <h2>{{ post.name }}</h2>
           <h3>Topic: {{ post.topic }}</h3>
           <p>{{ post.description }}</p>

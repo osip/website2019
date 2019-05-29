@@ -12,3 +12,6 @@ _site/
 # misc
 .DS_Store
 .bundle
+
+Gemfile
+Gemfile.lock

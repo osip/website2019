@@ -2,7 +2,6 @@
   idx: 0
   name: Anita Bröllochs
   subtitle: Head of Outreach, Protocols.io, USA
-  img: AnitaBroellochs.jpg
   thumbnail: AnitaBroellochs.jpg
   alt: Picture of Anita Bröllochs
   twitter: AnitaBroellochs
@@ -16,7 +15,6 @@
   idx: 1
   name: Maximilian Strauss
   subtitle: Postdoctoral Researcher, Ludwig-Maximilians Universität München and Max Planck Institute of Biochemistry, Germany
-  img: MaxStrauss.jpg
   thumbnail: MaxStrauss.jpg
   alt: Picture of Maximilian Strauss
   twitter: maxtstrauss
@@ -30,7 +28,6 @@
   idx: 2
   name: Fatma Deniz
   subtitle: Postdoctoral Fellow, University of California Berkeley, and visiting scientist at the Technical University Berlin, Germany
-  img: FatmaDeniz.jpg
   thumbnail: FatmaDeniz.jpg
   alt: Picture of Fatma Deniz
   twitter:
@@ -43,7 +40,6 @@
 - id: marc_robinson_rechavi
   name: Marc Robinson-Rechavi
   subtitle: Associate Professor of Bioinformatics at University of Lausanne, and Group Leader of Evolutionary Bioinformatics at the Swiss Institute of Bioinformatics.
-  img: MarcRR.jpg
   thumbnail: MarcRR.jpg
   alt: Picture of Marc Robinson-Rechavi
   twitter: marc_rr
@@ -56,7 +52,6 @@
 - id: jon_tennant
   name: Jon Tennant
   subtitle:
-  img: JonTennant.jpg
   thumbnail: JonTennant.jpg
   alt: Picture of Jon Tennant
   twitter: Protohedgehog
@@ -69,8 +64,7 @@
 - id: michel_jaccard
   name: Michel Jaccard
   subtitle: Lawyer, Associate at id est avocats, Lausanne, Switzerland
-  img: MichelJaccard.jpg
-  thumbnail: MichelJaccard.jpg
+  thumbnail: dummy.jpg #MichelJaccard.jpg
   alt: Picture of Michel Jaccard
   twitter: MichelJaccard
   github:
@@ -82,8 +76,7 @@
 - id: stephan_heunis
   name: Stephan Heunis
   subtitle: PhD candidate at the Electrical Engineering department of the Eindhoven University of Technology, The Netherlands
-  img: StephanHeunis.jpg
-  thumbnail: StephanHeunis.jpg
+  thumbnail: dummy.jpg #StephanHeunis.jpg
   alt: Picture of Stephan Heunis
   twitter: jsheunis
   github: jsheunis
@@ -95,7 +88,6 @@
 - id: martin_vetterli
   name: Martin Vetterli
   subtitle: Professor of Engineering and President at EPFL, Lausanne, Switzerland
-  img: MartinVetterli.jpg
   thumbnail: MartinVetterli.jpg
   alt: Picture of Martin Vetterli
   twitter: MartinVetterli
@@ -108,7 +100,6 @@
 - id: malvika_sharan
   name: Malvika Sharan
   subtitle: Computational Biologist, EMBL, Heidelberg, Germany
-  img: MalvikaSharan.jpg
   thumbnail: MalvikaSharan.jpg
   alt: Picture of Malvika Sharan
   twitter: MalvikaSharan
@@ -121,7 +112,6 @@
 - id: frederic_schutz
   name: Frédéric Schütz
   subtitle: Wikipedian and Statistician at Swiss Institute of Bioinformatics, Lausanne, Switzerland
-  img: FredericSchutz.jpg
   thumbnail: FredericSchutz.jpg
   alt: Picture of Frédéric Schütz
   twitter: fredericschutz
@@ -134,8 +124,7 @@
 - id: melanie rothlisberger
   name: Melanie Röthlisberger
   subtitle: Senior Research and Teaching Associate, English Department, University of Zurich, Switzerland
-  img: MelanieRothlisberger.jpg
-  thumbnail: MelanieRothlisberger.jpg
+  thumbnail: dummy.jpg #MelanieRothlisberger.jpg
   alt: Picture of Melanie Röthlisberger
   twitter: m_rothlisberger
   github:
@@ -147,7 +136,6 @@
 - id: sina Rueeger
   name: Sina Rüeger
   subtitle: Postdoctoral Researcher, EPFL, Switzerland
-  img: SinaRueeger.jpg
   thumbnail: SinaRueeger.jpg
   alt: Picture of Sina Rüeger
   twitter: sinarueeger
@@ -160,7 +148,6 @@
 - id: galina limorenko
   name: Galina Limorenko
   subtitle: PhD candidate in the School of Life Sciences, EPFL, Switzerland
-  img: GalinaLimorenko.jpg
   thumbnail: GalinaLimorenko.jpg
   alt: Picture of Galina Limorenko
   twitter: LashuelLab
