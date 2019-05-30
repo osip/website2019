@@ -16,5 +16,5 @@ This is the code for website of the summer school Open Science in Practice
 - `_data/twenty_19/` contains YML files for agenda, faqs, home about section data, speakers, and team members information. The reason why the folders are named `twenty_19` are due to liquid syntax will throw errors if the name contains integer.
 - `_2019_data` contains the files that store each section in the home page. Those sections are can be removed by removing or commenting out the `include` code in `_layout/2019_home.html`.
 
-# Event Jekyll Theme
-This repository has been adapted from the [Event Jekyll Theme](https://github.com/melvinchng/event-jekyll-theme/).
+# Credits
+This repository has been adapted from the [Event Jekyll Theme](https://github.com/melvinchng/event-jekyll-theme/) (by [Melvin Ch'ng](https://melvinchng.github.io/)) and from the [Zeppelin Project](https://github.com/gdg-x/zeppelin) (by [Oleh Zasadnyy](http://o.zasadnyy.com/)).
