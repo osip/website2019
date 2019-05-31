@@ -60,7 +60,7 @@
 
 - id: marc_robinson_rechavi
   name: Marc Robinson-Rechavi
-  subtitle: Associate Professor of Bioinformatics at University of Lausanne, and Group Leader of Evolutionary Bioinformatics at the Swiss Institute of Bioinformatics.
+  subtitle: Associate Professor of Bioinformatics, UNIL, and Group Leader, Swiss Institute of Bioinformatics, Lausanne, Switzerland.
   thumbnail: MarcRR.jpg
   alt: Picture of Marc Robinson-Rechavi
   twitter: "marc_rr"
@@ -72,7 +72,7 @@
 
 - id: frederic_schutz
   name: Frédéric Schütz
-  subtitle: Wikipedian and Statistician at Swiss Institute of Bioinformatics, Lausanne, Switzerland
+  subtitle: Statistician, Swiss Institute of Bioinformatics, Lausanne, Switzerland
   thumbnail: FredericSchutz.jpg
   alt: Picture of Frédéric Schütz
   twitter: fredericschutz
@@ -108,7 +108,7 @@
 
 - id: fatma_deniz
   name: Fatma Deniz
-  subtitle: Postdoctoral Fellow, University of California Berkeley, and visiting scientist at the Technical University Berlin, Germany
+  subtitle: Postdoctoral Fellow, University of California Berkeley, and Visiting Scientist, Technical University Berlin, Germany
   thumbnail: FatmaDeniz.jpg
   alt: Picture of Fatma Deniz
   twitter:
@@ -168,7 +168,7 @@
 
 - id: rachael_ainsworth
   name: Rachael Ainsworth
-  subtitle: Radio Astronomer at University of Manchester
+  subtitle: Radio Astronomer, University of Manchester, UK
   thumbnail: RachaelAinsworth.jpg
   alt: Picture of Rachael Ainsworth
   twitter: rachaelevelyn
@@ -180,13 +180,13 @@
 
 - id: adrien_ball
   name: Adrien Ball
-  subtitle: Senior Machine Learning Engineer - SNIPS
+  subtitle: Senior Machine Learning Engineer, SNIPS, Paris, France
   thumbnail: AdrienBall.jpg
   alt: Picture of Adrien Ball
-  twitter:
-  github:
-  linkedin:
-  website:
+  twitter: "adrien_ball"
+  github: adrienball
+  linkedin: https://www.linkedin.com/in/adrienball
+  website: https://medium.com/@adrien_ball
   topic: Experiences from going Open Source
   description:
 
@@ -197,14 +197,14 @@
   alt: Picture of Tim Head
   twitter: betatim
   github: betatim
-  linkedin:
+  linkedin: https://www.linkedin.com/in/timhead/
   website: "https://betatim.github.io/pages/about.html"
   topic: coming soon
   description: "Tim is an independent software developer and teacher. He works primarily on data science tools and teaches machine-learning courses for programmers, scientists and engineers. He has worked with International Organisations in Geneva, small startups in Zurich and academics around the world. Tim trained as an experimental physicist and worked at CERN and EPFL for several years."
 
 - id: wenzel_jakob
   name: Wenzel Jakob
-  subtitle: Professor leading the Realistic Graphics Lab at EPFL's School of Computer and Communication Sciences.
+  subtitle: Professor at the School of Computer and Communication Sciences, EPFL, Switzerland
   thumbnail: WenzelJakob.jpg
   alt: Picture of Wenzel Jakob
   twitter:
@@ -212,7 +212,7 @@
   linkedin:
   website: "https://rgl.epfl.ch/people/wjakob"
   topic: coming soon
-  description:
+  description: Wenzel is leading the Realistic Graphics Lab at EPFL.
 
 - id: stephan_heunis
   name: Stephan Heunis
