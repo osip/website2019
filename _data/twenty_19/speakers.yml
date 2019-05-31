@@ -142,6 +142,18 @@
   topic:
   description: Melanie Röthlisberger is a Swiss linguist working at the University of Zurich. She received her PhD in 2018 from Leuven (Belgium) and has since then been involved in the Open Science movement. Her main interests include Open Access and compliance with funding requirements, possibilities to acquire funding to publish open access (especially with regard to the humanities), making data and code open (and FAIR) and changing the reward system.
 
+- id: charlotte_weber 
+  name: Charlotte Teresa Weber 
+  subtitle: Researcher at The Arctic University of Norway in Tromsø, Norway
+  thumbnail: CharlotteWeber.jpg
+  alt: Picture of Charlotte Teresa Weber
+  twitter: 
+  github:
+  linkedin: 
+  website:
+  topic:
+  description: Charlotte has a background in marine biology and conservation and a PhD in natural resource management. She currently works as an interdisciplinary researcher at UiT, The Arctic University of Norway in Tromsø, where she studies natural resources under climate change. She is the skills officer for Eurodoc and has been actively involved in (transferable) skills development, doctoral training, and the open science movement. Her main interests are open access, open access skills, and (early-career researchers’) career development under open science.
+
 - id: sina_Rueeger
   name: Sina Rüeger
   subtitle: Postdoctoral Researcher, EPFL, Switzerland
