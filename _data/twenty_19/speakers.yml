@@ -19,7 +19,7 @@
   github:
   linkedin:
   website: http://citizensciences.net/bruno-strasser/
-  topic:
+  topic: Openness in Science: a very short history
   description: "Bruno Strasser is an expert on the history of the life sciences in the twentieth and twenty–first centuries. He his particularly interested in the history of \"citizen science\" and the transformation of public participation in science. His new book, “Collecting Experiments - Making Big Data Biology”, questions what knowledge is, how it is produced, to whom it belongs, and who can be credited for producing it. His first book, “La fabrique d’une nouvelle science: La biologie moléculaire à l’âge atomique, 1945-1964”, explores the emergence of molecular biology as new scientific discipline and professional identity in the atomic age. He has established and is leading an outreach lab, the Bioscope, at the University of Geneva."
 
 - id: malvika_sharan
@@ -31,8 +31,80 @@
   github: malvikasharan
   linkedin: https://www.linkedin.com/in/malvikasharan/
   website: https://about.me/malvikasharan
-  topic: Diversity and inclusiveness in Open Science
+  topic: Diversity and Inclusiveness in Open Science
   description: Malvika is a computational biologist at the European Molecular Biology Laboratory, Heidelberg, Germany, where she coordinates the Bio-IT project, a community-driven platform for bioinformaticians. She organizes training activities and events for EMBL, de.NBI/ELIXIR Germany and other open source communities such as The Carpentries. She promotes diversity and open access through her work as a community outreach coordinator.
+
+- id: melanie_rothlisberger
+  name: Melanie Röthlisberger
+  subtitle: Senior Research and Teaching Associate, English Department, University of Zurich, Switzerland
+  thumbnail: MelanieRothlisberger.jpg
+  alt: Picture of Melanie Röthlisberger
+  twitter: m_rothlisberger
+  github:
+  linkedin: https://www.linkedin.com/in/melanie-röthlisberger-3b976957/
+  website:
+  topic: Open Science, your Career as a Researcher, and Beyond
+  description: Melanie Röthlisberger is a Swiss linguist working at the University of Zurich. She received her PhD in 2018 from Leuven (Belgium) and has since then been involved in the Open Science movement. Her main interests include Open Access and compliance with funding requirements, possibilities to acquire funding to publish open access (especially with regard to the humanities), making data and code open (and FAIR) and changing the reward system.
+
+- id: charlotte_weber 
+  name: Charlotte Teresa Weber 
+  subtitle: Researcher at The Arctic University of Norway in Tromsø, Norway
+  thumbnail: CharlotteWeber.jpg
+  alt: Picture of Charlotte Teresa Weber
+  twitter: 
+  github:
+  linkedin: 
+  website:
+  topic: Open Science, your Career as a Researcher, and Beyond
+  description: Charlotte has a background in marine biology and conservation and a PhD in natural resource management. She currently works as an interdisciplinary researcher at UiT, The Arctic University of Norway in Tromsø, where she studies natural resources under climate change. She is the skills officer for Eurodoc and has been actively involved in (transferable) skills development, doctoral training, and the open science movement. Her main interests are open access, open access skills, and (early-career researchers’) career development under open science.
+
+- id: marc_robinson_rechavi
+  name: Marc Robinson-Rechavi
+  subtitle: Associate Professor of Bioinformatics at University of Lausanne, and Group Leader of Evolutionary Bioinformatics at the Swiss Institute of Bioinformatics.
+  thumbnail: MarcRR.jpg
+  alt: Picture of Marc Robinson-Rechavi
+  twitter: "marc_rr"
+  github:
+  linkedin: https://www.linkedin.com/in/marcrobinsonrechavi/
+  website:
+  topic: BioRxiv: How I Learned To Stop Worrying And Love The Preprints
+  description: Research in the group of Marc Robinson-Rechavi is mainly focused on linking the evolution of animal development to genome evolution. The group develops database for evolutionary biology, and studies genome evolution in vertebrates. The group is also involved in targeted projects in functional genomics.
+
+- id: frederic_schutz
+  name: Frédéric Schütz
+  subtitle: Wikipedian and Statistician at Swiss Institute of Bioinformatics, Lausanne, Switzerland
+  thumbnail: FredericSchutz.jpg
+  alt: Picture of Frédéric Schütz
+  twitter: fredericschutz
+  github: fredericschutz
+  linkedin: https://www.linkedin.com/in/frédéric-schütz-6bb5282/
+  website:
+  topic: Wikipedia and Open Science
+  description:
+  
+- id: maximilian_strauss
+  name: Maximilian Strauss
+  subtitle: Postdoctoral Researcher, Ludwig-Maximilians Universität München and Max Planck Institute of Biochemistry, Germany
+  thumbnail: MaxStrauss.jpg
+  alt: Picture of Maximilian Strauss
+  twitter: maxtstrauss
+  github:
+  linkedin: https://www.linkedin.com/in/maximiliantstrauss/
+  website:
+  topic: "Employing Open Source: A case study"
+  description: Maximilian is a mechanical engineer with specialization in medical technology / biomedical engineering with a research doctorate in physics. Being fascinated by the question of What is Life? he decided to dive into Biophysics to understand the physical aspects of the building blocks of life. To study these objects, he built microscopes and employed super-resolution microscopy techniques. During his research, he noticed the increasing demand for computational methods to gather meaningful data and was amazed to explore the state of the art of Machine Learning and the Open Source community. Having now found a great workhorse in Python he is eager to apply cutting-edge algorithms and statistical methods to bring meaningful insight into data and optimize technology. He is currently working at the Max Planck Institute of Biochemistry in the group of Matthias Mann.
+  
+- id: michel_jaccard
+  name: Michel Jaccard
+  subtitle: Lawyer, Associate at id est avocats, Lausanne, Switzerland
+  thumbnail: MichelJaccard.jpg
+  alt: Picture of Michel Jaccard
+  twitter: MichelJaccard
+  github:
+  linkedin: https://www.linkedin.com/in/jaccard/
+  website:
+  topic: "Open Science: what can we expect from lawyers?"
+  description: Michel is the founder of corporate and technology boutique firm id est avocats, Lausanne. He has been involved in the last 20 years in more than a hundred corporate finance and M&A deals in Switzerland and abroad, acting for entrepreneurs and owners, venture capital and private equity firms, industrial buyers and financial sponsors. Along his corporate expertise, he sits on several advisory boards and regularly helps C-level execs and board members of SMEs and global brands navigate the world of advanced technologies, distributed computing, open source and open access, data protection and cybersecurity, and more generally manage their online presence and digital transformation. Michel holds a JD and PhD from the University of Lausanne and an LLM from Columbia Law School (Stone Scholar, Fulbright grantee). He also maintains a blog on innovation and technology law and frequently acts as jury member or mentor in national and international startup competitions.
 
 - id: fatma_deniz
   name: Fatma Deniz
@@ -43,7 +115,7 @@
   github:
   linkedin: https://www.linkedin.com/in/fatma-deniz-57075938/
   website:
-  topic: Reproducible Science
+  topic: Reproducible Research Decoded
   description: Prior her current position, Fatma was a Moore-Sloan Data Science Fellow at Berkeley Institute for Data Science and a fellow at the International Computer Science Institute in Berkeley. She is interested in how sensory information is encoded in the brain and uses machine-learning approaches to fit computational models to large-scale brain data. Her current work focuses on cross-modal language representation in the human brain. She did her Ph.D. in Dr. John-Dylan Haynes’s laboratory at Bernstein Center for Computational Neuroscience in Berlin, where she studied functional connectivity changes during conscious perception in humans. She got a bachelor’s and master’s degrees in Computer Science from the Technical University Munich. During her master’s work Dr. Deniz worked with Dr. Christof Koch at Caltech, where she studied visual saliency and automated text detection. As an advocate of reproducible research practices, she is the editor of the book titled “The Practice of Reproducible Research”. In addition, she works on improving Internet security applications using the knowledge gained from cognitive neuroscience and Mooney images (mooneyauth.org). Her work is at the intersection between computer science, human cognition, and neuroscience. She is a passionate coder, baker, and loves to play the cello.
 
 - id: charlotte_mazel-cabasse
@@ -55,20 +127,8 @@
   github:
   linkedin: https://www.linkedin.com/in/charlotte-mazel-cabasse-54a13612/
   website:
-  topic: Reproducible Science
+  topic: Reproducible Research Decoded
   description: Prior to taking her current position, she was an ethnographer at the Berkeley Institute for Data Science (BIDS), an organization funded by the Gordon and Betty Moore Foundation and the Alfred P. Sloan Foundation at the University of California - Berkeley. In this position, she was studying how practices and methods of data science transform knowledge production and interdisciplinary collaboration in academia.
-  
-- id: marc_robinson_rechavi
-  name: Marc Robinson-Rechavi
-  subtitle: Associate Professor of Bioinformatics at University of Lausanne, and Group Leader of Evolutionary Bioinformatics at the Swiss Institute of Bioinformatics.
-  thumbnail: MarcRR.jpg
-  alt: Picture of Marc Robinson-Rechavi
-  twitter: "marc_rr"
-  github:
-  linkedin: https://www.linkedin.com/in/marcrobinsonrechavi/
-  website:
-  topic: Preprints
-  description: Research in the group of Marc Robinson-Rechavi is mainly focused on linking the evolution of animal development to genome evolution. The group develops database for evolutionary biology, and studies genome evolution in vertebrates. The group is also involved in targeted projects in functional genomics.
 
 - id: anita_broellochs
   name: Anita Bröllochs
@@ -82,78 +142,6 @@
   topic: Detailed experimental methods for reproducible science
   description: Anita Bröllochs is working closely with the scientific community to help make research more reproducible. She has a strong passion for open access and tools that help accelerate scientific discoveries. Anita studied Life Science Engineering at the Friedrich-Alexander University Erlangen-Nürnberg, Germany. Her background is in optical clearing of skeletal muscle tissue for multi-photon microscopy.
 
-- id: maximilian_strauss
-  name: Maximilian Strauss
-  subtitle: Postdoctoral Researcher, Ludwig-Maximilians Universität München and Max Planck Institute of Biochemistry, Germany
-  thumbnail: MaxStrauss.jpg
-  alt: Picture of Maximilian Strauss
-  twitter: maxtstrauss
-  github:
-  linkedin: https://www.linkedin.com/in/maximiliantstrauss/
-  website:
-  topic: "Employing Open Source: A case study"
-  description: Maximilian is a mechanical engineer with specialization in medical technology / biomedical engineering with a research doctorate in physics. Being fascinated by the question of What is Life? he decided to dive into Biophysics to understand the physical aspects of the building blocks of life. To study these objects, he built microscopes and employed super-resolution microscopy techniques. During his research, he noticed the increasing demand for computational methods to gather meaningful data and was amazed to explore the state of the art of Machine Learning and the Open Source community. Having now found a great workhorse in Python he is eager to apply cutting-edge algorithms and statistical methods to bring meaningful insight into data and optimize technology. He is currently working at the Max Planck Institute of Biochemistry in the group of Matthias Mann.
-
-- id: michel_jaccard
-  name: Michel Jaccard
-  subtitle: Lawyer, Associate at id est avocats, Lausanne, Switzerland
-  thumbnail: MichelJaccard.jpg
-  alt: Picture of Michel Jaccard
-  twitter: MichelJaccard
-  github:
-  linkedin: https://www.linkedin.com/in/jaccard/
-  website:
-  topic: "Open Science: what can we expect from lawyers?"
-  description: Michel is the founder of corporate and technology boutique firm id est avocats, Lausanne. He has been involved in the last 20 years in more than a hundred corporate finance and M&A deals in Switzerland and abroad, acting for entrepreneurs and owners, venture capital and private equity firms, industrial buyers and financial sponsors. Along his corporate expertise, he sits on several advisory boards and regularly helps C-level execs and board members of SMEs and global brands navigate the world of advanced technologies, distributed computing, open source and open access, data protection and cybersecurity, and more generally manage their online presence and digital transformation. Michel holds a JD and PhD from the University of Lausanne and an LLM from Columbia Law School (Stone Scholar, Fulbright grantee). He also maintains a blog on innovation and technology law and frequently acts as jury member or mentor in national and international startup competitions.
-
-- id: stephan_heunis
-  name: Stephan Heunis
-  subtitle: PhD candidate at the Electrical Engineering department of the Eindhoven University of Technology, The Netherlands
-  thumbnail: StephanHeunis.jpg
-  alt: Picture of Stephan Heunis
-  twitter: jsheunis
-  github: jsheunis
-  linkedin: https://www.linkedin.com/in/stephan-heunis-4b558154/
-  website: http://www.fmrwhy.com
-  topic: Practical tips for building open science communities
-  description:
-
-- id: frederic_schutz
-  name: Frédéric Schütz
-  subtitle: Wikipedian and Statistician at Swiss Institute of Bioinformatics, Lausanne, Switzerland
-  thumbnail: FredericSchutz.jpg
-  alt: Picture of Frédéric Schütz
-  twitter: fredericschutz
-  github: fredericschutz
-  linkedin: https://www.linkedin.com/in/frédéric-schütz-6bb5282/
-  website:
-  topic: Wikipedia and Open Science
-  description:
-
-- id: melanie_rothlisberger
-  name: Melanie Röthlisberger
-  subtitle: Senior Research and Teaching Associate, English Department, University of Zurich, Switzerland
-  thumbnail: MelanieRothlisberger.jpg
-  alt: Picture of Melanie Röthlisberger
-  twitter: m_rothlisberger
-  github:
-  linkedin: https://www.linkedin.com/in/melanie-röthlisberger-3b976957/
-  website:
-  topic:
-  description: Melanie Röthlisberger is a Swiss linguist working at the University of Zurich. She received her PhD in 2018 from Leuven (Belgium) and has since then been involved in the Open Science movement. Her main interests include Open Access and compliance with funding requirements, possibilities to acquire funding to publish open access (especially with regard to the humanities), making data and code open (and FAIR) and changing the reward system.
-
-- id: charlotte_weber 
-  name: Charlotte Teresa Weber 
-  subtitle: Researcher at The Arctic University of Norway in Tromsø, Norway
-  thumbnail: CharlotteWeber.jpg
-  alt: Picture of Charlotte Teresa Weber
-  twitter: 
-  github:
-  linkedin: 
-  website:
-  topic:
-  description: Charlotte has a background in marine biology and conservation and a PhD in natural resource management. She currently works as an interdisciplinary researcher at UiT, The Arctic University of Norway in Tromsø, where she studies natural resources under climate change. She is the skills officer for Eurodoc and has been actively involved in (transferable) skills development, doctoral training, and the open science movement. Her main interests are open access, open access skills, and (early-career researchers’) career development under open science.
-
 - id: sina_Rueeger
   name: Sina Rüeger
   subtitle: Postdoctoral Researcher, EPFL, Switzerland
@@ -163,7 +151,7 @@
   github: sinarueeger
   linkedin: https://www.linkedin.com/in/sinarueeger/
   website:
-  topic:
+  topic: An introduction to R
   description: In her research, Sina Rüeger analyses human genomic data in the context of infectious diseases. Her interests include statistical modelling, programming with R, and topics intersecting health, medicine and technology. First introduced to the statistical programming language during her bachelor’s degree, Sina has been using R since then on a daily basis. She is particularly interested in reproducible analysis workflows, data visualisation and making R accessible to newcomers. Sina is also a founding member of the R-Ladies chapter in Lausanne, an organisation that promotes gender diversity in the R community.
 
 - id: galina_limorenko
@@ -175,7 +163,7 @@
   github:
   linkedin:
   website:
-  topic:
+  topic: eLife community
   description: Galina is investigating molecular mechanisms of neurodegeneration using novel biochemical and biophysical methods. She has a degree in Genetics from Cardiff University, UK, and gained laboratory experiences in UK, Switzerland and Sweden. Galina is interested in bringing the methods for large data analysis into the field of experimental molecular science. She is an eLife Ambassador and is committed to advocating and promoting the open science culture.
 
 - id: rachael_ainsworth
@@ -204,15 +192,15 @@
 
 - id: tim_head
   name: Tim Head
-  subtitle:
+  subtitle: Software Developer,  Wild Tree Tech and Skribble
   thumbnail: TimHead.jpg
   alt: Picture of Tim Head
   twitter: betatim
   github: betatim
   linkedin:
-  website: "https://betatim.github.io"
+  website: "https://betatim.github.io/pages/about.html"
   topic: coming soon
-  description:
+  description: Tim is an independent software developer and teacher. He works primarily on data science tools and teaches machine-learning courses for programmers, scientists and engineers. He has worked with International Organisations in Geneva, small startups in Zurich and academics around the world. Tim trained as an experimental physicist and worked at CERN and EPFL for several years.
 
 - id: wenzel_jakob
   name: Wenzel Jakob
@@ -226,6 +214,18 @@
   topic: coming soon
   description:
 
+- id: stephan_heunis
+  name: Stephan Heunis
+  subtitle: PhD candidate at the Electrical Engineering department of the Eindhoven University of Technology, The Netherlands
+  thumbnail: StephanHeunis.jpg
+  alt: Picture of Stephan Heunis
+  twitter: jsheunis
+  github: jsheunis
+  linkedin: https://www.linkedin.com/in/stephan-heunis-4b558154/
+  website: http://www.fmrwhy.com
+  topic: Practical tips for building open science communities
+  description:
+  
 - id: martin_vetterli
   name: Martin Vetterli
   subtitle: Professor of Engineering and President at EPFL, Lausanne, Switzerland
