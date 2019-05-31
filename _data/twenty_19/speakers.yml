@@ -1,4 +1,17 @@
-- id: anita_broellochs
+- id: bruno_strasser
+  idx: 
+  name: Bruno Strasser
+  subtitle: Professor, University of Geneva, Switzerland
+  thumbnail: BrunoStrasser.jpg
+  alt: Picture of Bruno Strasser
+  twitter: @CitizenSciences
+  github:
+  linkedin: 
+  website: http://citizensciences.net/bruno-strasser/
+  topic: 
+  description: 
+  
+  - id: anita_broellochs
   idx: 0
   name: Anita Bröllochs
   subtitle: Head of Outreach, Protocols.io, USA
