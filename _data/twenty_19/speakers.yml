@@ -1,4 +1,4 @@
-  - id: jon_tennant
+- id: jon_tennant
   name: Jon Tennant
   subtitle:
   thumbnail: JonTennant.jpg
@@ -11,18 +11,18 @@
   description: Jon completed his award-winning PhD at Imperial College London where he researched evolutionary patterns in animals like dinosaurs and crocodiles. He was the Communications Director of ScienceOpen for 2 years, but has spent the last two years as an independent researcher. He is the founder of the Open Science MOOC, the digital publishing platform paleorXiv, and currently works as a PLOS Paleo Community Editor. He has spent much of his recent time challenging the business practices of the scholarly publishing industry, including working with Education International on a global campaign to democratise knowledge. He is also a Shuttleworth Flash grantee, and has also won an award for this work on peer review. As well as this, Jon was the lead author of the Foundations for Open Scholarship Strategy Development, is co-author for the Open Science Training Handbook, and is the Executive Editor for the OA journal Geoscience Communication. He has also written several kids books on dinosaurs.
 
 - id: bruno_strasser
-  idx: 
+  idx:
   name: Bruno Strasser
   subtitle: Professor, University of Geneva, Switzerland
   thumbnail: BrunoStrasser.jpg
   alt: Picture of Bruno Strasser
   twitter: CitizenSciences
   github:
-  linkedin: 
+  linkedin:
   website: http://citizensciences.net/bruno-strasser/
-  topic: 
-  description: Bruno Strasser is an expert on the history of the life sciences in the twentieth and twenty–first centuries. He his particularly interested in the history of "citizen science" and the transformation of public participation in science. His new book, “Collecting Experiments - Making Big Data Biology”, questions what knowledge is, how it is produced, to whom it belongs, and who can be credited for producing it. His first book, “La fabrique d’une nouvelle science: La biologie moléculaire à l’âge atomique, 1945-1964”, explores the emergence of molecular biology as new scientific discipline and professional identity in the atomic age. He has established and is leading an outreach lab, the Bioscope, at the University of Geneva.
-  
+  topic:
+  description: "Bruno Strasser is an expert on the history of the life sciences in the twentieth and twenty–first centuries. He his particularly interested in the history of \"citizen science\" and the transformation of public participation in science. His new book, “Collecting Experiments - Making Big Data Biology”, questions what knowledge is, how it is produced, to whom it belongs, and who can be credited for producing it. His first book, “La fabrique d’une nouvelle science: La biologie moléculaire à l’âge atomique, 1945-1964”, explores the emergence of molecular biology as new scientific discipline and professional identity in the atomic age. He has established and is leading an outreach lab, the Bioscope, at the University of Geneva."
+
 - id: malvika_sharan
   name: Malvika Sharan
   subtitle: Computational Biologist, EMBL, Heidelberg, Germany
@@ -121,7 +121,7 @@
   website:
   topic: Wikipedia and Open Science
   description:
-  
+
 - id: melanie_rothlisberger
   name: Melanie Röthlisberger
   subtitle: Senior Research and Teaching Associate, English Department, University of Zurich, Switzerland
@@ -130,8 +130,8 @@
   twitter: m_rothlisberger
   github:
   linkedin: https://www.linkedin.com/in/melanie-röthlisberger-3b976957/
-  website: 
-  topic: 
+  website:
+  topic:
   description: Melanie Röthlisberger is a Swiss linguist working at the University of Zurich. She received her PhD in 2018 from Leuven (Belgium) and has since then been involved in the Open Science movement. Her main interests include Open Access and compliance with funding requirements, possibilities to acquire funding to publish open access (especially with regard to the humanities), making data and code open (and FAIR) and changing the reward system.
 
 - id: sina_Rueeger
@@ -142,8 +142,8 @@
   twitter: sinarueeger
   github: sinarueeger
   linkedin: https://www.linkedin.com/in/sinarueeger/
-  website: 
-  topic: 
+  website:
+  topic:
   description: In her research, Sina Rüeger analyses human genomic data in the context of infectious diseases. Her interests include statistical modelling, programming with R, and topics intersecting health, medicine and technology. First introduced to the statistical programming language during her bachelor’s degree, Sina has been using R since then on a daily basis. She is particularly interested in reproducible analysis workflows, data visualisation and making R accessible to newcomers. Sina is also a founding member of the R-Ladies chapter in Lausanne, an organisation that promotes gender diversity in the R community.
 
 - id: galina_limorenko
@@ -152,10 +152,10 @@
   thumbnail: GalinaLimorenko.jpg
   alt: Picture of Galina Limorenko
   twitter: LashuelLab
-  github: 
+  github:
   linkedin:
-  website: 
-  topic: 
+  website:
+  topic:
   description: Galina is investigating molecular mechanisms of neurodegeneration using novel biochemical and biophysical methods. She has a degree in Genetics from Cardiff University, UK, and gained laboratory experiences in UK, Switzerland and Sweden. Galina is interested in bringing the methods for large data analysis into the field of experimental molecular science. She is an eLife Ambassador and is committed to advocating and promoting the open science culture.
 
 - id: rachael_ainsworth
@@ -163,28 +163,28 @@
   subtitle: Radio Astronomer at University of Manchester
   thumbnail: RachaelAinsworth.jpg
   alt: Picture of Rachael Ainsworth
-  twitter: rachaelevelyn 
+  twitter: rachaelevelyn
   github: rainsworth
   linkedin: https://www.linkedin.com/in/rachaelainsworth/
   website: https://rainsworth.github.io/
   topic: Workshop on containerization using Docker and Singularity
-  description: 
+  description:
 
 - id: adrien_ball
   name: Adrien Ball
-  subtitle: Senior Machine Learning Engineer - SNIPS 
+  subtitle: Senior Machine Learning Engineer - SNIPS
   thumbnail: AdrienBall.jpg
   alt: Picture of Adrien Ball
-  twitter: 
-  github: 
+  twitter:
+  github:
   linkedin:
-  website: 
+  website:
   topic: Experiences from going Open Source
-  description: 
+  description:
 
 - id: tim_head
   name: Tim Head
-  subtitle: 
+  subtitle:
   thumbnail: TimHead.jpg
   alt: Picture of Tim Head
   twitter: betatim
@@ -192,19 +192,19 @@
   linkedin:
   website: "https://betatim.github.io"
   topic: coming soon
-  description: 
+  description:
 
-- id: wenzel_jakob 
+- id: wenzel_jakob
   name: Wenzel Jakob
   subtitle: Professor leading the Realistic Graphics Lab at EPFL's School of Computer and Communication Sciences.
-  thumbnail: WenzelJakob.jpg 
+  thumbnail: WenzelJakob.jpg
   alt: Picture of Wenzel Jakob
-  twitter: 
-  github: wjakob 
+  twitter:
+  github: wjakob
   linkedin:
   website: "https://rgl.epfl.ch/people/wjakob"
   topic: coming soon
-  description: 
+  description:
 
 - id: martin_vetterli
   name: Martin Vetterli
