@@ -10,9 +10,8 @@ This is the code for website of the summer school Open Science in Practice
 5. Your site should be accessible at `localhost:4000`.
 
 ## Files Structure
-- The main stylesheet is stored `/css/2019_style`. Both `2016` and `2017` are sharing the same stylesheet.
+- The main stylesheet is stored `/css/2019_style`.
 - In `assets/2019_style/img` you will find where the pictures. You will find the images of speakers in `assets/2019_style/img/speaker`.
-- `_2016_pages` and `_2017_pages` are the folders that store subpages.
 - `_data/twenty_19/` contains YML files for agenda, faqs, home about section data, speakers, and team members information. The reason why the folders are named `twenty_19` are due to liquid syntax will throw errors if the name contains integer.
 - `_2019_data` contains the files that store each section in the home page. Those sections are can be removed by removing or commenting out the `include` code in `_layout/2019_home.html`.
 
