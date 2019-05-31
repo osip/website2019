@@ -97,7 +97,7 @@
 - id: michel_jaccard
   name: Michel Jaccard
   subtitle: Lawyer, Associate at id est avocats, Lausanne, Switzerland
-  thumbnail: dummy.jpg #MichelJaccard.jpg
+  thumbnail: MichelJaccard.jpg
   alt: Picture of Michel Jaccard
   twitter: MichelJaccard
   github:
@@ -109,7 +109,7 @@
 - id: stephan_heunis
   name: Stephan Heunis
   subtitle: PhD candidate at the Electrical Engineering department of the Eindhoven University of Technology, The Netherlands
-  thumbnail: dummy.jpg #StephanHeunis.jpg
+  thumbnail: StephanHeunis.jpg
   alt: Picture of Stephan Heunis
   twitter: jsheunis
   github: jsheunis
@@ -133,7 +133,7 @@
 - id: melanie_rothlisberger
   name: Melanie Röthlisberger
   subtitle: Senior Research and Teaching Associate, English Department, University of Zurich, Switzerland
-  thumbnail: dummy.jpg #MelanieRothlisberger.jpg
+  thumbnail: MelanieRothlisberger.jpg
   alt: Picture of Melanie Röthlisberger
   twitter: m_rothlisberger
   github:
