@@ -11,7 +11,6 @@
   description: Jon completed his award-winning PhD at Imperial College London where he researched evolutionary patterns in animals like dinosaurs and crocodiles. He was the Communications Director of ScienceOpen for 2 years, but has spent the last two years as an independent researcher. He is the founder of the Open Science MOOC, the digital publishing platform paleorXiv, and currently works as a PLOS Paleo Community Editor. He has spent much of his recent time challenging the business practices of the scholarly publishing industry, including working with Education International on a global campaign to democratise knowledge. He is also a Shuttleworth Flash grantee, and has also won an award for this work on peer review. As well as this, Jon was the lead author of the Foundations for Open Scholarship Strategy Development, is co-author for the Open Science Training Handbook, and is the Executive Editor for the OA journal Geoscience Communication. He has also written several kids books on dinosaurs.
 
 - id: bruno_strasser
-  idx:
   name: Bruno Strasser
   subtitle: Professor, University of Geneva, Switzerland
   thumbnail: BrunoStrasser.jpg
@@ -36,7 +35,6 @@
   description: Malvika is a computational biologist at the European Molecular Biology Laboratory, Heidelberg, Germany, where she coordinates the Bio-IT project, a community-driven platform for bioinformaticians. She organizes training activities and events for EMBL, de.NBI/ELIXIR Germany and other open source communities such as The Carpentries. She promotes diversity and open access through her work as a community outreach coordinator.
 
 - id: fatma_deniz
-  idx: 2
   name: Fatma Deniz
   subtitle: Postdoctoral Fellow, University of California Berkeley, and visiting scientist at the Technical University Berlin, Germany
   thumbnail: FatmaDeniz.jpg
@@ -61,7 +59,6 @@
   description: Research in the group of Marc Robinson-Rechavi is mainly focused on linking the evolution of animal development to genome evolution. The group develops database for evolutionary biology, and studies genome evolution in vertebrates. The group is also involved in targeted projects in functional genomics.
 
 - id: anita_broellochs
-  idx: 0
   name: Anita Bröllochs
   subtitle: Head of Outreach, Protocols.io, USA
   thumbnail: AnitaBroellochs.jpg
@@ -74,7 +71,6 @@
   description: Anita Bröllochs is working closely with the scientific community to help make research more reproducible. She has a strong passion for open access and tools that help accelerate scientific discoveries. Anita studied Life Science Engineering at the Friedrich-Alexander University Erlangen-Nürnberg, Germany. Her background is in optical clearing of skeletal muscle tissue for multi-photon microscopy.
 
 - id: maximilian_strauss
-  idx: 1
   name: Maximilian Strauss
   subtitle: Postdoctoral Researcher, Ludwig-Maximilians Universität München and Max Planck Institute of Biochemistry, Germany
   thumbnail: MaxStrauss.jpg
