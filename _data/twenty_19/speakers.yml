@@ -46,6 +46,18 @@
   topic: Reproducible Science
   description: Prior her current position, Fatma was a Moore-Sloan Data Science Fellow at Berkeley Institute for Data Science and a fellow at the International Computer Science Institute in Berkeley. She is interested in how sensory information is encoded in the brain and uses machine-learning approaches to fit computational models to large-scale brain data. Her current work focuses on cross-modal language representation in the human brain. She did her Ph.D. in Dr. John-Dylan Haynes’s laboratory at Bernstein Center for Computational Neuroscience in Berlin, where she studied functional connectivity changes during conscious perception in humans. She got a bachelor’s and master’s degrees in Computer Science from the Technical University Munich. During her master’s work Dr. Deniz worked with Dr. Christof Koch at Caltech, where she studied visual saliency and automated text detection. As an advocate of reproducible research practices, she is the editor of the book titled “The Practice of Reproducible Research”. In addition, she works on improving Internet security applications using the knowledge gained from cognitive neuroscience and Mooney images (mooneyauth.org). Her work is at the intersection between computer science, human cognition, and neuroscience. She is a passionate coder, baker, and loves to play the cello.
 
+- id: charlotte_mazel-cabasse
+  name: Charlotte Mazel-Cabasse
+  subtitle: Executive Director of the Digital Humanities Center, UNIL-EPFL, Switzerland
+  thumbnail: CharlotteMC.jpg
+  alt: Picture of Charlotte Mazel-Cabasse
+  twitter: Lalamerik
+  github:
+  linkedin: https://www.linkedin.com/in/charlotte-mazel-cabasse-54a13612/
+  website:
+  topic: Reproducible Science
+  description: Prior to taking her current position, she was an ethnographer at the Berkeley Institute for Data Science (BIDS), an organization funded by the Gordon and Betty Moore Foundation and the Alfred P. Sloan Foundation at the University of California - Berkeley. In this position, she was studying how practices and methods of data science transform knowledge production and interdisciplinary collaboration in academia.
+  
 - id: marc_robinson_rechavi
   name: Marc Robinson-Rechavi
   subtitle: Associate Professor of Bioinformatics at University of Lausanne, and Group Leader of Evolutionary Bioinformatics at the Swiss Institute of Bioinformatics.
