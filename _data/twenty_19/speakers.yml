@@ -10,6 +10,33 @@
   topic: "Open Science: just science done right?"
   description: "Jon completed his PhD at Imperial College London where he researched evolutionary patterns in animals like dinosaurs and crocodiles. He was the Communications Director of ScienceOpen for 2 years, but has spent the last two years as an independent researcher. He is the founder of the Open Science MOOC, the digital publishing platform paleorXiv, and currently works as a PLOS Paleo Community Editor. He has spent much of his recent time challenging the business practices of the scholarly publishing industry, including working with Education International on a global campaign to democratise knowledge. He is also a Shuttleworth Flash grantee, and has also won an award for this work on peer review. As well as this, Jon was the lead author of the Foundations for Open Scholarship Strategy Development, is co-author for the Open Science Training Handbook, and is the Executive Editor for the OA journal Geoscience Communication. He has also written several kids books on dinosaurs."
 
+- id: malvika_sharan
+  name: Malvika Sharan
+  subtitle: Computational Biologist, EMBL, Heidelberg, Germany
+  thumbnail: MalvikaSharan.jpg
+  alt: Picture of Malvika Sharan
+  twitter: MalvikaSharan
+  github: malvikasharan
+  linkedin: https://www.linkedin.com/in/malvikasharan/
+  website: https://about.me/malvikasharan
+  topic: Diversity and Inclusiveness in Open Science
+  description: "Malvika is a computational biologist at the European Molecular Biology Laboratory, Heidelberg, Germany, where she coordinates the Bio-IT project, a community-driven platform for bioinformaticians. She organizes training activities and events for EMBL, de.NBI/ELIXIR Germany and other open source communities such as The Carpentries. She promotes diversity and open access through her work as a community outreach coordinator."
+
+- id: adrien_ball
+  name: Adrien Ball
+  subtitle: Senior Machine Learning Engineer, SNIPS, Paris, France
+  thumbnail: AdrienBall.jpg
+  alt: Picture of Adrien Ball
+  twitter: "adrien_ball"
+  github: adrienball
+  linkedin: "https://www.linkedin.com/in/adrienball"
+  website: "https://medium.com/@adrien_ball"
+  #email: adrienball3@gmail.com
+  topic: Experiences from going open source
+  description: "Adrien is a software engineer and machine learning specialist. He has been working at Snips for the past 4 years where his recent focus has been on building the Natural Language Understanding (NLU) component powering the Snips Voice Assistant Technology. Adrien is a Python and Rust enthusiast and strongly believes in open source software development. Most of his contributions at Snips in the field of NLU are open source and publicly available on Github. He is an engineer from Ecole Polytechnique, and holds a MSc in Probabilities from Université Pierre & Marie Curie in Paris." 
+
+# There are many good reasons to open source a library but the journey to open source may feel painful on various aspects. Open sourcing done right requires efforts on several fronts like packaging, testing, documentation or code clarity in general. However, it turns out that there is a lot to gain in the process as some of these efforts get converted into good practices. Making choices that incentivize people to use and contribute to your work will eventually benefit both the community and you as the maintainer.
+
 - id: bruno_strasser
   name: Bruno Strasser
   subtitle: Professor, University of Geneva, Switzerland
@@ -22,17 +49,17 @@
   topic: "Openness in Science: a very short history"
   description: "Bruno Strasser is an expert on the history of the life sciences in the twentieth and twenty–first centuries. He his particularly interested in the history of \"citizen science\" and the transformation of public participation in science. His new book, “Collecting Experiments - Making Big Data Biology”, questions what knowledge is, how it is produced, to whom it belongs, and who can be credited for producing it. His first book, “La fabrique d’une nouvelle science: La biologie moléculaire à l’âge atomique, 1945-1964”, explores the emergence of molecular biology as new scientific discipline and professional identity in the atomic age. He has established and is leading an outreach lab, the Bioscope, at the University of Geneva."
 
-- id: malvika_sharan
-  name: Malvika Sharan
-  subtitle: Computational Biologist, EMBL, Heidelberg, Germany
-  thumbnail: MalvikaSharan.jpg
-  alt: Picture of Malvika Sharan
-  twitter: MalvikaSharan
-  github: malvikasharan
-  linkedin: https://www.linkedin.com/in/malvikasharan/
-  website: https://about.me/malvikasharan
-  topic: Diversity and Inclusiveness in Open Science
-  description: "Malvika is a computational biologist at the European Molecular Biology Laboratory, Heidelberg, Germany, where she coordinates the Bio-IT project, a community-driven platform for bioinformaticians. She organizes training activities and events for EMBL, de.NBI/ELIXIR Germany and other open source communities such as The Carpentries. She promotes diversity and open access through her work as a community outreach coordinator."
+- id: wenzel_jakob
+  name: Wenzel Jakob
+  subtitle: Professor at the School of Computer and Communication Sciences, EPFL, Switzerland
+  thumbnail: WenzelJakob.jpg
+  alt: Picture of Wenzel Jakob
+  twitter:
+  github: wjakob
+  linkedin:
+  website: "https://rgl.epfl.ch/people/wjakob"
+  topic: coming soon
+  description: Wenzel is leading the Realistic Graphics Lab at EPFL.
 
 - id: melanie_rothlisberger
   name: Melanie Röthlisberger
@@ -106,6 +133,21 @@
   topic: "Open Science: what can we expect from lawyers?"
   description: "Michel is the founder of corporate and technology boutique firm id est avocats, Lausanne. He has been involved in the last 20 years in more than a hundred corporate finance and M&A deals in Switzerland and abroad, acting for entrepreneurs and owners, venture capital and private equity firms, industrial buyers and financial sponsors. Along his corporate expertise, he sits on several advisory boards and regularly helps C-level execs and board members of SMEs and global brands navigate the world of advanced technologies, distributed computing, open source and open access, data protection and cybersecurity, and more generally manage their online presence and digital transformation. Michel holds a JD and PhD from the University of Lausanne and an LLM from Columbia Law School (Stone Scholar, Fulbright grantee). He also maintains a blog on innovation and technology law and frequently acts as jury member or mentor in national and international startup competitions."
 
+- id: rachael_ainsworth
+  name: Rachael Ainsworth
+  subtitle: Radio Astronomer, University of Manchester, UK
+  thumbnail: RachaelAinsworth.jpg
+  alt: Picture of Rachael Ainsworth
+  twitter: rachaelevelyn
+  github: rainsworth
+  linkedin: "https://www.linkedin.com/in/rachaelainsworth/"
+  website: "https://rainsworth.github.io/"
+  topic: "Reproducible Research through Containerisation: Docker and Singularity"
+  description: "Rachael is a Research Associate in Radio Astronomy and Open Science Champion at the Jodrell Bank Centre for Astrophysics, University of Manchester. She is passionate about openness, transparency, reproducibility and inclusion in research. She is also a Software Sustainability Institute Fellow, FOSTER certified Open Science Trainer, Mozilla Open Leader, member of The Turing Way community, organiser for the women in data meetup group HER+Data MCR and member of the first cohort of Tech Future Female Leaders."
+
+#Abstract: A container image is a lightweight, standalone, executable package of software that includes everything needed to run an application: code, runtime, system tools, system libraries and settings. Containers can be used to package entire scientific workflows, software and libraries, and even data. This means that you don’t have to ask your cluster admin to install anything for you - you can put it in a container and run or easily share your analysis with collaborators. Containers are particularly useful way for reproducing research which relies on software to be configured in a certain way, and/or which makes use of libraries that vary between (or don’t exist on) different systems. There are a number of different tools available for creating and working with containers, and this workshop will focus on Docker and Singularity.
+
+
 - id: fatma_deniz
   name: Fatma Deniz
   subtitle: Postdoctoral Fellow, University of California Berkeley, and Visiting Scientist, Technical University Berlin, Germany
@@ -129,6 +171,18 @@
   website:
   topic: Reproducible Research Decoded
   description: "Prior to taking her current position, she was an ethnographer at the Berkeley Institute for Data Science (BIDS), an organization funded by the Gordon and Betty Moore Foundation and the Alfred P. Sloan Foundation at the University of California - Berkeley. In this position, she was studying how practices and methods of data science transform knowledge production and interdisciplinary collaboration in academia."
+
+- id: stephan_heunis
+  name: Stephan Heunis
+  subtitle: PhD candidate at the Electrical Engineering department of the Eindhoven University of Technology, The Netherlands
+  thumbnail: StephanHeunis.jpg
+  alt: Picture of Stephan Heunis
+  twitter: jsheunis
+  github: jsheunis
+  linkedin: https://www.linkedin.com/in/stephan-heunis-4b558154/
+  website: http://www.fmrwhy.com
+  topic: Practical tips for building open science communities
+  description:
 
 - id: anita_broellochs
   name: Anita Bröllochs
@@ -166,35 +220,6 @@
   topic: eLife community
   description: "Galina is investigating molecular mechanisms of neurodegeneration using novel biochemical and biophysical methods. She has a degree in Genetics from Cardiff University, UK, and gained laboratory experiences in UK, Switzerland and Sweden. Galina is interested in bringing the methods for large data analysis into the field of experimental molecular science. She is an eLife Ambassador and is committed to advocating and promoting the open science culture."
 
-- id: rachael_ainsworth
-  name: Rachael Ainsworth
-  subtitle: Radio Astronomer, University of Manchester, UK
-  thumbnail: RachaelAinsworth.jpg
-  alt: Picture of Rachael Ainsworth
-  twitter: rachaelevelyn
-  github: rainsworth
-  linkedin: "https://www.linkedin.com/in/rachaelainsworth/"
-  website: "https://rainsworth.github.io/"
-  topic: "Reproducible Research through Containerisation: Docker and Singularity"
-  description: "Rachael is a Research Associate in Radio Astronomy and Open Science Champion at the Jodrell Bank Centre for Astrophysics, University of Manchester. She is passionate about openness, transparency, reproducibility and inclusion in research. She is also a Software Sustainability Institute Fellow, FOSTER certified Open Science Trainer, Mozilla Open Leader, member of The Turing Way community, organiser for the women in data meetup group HER+Data MCR and member of the first cohort of Tech Future Female Leaders."
-
-#Abstract: A container image is a lightweight, standalone, executable package of software that includes everything needed to run an application: code, runtime, system tools, system libraries and settings. Containers can be used to package entire scientific workflows, software and libraries, and even data. This means that you don’t have to ask your cluster admin to install anything for you - you can put it in a container and run or easily share your analysis with collaborators. Containers are particularly useful way for reproducing research which relies on software to be configured in a certain way, and/or which makes use of libraries that vary between (or don’t exist on) different systems. There are a number of different tools available for creating and working with containers, and this workshop will focus on Docker and Singularity.
-
-- id: adrien_ball
-  name: Adrien Ball
-  subtitle: Senior Machine Learning Engineer, SNIPS, Paris, France
-  thumbnail: AdrienBall.jpg
-  alt: Picture of Adrien Ball
-  twitter: "adrien_ball"
-  github: adrienball
-  linkedin: "https://www.linkedin.com/in/adrienball"
-  website: "https://medium.com/@adrien_ball"
-  #email: adrienball3@gmail.com
-  topic: Experiences from going open source
-  description: "Adrien is a software engineer and machine learning specialist. He has been working at Snips for the past 4 years where his recent focus has been on building the Natural Language Understanding (NLU) component powering the Snips Voice Assistant Technology. Adrien is a Python and Rust enthusiast and strongly believes in open source software development. Most of his contributions at Snips in the field of NLU are open source and publicly available on Github. He is an engineer from Ecole Polytechnique, and holds a MSc in Probabilities from Université Pierre & Marie Curie in Paris." 
-
-# There are many good reasons to open source a library but the journey to open source may feel painful on various aspects. Open sourcing done right requires efforts on several fronts like packaging, testing, documentation or code clarity in general. However, it turns out that there is a lot to gain in the process as some of these efforts get converted into good practices. Making choices that incentivize people to use and contribute to your work will eventually benefit both the community and you as the maintainer.
-
 - id: tim_head
   name: Tim Head
   subtitle: Software Developer,  Wild Tree Tech and Skribble
@@ -207,30 +232,6 @@
   topic: coming soon
   description: "Tim is an independent software developer and teacher. He works primarily on data science tools and teaches machine-learning courses for programmers, scientists and engineers. He has worked with International Organisations in Geneva, small startups in Zurich and academics around the world. Tim trained as an experimental physicist and worked at CERN and EPFL for several years."
 
-- id: wenzel_jakob
-  name: Wenzel Jakob
-  subtitle: Professor at the School of Computer and Communication Sciences, EPFL, Switzerland
-  thumbnail: WenzelJakob.jpg
-  alt: Picture of Wenzel Jakob
-  twitter:
-  github: wjakob
-  linkedin:
-  website: "https://rgl.epfl.ch/people/wjakob"
-  topic: coming soon
-  description: Wenzel is leading the Realistic Graphics Lab at EPFL.
-
-- id: stephan_heunis
-  name: Stephan Heunis
-  subtitle: PhD candidate at the Electrical Engineering department of the Eindhoven University of Technology, The Netherlands
-  thumbnail: StephanHeunis.jpg
-  alt: Picture of Stephan Heunis
-  twitter: jsheunis
-  github: jsheunis
-  linkedin: https://www.linkedin.com/in/stephan-heunis-4b558154/
-  website: http://www.fmrwhy.com
-  topic: Practical tips for building open science communities
-  description:
-  
 - id: martin_vetterli
   name: Martin Vetterli
   subtitle: Professor of Engineering and President at EPFL, Lausanne, Switzerland
