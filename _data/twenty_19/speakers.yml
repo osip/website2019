@@ -173,10 +173,12 @@
   alt: Picture of Rachael Ainsworth
   twitter: rachaelevelyn
   github: rainsworth
-  linkedin: https://www.linkedin.com/in/rachaelainsworth/
-  website: https://rainsworth.github.io/
-  topic: Workshop on containerization using Docker and Singularity
-  description:
+  linkedin: "https://www.linkedin.com/in/rachaelainsworth/"
+  website: "https://rainsworth.github.io/"
+  topic: "Reproducible Research through Containerisation: Docker and Singularity"
+  description: "Rachael is a Research Associate in Radio Astronomy and Open Science Champion at the Jodrell Bank Centre for Astrophysics, University of Manchester. She is passionate about openness, transparency, reproducibility and inclusion in research. She is also a Software Sustainability Institute Fellow, FOSTER certified Open Science Trainer, Mozilla Open Leader, member of The Turing Way community, organiser for the women in data meetup group HER+Data MCR and member of the first cohort of Tech Future Female Leaders."
+
+#Abstract: A container image is a lightweight, standalone, executable package of software that includes everything needed to run an application: code, runtime, system tools, system libraries and settings. Containers can be used to package entire scientific workflows, software and libraries, and even data. This means that you don’t have to ask your cluster admin to install anything for you - you can put it in a container and run or easily share your analysis with collaborators. Containers are particularly useful way for reproducing research which relies on software to be configured in a certain way, and/or which makes use of libraries that vary between (or don’t exist on) different systems. There are a number of different tools available for creating and working with containers, and this workshop will focus on Docker and Singularity.
 
 - id: adrien_ball
   name: Adrien Ball
@@ -185,10 +187,13 @@
   alt: Picture of Adrien Ball
   twitter: "adrien_ball"
   github: adrienball
-  linkedin: https://www.linkedin.com/in/adrienball
-  website: https://medium.com/@adrien_ball
-  topic: Experiences from going Open Source
-  description:
+  linkedin: "https://www.linkedin.com/in/adrienball"
+  website: "https://medium.com/@adrien_ball"
+  #email: adrienball3@gmail.com
+  topic: Experiences from going open source
+  description: "Adrien is a software engineer and machine learning specialist. He has been working at Snips for the past 4 years where his recent focus has been on building the Natural Language Understanding (NLU) component powering the Snips Voice Assistant Technology. Adrien is a Python and Rust enthusiast and strongly believes in open source software development. Most of his contributions at Snips in the field of NLU are open source and publicly available on Github. He is an engineer from Ecole Polytechnique, and holds a MSc in Probabilities from Université Pierre & Marie Curie in Paris." 
+
+# There are many good reasons to open source a library but the journey to open source may feel painful on various aspects. Open sourcing done right requires efforts on several fronts like packaging, testing, documentation or code clarity in general. However, it turns out that there is a lot to gain in the process as some of these efforts get converted into good practices. Making choices that incentivize people to use and contribute to your work will eventually benefit both the community and you as the maintainer.
 
 - id: tim_head
   name: Tim Head
