@@ -120,6 +120,7 @@
   website:
   topic: "Employing Open Source: A case study"
   description: "Maximilian is a mechanical engineer with specialization in medical technology / biomedical engineering with a research doctorate in physics. Being fascinated by the question of What is Life? he decided to dive into Biophysics to understand the physical aspects of the building blocks of life. To study these objects, he built microscopes and employed super-resolution microscopy techniques. During his research, he noticed the increasing demand for computational methods to gather meaningful data and was amazed to explore the state of the art of Machine Learning and the Open Source community. Having now found a great workhorse in Python he is eager to apply cutting-edge algorithms and statistical methods to bring meaningful insight into data and optimize technology. He is currently working at the Max Planck Institute of Biochemistry in the group of Matthias Mann."
+  #abstract: 
 
 - id: michel_jaccard
   name: Michel Jaccard
@@ -144,9 +145,7 @@
   website: "https://rainsworth.github.io/"
   topic: "Reproducible Research through Containerisation: Docker and Singularity"
   description: "Rachael is a Research Associate in Radio Astronomy and Open Science Champion at the Jodrell Bank Centre for Astrophysics, University of Manchester. She is passionate about openness, transparency, reproducibility and inclusion in research. She is also a Software Sustainability Institute Fellow, FOSTER certified Open Science Trainer, Mozilla Open Leader, member of The Turing Way community, organiser for the women in data meetup group HER+Data MCR and member of the first cohort of Tech Future Female Leaders."
-
-#Abstract: A container image is a lightweight, standalone, executable package of software that includes everything needed to run an application: code, runtime, system tools, system libraries and settings. Containers can be used to package entire scientific workflows, software and libraries, and even data. This means that you don’t have to ask your cluster admin to install anything for you - you can put it in a container and run or easily share your analysis with collaborators. Containers are particularly useful way for reproducing research which relies on software to be configured in a certain way, and/or which makes use of libraries that vary between (or don’t exist on) different systems. There are a number of different tools available for creating and working with containers, and this workshop will focus on Docker and Singularity.
-
+  #abstract: A container image is a lightweight, standalone, executable package of software that includes everything needed to run an application: code, runtime, system tools, system libraries and settings. Containers can be used to package entire scientific workflows, software and libraries, and even data. This means that you don’t have to ask your cluster admin to install anything for you - you can put it in a container and run or easily share your analysis with collaborators. Containers are particularly useful way for reproducing research which relies on software to be configured in a certain way, and/or which makes use of libraries that vary between (or don’t exist on) different systems. There are a number of different tools available for creating and working with containers, and this workshop will focus on Docker and Singularity.
 
 - id: fatma_deniz
   name: Fatma Deniz
@@ -159,7 +158,8 @@
   website:
   topic: Reproducible Research Decoded
   description: "Prior her current position, Fatma was a Moore-Sloan Data Science Fellow at Berkeley Institute for Data Science and a fellow at the International Computer Science Institute in Berkeley. She is interested in how sensory information is encoded in the brain and uses machine-learning approaches to fit computational models to large-scale brain data. Her current work focuses on cross-modal language representation in the human brain. She did her Ph.D. in Dr. John-Dylan Haynes’s laboratory at Bernstein Center for Computational Neuroscience in Berlin, where she studied functional connectivity changes during conscious perception in humans. She got a bachelor’s and master’s degrees in Computer Science from the Technical University Munich. During her master’s work Dr. Deniz worked with Dr. Christof Koch at Caltech, where she studied visual saliency and automated text detection. As an advocate of reproducible research practices, she is the editor of the book titled “The Practice of Reproducible Research”. In addition, she works on improving Internet security applications using the knowledge gained from cognitive neuroscience and Mooney images (mooneyauth.org). Her work is at the intersection between computer science, human cognition, and neuroscience. She is a passionate coder, baker, and loves to play the cello."
-
+  #abstract: 
+  
 - id: charlotte_mazel-cabasse
   name: Charlotte Mazel-Cabasse
   subtitle: Executive Director of the Digital Humanities Center, UNIL-EPFL, Switzerland
@@ -222,7 +222,7 @@
 
 - id: stefano_vianello
   name: Stefano Vianello
-  subtitle: PhD candidate in the School of Life Sciences, EPFL, Switzerland
+  subtitle: PhD candidate in the School of Life Sciences, EPFL, Switzerland 
   thumbnail: StefanoVianello.jpg
   alt: Picture of Stefano Vianello
   twitter: sonstance95
@@ -230,7 +230,8 @@
   linkedin:
   website:
   topic: PreLight
-  description: 
+  description: Stefano's research focuses on the use of in vitro embryonic models to understand how mechanics and geometry instruct the development of implanting species such as mouse and human. Alongside his research, Stefano writes for preLights, a pre-print highlight service run by the Company of Biologists. Prelighters are early career researchers selecting and highlighting preprints of interest from the hundreds `that are published online every month. PreLights put the research into context, highlight the main points of relevance, and allow the preprint authors to provide additional information about the work they have published. 
+  #abstract: The recent appearance of preprint servers in the biological sciences has revolutionised the publishing landscape and the opportunities available to scientists wanting to disseminate their work. Indeed, the submission of a preprint bypasses the long delays associated with traditional journal publications, the exhorbitant costs associated with the process, the paywalls and embargoes imposed on the final product. Testifying of the success of such new publishing strategies is the exponential growth of the number of research papers uploaded every month to preprint-servers such as bioRxiv. Yet, how can scientists stay on top of such a rapidly accumulating new stream of literature? I will share my experience as a writer for preLights, an online platform driven by early career researchers in the biological sciences, highlighting preprints of interest, and bridging the gap between authors and their readership.
   
 - id: tim_head
   name: Tim Head
