@@ -1,5 +1,5 @@
 <!-- Begin Sessions Modals -->
-<div class="modals" class="modals">
+<div class="modals">
   {% for session in site.data.twenty_19.sessions %}
   <div class="modal fade text-left people-modal" id="sessionDetail-{{ session.id }}" tabindex="-1" role="dialog" aria-labelledby="sessionDetailLabel-{{ session.id }}" aria-hidden="true">
     <div class="modal-dialog">
@@ -64,18 +64,19 @@
                   <a href="https://www.github.com/{{speaker.github}}" target="_blank" alt="Link to Github profile">
                     <i class="fa fa-github"></i>
                   </a>
-              </div>
+                </div>
                 {% endif %}
               </div>
             </div>
-            {% endif %}
-            {% endfor %}
-            {% endfor %}
           </div>
         </div>
+        {% endif %}
+        {% endfor %}
+        {% endfor %}
       </div>
     </div>
   </div>
-  {% endfor %}
+</div>
+{% endfor %}
 </div>
 <!-- End Speakers Modals -->
