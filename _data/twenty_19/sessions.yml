@@ -58,10 +58,10 @@
   service: true
 -
   id: 202
-  title: "Publishing in Open Access: key concepts and current framework EPFL Library"
+  title: "Publishing in Open Access: key concepts and current framework "
   description: ""
   subtype: presentation
-  speakers: [jon_tennant]
+  speakers: true # someone from EPFL Library, TDB
 -
   id: 203
   title: "BioRxiv: How I Learned To Stop Worrying And Love The Preprints"
@@ -90,7 +90,7 @@
   title: "Workshop: Tools, tips and tricks that will make your life easier"
   description: ""
   subtype: workshop
-  speakers: []
+  speakers: true # someone from EPFL Library, TDB
 
 -
   id: 301
@@ -110,7 +110,7 @@
   id: 304
   title: "PreLight"
   description: ""
-  speakers: []
+  speakers: [stefano_vianello]
 -
   id: 305
   title: "How to build your own community"
@@ -147,7 +147,7 @@
   title: "Workshop: Code and data management: where to start?"
   subtype: workshop
   description: ""
-  speakers: []
+  speakers: true # someone from EPFL Library, TDB
 -
   id: 406
   title: "Workshop: Robust data analysis: an introduction to R"
@@ -159,11 +159,12 @@
   title: "Discussion: Open Science and the rest of society"
   description: ""
   subtype: workshop
+  speakers: true # TBD
 
 -
   id: 501
   title: "Welcome and Introduction"
-  speakers: [luc_henry]
+  speakers: true # TBD
 -
   id: 502
   title: "TBD"
@@ -173,7 +174,7 @@
   id: 503
   title: "Workshop: Frictionless Data for Reproducible Research"
   subtype: presentation
-  speakers: []
+  speakers: [lilly_winfree]
 -
   id: 504
   title: "Conclusions"
