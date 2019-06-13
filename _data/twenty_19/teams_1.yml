@@ -1,5 +1,6 @@
 # Put images in assets/2019_style/img/team/
 - name: Luc Henry
+  id: luc_henry
   position: Scientific Advisor, EPFL, Switzerland
   thumbnail: LucHenry.jpg
   email: "luc.henry@epfl.ch"
@@ -9,6 +10,7 @@
   description: Luc Henry has perfected his research skills in Switzerland, Sweden, Germany and the United Kingdom, between 2002 and 2014. Over his scientific career, he gradually got involved in communication and policy. As a journalist and advisor, he later focused on the impact of new technologies on society, in particular in the fields of biotechnology and health. In 2014, Luc founded the community laboratory ‘Hackuarium’ in order to provide a space where like-minded people can meet and learn biology by doing, independently of their education and occupation. He currently advises the president of EPFL on research policy issues. Luc earned a DPhil (PhD) in chemical biology from the University of Oxford in 2012.
 
 - name: Galina Limorenko
+  id: galina_limorenko
   position: PhD candidate in the School of Life Sciences, EPFL, Switzerland
   thumbnail: GalinaLimorenko.jpeg
   email: "galina.limorenko@epfl.ch"
@@ -18,6 +20,7 @@
   description: Galina is investigating molecular mechanisms of neurodegeneration using novel biochemical and biophysical methods. She has a degree in Genetics from Cardiff University, UK, and gained laboratory experiences in UK, Switzerland and Sweden. Galina is interested in bringing the methods for large data analysis into the field of experimental molecular science. She is an eLife Ambassador and is committed to advocating and promoting the open science culture.
 
 - name: Stephan Heunis
+  id: stephan_heunis
   position: PhD candidate at the Electrical Engineering department of the Eindhoven University of Technology, The Netherlands
   thumbnail: StephanHeunis.jpeg
   email: "J.S.Heunis@tue.nl"
@@ -27,6 +30,7 @@
   description: Stephan’s research focuses on developing new acquisition and signal processing methods for functional neuroimaging that allow the tracking and visualisation of distributed brain activity patterns in real-time, i.e. while someone is inside an MRI scanner, and applying this in clinical practice. Stephan is passionate about making research and scientific practice more transparent, rigorous and inclusive. He started the Open Science Community Eindhoven , which is part of a wide Dutch network of researchers and university employees that works on improving the way we do science, and he is the founder of OpenMR Benelux , a community working on wider adoption of open science principles in MRI research through talks, discussions, workshops and hackathons.
 
 - name: Anubhav Ratha
+  id: anubhav_ratha
   position: PhD candidate at the Technical University of Denmark (DTU), Denmark
   thumbnail: AnubhavRatha.jpg
   email: "arath@elektro.dtu.dk"
@@ -36,6 +40,7 @@
   description: Anubhav's research focus is on the design of market mechanisms and market products for an energy future where integrated multi-energy systems (electricity, natural gas and heating/cooling) will be commonplace. After receiving his M.Sc. from ETH Zurich, Anubhav co-founded a start-up which developed innovative solutions for the future of electricity grids with increasing renewable energy, demand-side participation and a smarter grid.
 
 - name: Karen Adam
+  id: karen_adam
   position: PhD candidate in Computer and Communication Sciences at EPFL
   thumbnail: KarenAdam.jpg
   email: "karen.adam@epfl.ch"
@@ -45,6 +50,7 @@
   description:
 
 - name: Robin Denhardt-Eriksson
+  id: robin_denhardt_eriksson
   position: PhD candidate in the Laboratory of Computational Systems Biotechnology
   thumbnail: RobinEriksson.jpg
   email: "robin.denhardt-eriksson@epfl.ch"
@@ -54,6 +60,7 @@
   description:
 
 - name: Frederike Dümbgen
+  id: frederike_duembgen
   position: PhD candidate in Computer and Communication Sciences at EPFL
   thumbnail: FrederikeDuembgen.jpg
   email: "frederike.duembgen@epfl.ch"
@@ -64,6 +71,7 @@
   description:
 
 - name: Martin Müller
+  id: martin_mueller
   position: PhD candidate at the Digital Epidemiology Lab
   thumbnail: MartinMueller.jpg
   email: "martin.mueller@epfl.ch"

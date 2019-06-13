@@ -1,5 +1,5 @@
 for filename in *.jpg; do
-  convert -define jpeg:size=200x200 $filename -thumbnail 40x40^ -gravity center -extent 40x40 "thumb/$filename"
-  convert -define jpeg:size=200x200 $filename -thumbnail 80x80^ -gravity center -extent 80x80 "modal/$filename"
+  convert $filename -gravity center -resize 40x40^ -quality 100 "thumb/$filename"
+  convert $filename -gravity center -resize 80x80^ -quality 100 -sharpen 0x1.15 "modal/$filename"
 done
 

@@ -1,59 +1,202 @@
 -
-  id: 307
-  title: "Coffee Break"
-  place: "Hall"
-  service: true
-  description: "The best time to talk with speakers and attendees"
--
-  id: 503
-  title: "Lunch Break"
-  place: "Dining room"
+  id: 000
+  title: "Coffee break"
+  description: ""
   service: true
 -
   id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
-  subtype: workshop
-  speakers: [bruno_strasser, jon_tennant]
-  language: en
-  complexity: "Intermediate"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  title: "Arrival"
+  service: true
 -
   id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
+  title: "Lunch"
+  service: true
+
+-
+  id: 101
+  title: "Welcome and introduction to the course"
+  speakers: [luc_henry]
+-
+  id: 102
+  title: "Open Science: just science done right?"
+  description: ""
+  subtype: presentation
+  speakers: [jon_tennant]
+-
+  id: 103
+  title: "Openness in Science: a very short history"
+  description: ""
   subtype: presentation
   speakers: [bruno_strasser]
-  language:
-  complexity: "Intermediate"
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
-  id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
+  id: 104
+  title: "Coffee break and ice breaker"
+  description: ""
+  service: true
+-
+  id: 105
+  title: "Diversity and Inclusiveness in Open Science"
+  description: ""
   subtype: presentation
-  speakers: [bruno_strasser, jon_tennant]
-  language: en
-  complexity: "Intermediate"
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  speakers: [malvika_sharan]
 -
-  id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [charlotte_weber]
-  language: uk
-  complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  id: 106
+  title: "Workshop: The Research Process - What, When, With Whom?"
+  description: ""
+  subtype: workshop
+  speakers: [luc_henry]
 -
-  id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
+  id: 107
+  title: "Workshop: Open Science, your Career as a Researcher, and Beyond"
+  description: ""
+  subtype: workshop
+  speakers: [melanie_rothlisberger, charlotte_weber]
+
+-
+  id: 201
+  title: "Welcome and introduction to Day 2"
+  service: true
+-
+  id: 202
+  title: "Publishing in Open Access: key concepts and current framework EPFL Library"
+  description: ""
+  subtype: presentation
+  speakers: [jon_tennant]
+-
+  id: 203
+  title: "BioRxiv: How I Learned To Stop Worrying And Love The Preprints"
+  description: ""
+  subtype: presentation
   speakers: [marc_robinson_rechavi]
-  language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 204
+  title: "Wikipedia means Open Science"
+  description: ""
+  speakers: [frederic_schutz]
+-
+  id: 205
+  title: "Open Science: what can we expect from lawyers?"
+  description: ""
+  subtype: presentation
+  speakers: [michel_jaccard]
+-
+  id: 206
+  title: "Workshop: Reproducible Research Decoded"
+  description: ""
+  subtype: workshop
+  speakers: [fatma_deniz, charlotte_mazel-cabasse]
+-
+  id: 207
+  title: "Workshop: Tools, tips and tricks that will make your life easier"
+  description: ""
+  subtype: workshop
+  speakers: []
+
+-
+  id: 301
+  title: "Welcome and introduction to Day 3"
+  service: true
+-
+  id: 302
+  title: "eLife Ambassadors Community"
+  description: ""
+  subtype: presentation
+  speakers: [galina_limorenko]
+-
+  id: 303
+  title: "TBD"
+  service: true
+-
+  id: 304
+  title: "PreLight"
+  description: ""
+  speakers: []
+-
+  id: 305
+  title: "How to build your own community"
+  description: ""
+  subtype: presentation
+  speakers: [stephan_heunis]
+-
+  id: 306
+  title: "Workshop: Reproducible experimental methods"
+  description: ""
+  subtype: workshop
+  speakers: [anita_broellochs]
+-
+  id: 307
+  title: "Excursion - TBD"
+  service: true
+
+-
+  id: 401
+  title: "Welcome and introduction to Day 4"
+  service: true
+-
+  id: 402
+  title: "Employing Open Source: A Case Study in Software and Hardware"
+  description: ""
+  subtype: presentation
+  speakers: [maximilian_strauss]
+-
+  id: 403
+  title: "TBD"
+  service: true
+-
+  id: 405
+  title: "Workshop: Code and data management: where to start?"
+  subtype: workshop
+  description: ""
+  speakers: []
+-
+  id: 406
+  title: "Workshop: Robust data analysis: an introduction to R"
+  description: ""
+  subtype: presentation
+  speakers: [sina_rueeger]
+-
+  id: 407
+  title: "Discussion: Open Science and the rest of society"
+  description: ""
+  subtype: workshop
+
+-
+  id: 501
+  title: "Welcome and Introduction"
+  speakers: [luc_henry]
+-
+  id: 502
+  title: "TBD"
+  description: ""
+  service: true
+-
+  id: 503
+  title: "Workshop: Frictionless Data for Reproducible Research"
+  subtype: presentation
+  speakers: []
+-
+  id: 504
+  title: "Conclusions"
+  subtype: presentation
+  description: ""
+  speakers: [martin_vetterli]
+-
+  id: 505
+  title: "Closing remarks"
+  service: true
+-
+  id: 506
+  title: "Standing lunch and departure"
+  service: true
+
+# Example
+# -
+#   id: 005
+#   title: "Test: Interacting with Google Services using nothing but HTML"
+#   description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+#   subtype: keynote
+#   speakers: [marc_robinson_rechavi]
+#   language: en
+#   complexity: "Expert"
+#   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+#   video: "//www.youtube.com/embed/v3SCiUqI1yQ"

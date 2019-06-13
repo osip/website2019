@@ -33,7 +33,7 @@
   website: "https://medium.com/@adrien_ball"
   #email: adrienball3@gmail.com
   topic: Experiences from going open source
-  description: "Adrien is a software engineer and machine learning specialist. He has been working at Snips for the past 4 years where his recent focus has been on building the Natural Language Understanding (NLU) component powering the Snips Voice Assistant Technology. Adrien is a Python and Rust enthusiast and strongly believes in open source software development. Most of his contributions at Snips in the field of NLU are open source and publicly available on Github. He is an engineer from Ecole Polytechnique, and holds a MSc in Probabilities from Université Pierre & Marie Curie in Paris." 
+  description: "Adrien is a software engineer and machine learning specialist. He has been working at Snips for the past 4 years where his recent focus has been on building the Natural Language Understanding (NLU) component powering the Snips Voice Assistant Technology. Adrien is a Python and Rust enthusiast and strongly believes in open source software development. Most of his contributions at Snips in the field of NLU are open source and publicly available on Github. He is an engineer from Ecole Polytechnique, and holds a MSc in Probabilities from Université Pierre & Marie Curie in Paris."
 
 # There are many good reasons to open source a library but the journey to open source may feel painful on various aspects. Open sourcing done right requires efforts on several fronts like packaging, testing, documentation or code clarity in general. However, it turns out that there is a lot to gain in the process as some of these efforts get converted into good practices. Making choices that incentivize people to use and contribute to your work will eventually benefit both the community and you as the maintainer.
 
@@ -73,14 +73,14 @@
   topic: "Open Science, your Career as a Researcher, and Beyond"
   description: "Melanie Röthlisberger is a Swiss linguist working at the University of Zurich. She received her PhD in 2018 from Leuven (Belgium) and has since then been involved in the Open Science movement. Her main interests include Open Access and compliance with funding requirements, possibilities to acquire funding to publish open access (especially with regard to the humanities), making data and code open (and FAIR) and changing the reward system."
 
-- id: charlotte_weber 
-  name: Charlotte Teresa Weber 
+- id: charlotte_weber
+  name: Charlotte Teresa Weber
   subtitle: Researcher at The Arctic University of Norway in Tromsø, Norway
   thumbnail: CharlotteWeber.jpg
   alt: Picture of Charlotte Teresa Weber
-  twitter: 
+  twitter:
   github:
-  linkedin: 
+  linkedin:
   website:
   topic: "Open Science, your Career as a Researcher, and Beyond"
   description: "Charlotte has a background in marine biology and conservation and a PhD in natural resource management. She currently works as an interdisciplinary researcher at UiT, The Arctic University of Norway in Tromsø, where she studies natural resources under climate change. She is the skills officer for Eurodoc and has been actively involved in (transferable) skills development, doctoral training, and the open science movement. Her main interests are open access, open access skills, and (early-career researchers’) career development under open science."
@@ -108,7 +108,7 @@
   website:
   topic: Wikipedia and Open Science
   description:
-  
+
 - id: maximilian_strauss
   name: Maximilian Strauss
   subtitle: Postdoctoral Researcher, Ludwig-Maximilians Universität München and Max Planck Institute of Biochemistry, Germany
@@ -120,7 +120,7 @@
   website:
   topic: "Employing Open Source: A case study"
   description: "Maximilian is a mechanical engineer with specialization in medical technology / biomedical engineering with a research doctorate in physics. Being fascinated by the question of What is Life? he decided to dive into Biophysics to understand the physical aspects of the building blocks of life. To study these objects, he built microscopes and employed super-resolution microscopy techniques. During his research, he noticed the increasing demand for computational methods to gather meaningful data and was amazed to explore the state of the art of Machine Learning and the Open Source community. Having now found a great workhorse in Python he is eager to apply cutting-edge algorithms and statistical methods to bring meaningful insight into data and optimize technology. He is currently working at the Max Planck Institute of Biochemistry in the group of Matthias Mann."
-  
+
 - id: michel_jaccard
   name: Michel Jaccard
   subtitle: Lawyer, Associate at id est avocats, Lausanne, Switzerland
@@ -196,7 +196,7 @@
   topic: Detailed Experimental Methods for Reproducible Science
   description: "Anita Bröllochs is working closely with the scientific community to help make research more reproducible. She has a strong passion for open access and tools that help accelerate scientific discoveries. Anita studied Life Science Engineering at the Friedrich-Alexander University Erlangen-Nürnberg, Germany. Her background is in optical clearing of skeletal muscle tissue for multi-photon microscopy."
 
-- id: sina_Rueeger
+- id: sina_rueeger
   name: Sina Rüeger
   subtitle: Postdoctoral Researcher, EPFL, Switzerland
   thumbnail: SinaRueeger.jpg
@@ -243,3 +243,15 @@
   website:
   topic: Closing remarks
   description: "Martin Vetterli is the President of the Swiss Federal Institute of Technology Lausanne (EPFL) since 2017. After a degree in electrical engineering from the ETH Zürich in 1981, he graduated from the Stanford University in 1982. He then obtained his doctorate in science at EPFL in 1986 and went on to teach at Columbia University as an assistant and then associate professor. In 1993, he was appointed ordinary professor in the Department of Electrical Engineering and Computer Science of the University of Berkeley. Since 1995, he is a full professor at the audiovisual communications laboratory at EPFL. From 2013 to 2016, Martin Vetterli was President of the National Research Council of the Swiss National Science Foundation (SNSF). In this role, he strengthened the promotion of young scientists under the 2013-2016 multiannual programme, as well as the SNSF’s commitment to Open Access and Open Science."
+
+- name: Luc Henry
+  id: luc_henry
+  position: Scientific Advisor, EPFL, Switzerland
+  thumbnail: LucHenry.jpg
+  alt: Picture of Luc Henry
+  email: "luc.henry@epfl.ch"
+  twitter: heluc
+  linkedIn: https://www.linkedin.com/in/luc-henry/
+  github: heluc
+  description: Luc Henry has perfected his research skills in Switzerland, Sweden, Germany and the United Kingdom, between 2002 and 2014. Over his scientific career, he gradually got involved in communication and policy. As a journalist and advisor, he later focused on the impact of new technologies on society, in particular in the fields of biotechnology and health. In 2014, Luc founded the community laboratory ‘Hackuarium’ in order to provide a space where like-minded people can meet and learn biology by doing, independently of their education and occupation. He currently advises the president of EPFL on research policy issues. Luc earned a DPhil (PhD) in chemical biology from the University of Oxford in 2012.
+  hide: true
