@@ -220,6 +220,18 @@
   topic: eLife community
   description: "Galina is investigating molecular mechanisms of neurodegeneration using novel biochemical and biophysical methods. She has a degree in Genetics from Cardiff University, UK, and gained laboratory experiences in UK, Switzerland and Sweden. Galina is interested in bringing the methods for large data analysis into the field of experimental molecular science. She is an eLife Ambassador and is committed to advocating and promoting the open science culture."
 
+- id: stefano_vianello
+  name: Stefano Vianello
+  subtitle: PhD candidate in the School of Life Sciences, EPFL, Switzerland
+  thumbnail: StefanoVianello.jpg
+  alt: Picture of Stefano Vianello
+  twitter: sonstance95
+  github:
+  linkedin:
+  website:
+  topic: PreLight
+  description: 
+  
 - id: tim_head
   name: Tim Head
   subtitle: Software Developer,  Wild Tree Tech and Skribble
@@ -244,6 +256,19 @@
   topic: Closing remarks
   description: "Martin Vetterli is the President of the Swiss Federal Institute of Technology Lausanne (EPFL) since 2017. After a degree in electrical engineering from the ETH Zürich in 1981, he graduated from the Stanford University in 1982. He then obtained his doctorate in science at EPFL in 1986 and went on to teach at Columbia University as an assistant and then associate professor. In 1993, he was appointed ordinary professor in the Department of Electrical Engineering and Computer Science of the University of Berkeley. Since 1995, he is a full professor at the audiovisual communications laboratory at EPFL. From 2013 to 2016, Martin Vetterli was President of the National Research Council of the Swiss National Science Foundation (SNSF). In this role, he strengthened the promotion of young scientists under the 2013-2016 multiannual programme, as well as the SNSF’s commitment to Open Access and Open Science."
 
+- id: lilly_winfree
+  name: Lilly Winfree
+  subtitle: Open Knowledge Foundation (OKFN)
+  thumbnail: LillyWinfree.jpg
+  alt: Picture of Lilly Winfree
+  twitter: lilscientista
+  github: lwinfree
+  linkedin: https://www.linkedin.com/in/lilly-winfree-phd/
+  website:
+  topic: Frictionless Data for Reproducible Research
+  description:
+  #abstract: Getting insight from scientific data is not always a straightforward process. Data is often hard to find, archived in difficult to use formats, poorly structured and/or incomplete.  These issues create friction and make it difficult to use, publish and share data. The Frictionless Data initiative at Open Knowledge Foundation aims to reduce friction in working with data, with a goal to make it effortless to transport data among different tools and platforms for further analysis and with an emphasis on reproducible research. In this workshop, participants will learn about different sources of friction in working with scientific data and how to alleviate them using the open source Frictionless Data tools. This hands-on workshop is aimed for novices, but advanced programmers are also welcome.
+  
 - name: Luc Henry
   id: luc_henry
   position: Scientific Advisor, EPFL, Switzerland
