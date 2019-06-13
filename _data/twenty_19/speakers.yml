@@ -270,14 +270,14 @@
   description:
   #abstract: Getting insight from scientific data is not always a straightforward process. Data is often hard to find, archived in difficult to use formats, poorly structured and/or incomplete.  These issues create friction and make it difficult to use, publish and share data. The Frictionless Data initiative at Open Knowledge Foundation aims to reduce friction in working with data, with a goal to make it effortless to transport data among different tools and platforms for further analysis and with an emphasis on reproducible research. In this workshop, participants will learn about different sources of friction in working with scientific data and how to alleviate them using the open source Frictionless Data tools. This hands-on workshop is aimed for novices, but advanced programmers are also welcome.
   
-- name: Luc Henry
-  id: luc_henry
-  position: Scientific Advisor, EPFL, Switzerland
+- id: luc_henry
+  name: Luc Henry
+  subtitle: Scientific Advisor, EPFL, Switzerland
   thumbnail: LucHenry.jpg
   alt: Picture of Luc Henry
   email: "luc.henry@epfl.ch"
   twitter: heluc
-  linkedIn: https://www.linkedin.com/in/luc-henry/
   github: heluc
+  linkedIn: https://www.linkedin.com/in/luc-henry/
   description: Luc Henry has perfected his research skills in Switzerland, Sweden, Germany and the United Kingdom, between 2002 and 2014. Over his scientific career, he gradually got involved in communication and policy. As a journalist and advisor, he later focused on the impact of new technologies on society, in particular in the fields of biotechnology and health. In 2014, Luc founded the community laboratory ‘Hackuarium’ in order to provide a space where like-minded people can meet and learn biology by doing, independently of their education and occupation. He currently advises the president of EPFL on research policy issues. Luc earned a DPhil (PhD) in chemical biology from the University of Oxford in 2012.
   hide: true
