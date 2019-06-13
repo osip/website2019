@@ -9,7 +9,7 @@
           <div class="text-center" style="margin-bottom:50px;">
             <h1 class="section-heading">Team</h1>
           </div>
-          {% for member in site.data.twenty_19.teams_1 %}
+          {% for member in site.data.twenty_19.team %}
           {% assign indexmod3 = forloop.index | modulo: 4 %}
           {% if indexmod3 == 0 %}
           <div style="clear: both;"></div>
