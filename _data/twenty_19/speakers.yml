@@ -223,7 +223,7 @@
 - id: stefano_vianello
   name: Stefano Vianello
   subtitle: PhD candidate in the School of Life Sciences, EPFL, Switzerland 
-  thumbnail: StefanoVianello.jpg
+  thumbnail: dummy.jpg #StefanoVianello.jpg
   alt: Picture of Stefano Vianello
   twitter: sonstance95
   github:
