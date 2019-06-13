@@ -64,12 +64,12 @@
     - {
     	startTime: "08:00",
     	endTime: "08:45",
-    	sessionIds: [201]
+    	sessionIds: [000]
     }
     - {
         startTime: "08:45",
         endTime: "09:00",
-        sessionIds: [202]
+        sessionIds: [201]
     }
     - {
     	startTime: "09:00",
