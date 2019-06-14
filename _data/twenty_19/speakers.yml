@@ -58,8 +58,8 @@
   github: wjakob
   linkedin:
   website: "https://rgl.epfl.ch/people/wjakob"
-  topic: coming soon
-  description: Wenzel is leading the Realistic Graphics Lab at EPFL.
+  topic: A software development workflow for academic research
+  description: Wenzel is an assistant professor leading the Realistic Graphics Lab at EPFL's School of Computer and Communication Sciences. His research mostly revolves around light transport simulations and material appearance models. The overarching goal of this work is to improve the accuracy and fidelity of light transport simulations in computer graphics, and to make the underlying models accurate and fast enough for predictive design and manufacturing applications. 
 
 - id: melanie_rothlisberger
   name: Melanie Röthlisberger
@@ -242,7 +242,7 @@
   github: betatim
   linkedin: https://www.linkedin.com/in/timhead/
   website: "https://betatim.github.io/pages/about.html"
-  topic: coming soon
+  topic: Tools for reproducible research
   description: "Tim is an independent software developer and teacher. He works primarily on data science tools and teaches machine-learning courses for programmers, scientists and engineers. He has worked with International Organisations in Geneva, small startups in Zurich and academics around the world. Tim trained as an experimental physicist and worked at CERN and EPFL for several years."
 
 - id: martin_vetterli
