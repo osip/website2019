@@ -129,6 +129,36 @@
   service: true
 
 -
+  id: 312
+  title: "Reproducibility in Practice - 1"
+  subtype: presentation
+  speakers: []
+-
+  id: 313
+  title: "Reproducibility in Practice - 2"
+  subtype: presentation
+  speakers: []
+-
+  id: 314
+  title: "Reproducibility in Practice - 3"
+  description: ""
+  subtype: presentation
+  speakers: []
+-
+  id: 315
+  title: "Reproducibility in Practice - 4"
+  description: ""
+  subtype: presentation
+  speakers: []
+-
+  id: 316
+  title: "Research Data Management"
+  description: ""
+  subtype: presentation
+  speakers: [sara_elgebali]
+
+
+-
   id: 401
   title: "Welcome and introduction to Day 4"
   service: true
@@ -160,6 +190,36 @@
   description: ""
   subtype: workshop
   speakers: true # TBD
+-
+  id: 412
+  title: "A Software Development Workflow for Academic Research"
+  description: "Wenzel will introduce us to the software development workflow used by his group, which enforces maintainable and reproducible development practices without losing the agility that is needed to make progress on a challenging research problem. He will step through all parts of the stack including Jupyter notebooks, C++14, pybind11, continuous integration and Git submodules in a hands-on manner. He will also share his experiences in creating projects that ultimately became relatively widely used and some of the positive and unexpected fallout that this has created."
+  subtype: presentation
+  speakers: [wenzel_jakob]
+-
+  id: 413
+  title: "Experiences from Going Open Source"
+  description: "There are many good reasons to open source a library but the journey to open source may feel painful on various aspects. Open sourcing done right requires efforts on several fronts like packaging, testing, documentation or code clarity in general. However, it turns out that there is a lot to gain in the process as some of these efforts get converted into good practices. Making choices that incentivize people to use and contribute to your work will eventually benefit both the community and you as the maintainer."
+  subtype: presentation
+  speakers: [adrien_ball]
+-
+  id: 415
+  title: "TBD"
+  subtype: presentation 
+  description: ""
+  speakers: [anne_fouilloux] # someone from EPFL Library, TDB
+-
+  id: 416
+  title: "Tools for Reproducible Research - I"
+  description: "Tim will introduce the Binder project to us. Binder drastically lowers the bar to sharing and re-using software. As a user wanting to try out someone else’s work requires only clicking a single link. For the author to prepare a binder-ready project is much easier than having to support many different platforms and for many projects involves little additional work."
+  subtype: workshop 
+  speakers: [tim_head]
+-
+  id: 417
+  title: "Tools for Reproducible Research - II"
+  description: "Tim will introduce the Binder project to us. Binder drastically lowers the bar to sharing and re-using software. As a user wanting to try out someone else’s work requires only clicking a single link. For the author to prepare a binder-ready project is much easier than having to support many different platforms and for many projects involves little additional work."
+  subtype: workshop 
+  speakers: [tim_head] # TBD
 
 -
   id: 501
@@ -190,6 +250,12 @@
   title: "Standing lunch and departure"
   service: true
 
+-
+  id: 513
+  title: "Reproducible Research through Containerisation: Docker and Singularity"
+  description: "A container image is a lightweight, standalone, executable package of software that includes everything needed to run an application: code, runtime, system tools, system libraries and settings. Containers can be used to package entire scientific workflows, software and libraries, and even data. This means that you don’t have to ask your cluster admin to install anything for you - you can put it in a container and run or easily share your analysis with collaborators. Containers are particularly useful way for reproducing research which relies on software to be configured in a certain way, and/or which makes use of libraries that vary between (or don’t exist on) different systems. There are a number of different tools available for creating and working with containers, and this workshop will focus on Docker and Singularity. "
+  subtype: presentation
+  speakers: [rachael_ainsworth]
 # Example
 # -
 #   id: 005

@@ -35,7 +35,6 @@
   topic: Experiences from going open source
   description: "Adrien is a software engineer and machine learning specialist. He has been working at Snips for the past 4 years where his recent focus has been on building the Natural Language Understanding (NLU) component powering the Snips Voice Assistant Technology. Adrien is a Python and Rust enthusiast and strongly believes in open source software development. Most of his contributions at Snips in the field of NLU are open source and publicly available on Github. He is an engineer from Ecole Polytechnique, and holds a MSc in Probabilities from Université Pierre & Marie Curie in Paris."
 
-# There are many good reasons to open source a library but the journey to open source may feel painful on various aspects. Open sourcing done right requires efforts on several fronts like packaging, testing, documentation or code clarity in general. However, it turns out that there is a lot to gain in the process as some of these efforts get converted into good practices. Making choices that incentivize people to use and contribute to your work will eventually benefit both the community and you as the maintainer.
 
 - id: bruno_strasser
   name: Bruno Strasser
@@ -145,7 +144,6 @@
   website: "https://rainsworth.github.io/"
   topic: "Reproducible Research through Containerisation: Docker and Singularity"
   description: "Rachael is a Research Associate in Radio Astronomy and Open Science Champion at the Jodrell Bank Centre for Astrophysics, University of Manchester. She is passionate about openness, transparency, reproducibility and inclusion in research. She is also a Software Sustainability Institute Fellow, FOSTER certified Open Science Trainer, Mozilla Open Leader, member of The Turing Way community, organiser for the women in data meetup group HER+Data MCR and member of the first cohort of Tech Future Female Leaders."
-  #abstract: A container image is a lightweight, standalone, executable package of software that includes everything needed to run an application: code, runtime, system tools, system libraries and settings. Containers can be used to package entire scientific workflows, software and libraries, and even data. This means that you don’t have to ask your cluster admin to install anything for you - you can put it in a container and run or easily share your analysis with collaborators. Containers are particularly useful way for reproducing research which relies on software to be configured in a certain way, and/or which makes use of libraries that vary between (or don’t exist on) different systems. There are a number of different tools available for creating and working with containers, and this workshop will focus on Docker and Singularity.
 
 - id: fatma_deniz
   name: Fatma Deniz
@@ -243,7 +241,7 @@
   linkedin: https://www.linkedin.com/in/timhead/
   website: "https://betatim.github.io/pages/about.html"
   topic: Tools for reproducible research
-  description: "Tim is an independent software developer and teacher. He works primarily on data science tools and teaches machine-learning courses for programmers, scientists and engineers. He has worked with International Organisations in Geneva, small startups in Zurich and academics around the world. Tim trained as an experimental physicist and worked at CERN and EPFL for several years."
+  description: "Tim is one of the founders of Project Binder, an open project that builds the tools and community needed to provide a free service that lets anyone run other people's code in the cloud, for free and without any setup hassle. As his day job he works as a software engineer for Skribble, a Zurich based company aiming to replace hand-written signatures in high trust transactions. Tim trained as an experimental physicist and worked at CERN and EPFL for several years."
 
 - id: martin_vetterli
   name: Martin Vetterli
@@ -269,6 +267,21 @@
   topic: Frictionless Data for Reproducible Research
   description: Lilly is the product manager for the Frictionless Data for Reproducible Research project. She has her PhD in neuroscience from Oregon Health and Science University, where she researched brain injury in fruit flies and became an advocate for open science and open data. Lilly believes that the future of research is open, and is using Frictionless Data tooling within the researcher community to make science more reproducible. In her free time, you can find Lilly running, hanging out with her dogs, or reading sci-fi.
   #abstract: Getting insight from scientific data is not always a straightforward process. Data is often hard to find, archived in difficult to use formats, poorly structured and/or incomplete.  These issues create friction and make it difficult to use, publish and share data. The Frictionless Data initiative at Open Knowledge Foundation aims to reduce friction in working with data, with a goal to make it effortless to transport data among different tools and platforms for further analysis and with an emphasis on reproducible research. In this workshop, participants will learn about different sources of friction in working with scientific data and how to alleviate them using the open source Frictionless Data tools. This hands-on workshop is aimed for novices, but advanced programmers are also welcome.
+- id: sara_elgebali 
+  name: Sara El Gebali
+  subtitle: Scientific Database Curator, Finn team, European Bioinformatics Institute (EMBL-EBI)
+  thumbnail: dummy.jpg
+  alt: Picture of Sara El Gebali
+  twitter: "@yalahowy"
+  description: "Coming soon" 
+
+- id: anne_fouilloux
+  name: Anne Claire Fouilloux 
+  subtitle: Senior Engineer, Department of Geosciences, University of Oslo
+  thumbnail: dummy.jpg
+  alt: Picture of Anne Fouilloux 
+  description: "Coming soon" 
+
 
 - id: luc_henry
   name: Luc Henry
