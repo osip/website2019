@@ -35,7 +35,6 @@
   topic: Experiences from going open source
   description: "Adrien is a software engineer and machine learning specialist. He has been working at Snips for the past 4 years where his recent focus has been on building the Natural Language Understanding (NLU) component powering the Snips Voice Assistant Technology. Adrien is a Python and Rust enthusiast and strongly believes in open source software development. Most of his contributions at Snips in the field of NLU are open source and publicly available on Github. He is an engineer from Ecole Polytechnique, and holds a MSc in Probabilities from Université Pierre & Marie Curie in Paris."
 
-
 - id: bruno_strasser
   name: Bruno Strasser
   subtitle: Professor, University of Geneva, Switzerland
@@ -267,6 +266,33 @@
   topic: Frictionless Data for Reproducible Research
   description: Lilly is the product manager for the Frictionless Data for Reproducible Research project. She has her PhD in neuroscience from Oregon Health and Science University, where she researched brain injury in fruit flies and became an advocate for open science and open data. Lilly believes that the future of research is open, and is using Frictionless Data tooling within the researcher community to make science more reproducible. In her free time, you can find Lilly running, hanging out with her dogs, or reading sci-fi.
   #abstract: Getting insight from scientific data is not always a straightforward process. Data is often hard to find, archived in difficult to use formats, poorly structured and/or incomplete.  These issues create friction and make it difficult to use, publish and share data. The Frictionless Data initiative at Open Knowledge Foundation aims to reduce friction in working with data, with a goal to make it effortless to transport data among different tools and platforms for further analysis and with an emphasis on reproducible research. In this workshop, participants will learn about different sources of friction in working with scientific data and how to alleviate them using the open source Frictionless Data tools. This hands-on workshop is aimed for novices, but advanced programmers are also welcome.
+
+- id: benjamin_stecher
+  name: Benjamin Stecher
+  subtitle: Industry and Academic Patient Consultant & Open Science Advocate
+  thumbnail: BenjaminStecher.jpg
+  alt: Picture of Benjamin Stecher
+  twitter: Neuronologist1
+  github: 
+  linkedin: https://ca.linkedin.com/in/benjamin-stecher-86706420
+  website:
+  topic: Open science and patient advocacy
+  description: Ben was born in Nairobi, Kenya as an Israeli to Jewish parents from Poland but grew up just outside Toronto, Canada. He studied history and philosophy at the University of Guelph, but as soon as he got his BA went to live and work as a teacher in South Korea for nearly three years while traveling the world. He moved to Shanghai, China at 26, spending one year at Jiao Tong University in a Chinese language program before being hired by Chinese education company, San Li. He rose quickly to become a managing partner where his duties included: overseeing operations at branches throughout South East China, developing curriculum, teacher training, parent relations, while teaching SAT and world history classes. Ben was diagnosed with Parkinson's disease at 29. He left China at 32 to learn how to better manage this disease and see what future therapies were on the horizon. He is now a prolific author and is actively involved in PD research advocacy. He is the founder of Tomorrow Edition (tmrwedition.com), co-founder of the Parkinson's Research Advocacy Group (prag.site), and patient advisor to the World Parkinson's Congress. 
+  #abstract: 
+  
+- id: alberto_antonietti
+  name: Alberto Antonietti
+  subtitle: Postdoctoral research fellow, NeuroEngineering And medical Robotics Laboratory, Department of Electronics, Information and Bioengineering, Politecnico di Milano
+  thumbnail: AlbertoAntonietti.jpg
+  alt: Picture of Alberto Antonietti
+  twitter: _AAlpha
+  github: alberto-antonietti
+  linkedin: 
+  website:
+  topic: Show me your data! How to analyze and share your results in the most useful way.
+  description: Alberto Antonietti got his Ph.D. in Bioengineering in May 2018, working at the Neuroengineering and Medical Robotics Laboratory of Politecnico di Milano, Italy. During his Ph.D., he has worked on computational neuroscience topics related to motor learning, in particular on the cerebellum. Now, he is working as a Postdoctoral research fellow, with interests not limited to computational neuroscience topics. He has been active in scientific communities of neuroinformatics and bioengineering, with a keen interest in promoting Open Science and Open Data.
+  #abstract: Figures and graphs are one of the most useful ways to understand and analyze data in every scientific field. A nicely crafted picture can help yourself to better understand the data that you are investigating and, later on, it can convey much more information than a mere block of text. At the same time, a bad visualization of the data can lead to incorrect or biased interpretations. In this workshop, I will present various examples of data visualization in the neuroscience realm, identifying bad behaviors, and proposing some guidelines and best practices for data visualization. Finally, we will see how to share reproducible and interactive figures that can integrate the traditional journal paper that you are going to publish.
+  
 - id: sara_elgebali 
   name: Sara El Gebali
   subtitle: Scientific Database Curator, Finn team, European Bioinformatics Institute (EMBL-EBI)
