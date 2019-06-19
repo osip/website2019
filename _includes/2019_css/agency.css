@@ -24,7 +24,7 @@ body {
   width: 100%;
   overflow-x: hidden;
   color: #{{ site.data.template.color.black }};
-}
+  }
 
 table {
   font-size:110%;
@@ -391,7 +391,7 @@ fieldset[disabled] .btn-xl.active {
 
 header {
   height: 50vh;
-  text-align: center;
+  text-align: bottom center;
   color: #fff;
   background-attachment: scroll;
   background-image: url('img/header-bg-small.jpg');
@@ -404,7 +404,6 @@ header {
 }
 
 header .intro-text {
-  padding-top: 25vh;
   padding-bottom: 50px;
 }
 
