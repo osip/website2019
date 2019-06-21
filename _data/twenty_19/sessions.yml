@@ -105,7 +105,9 @@
 -
   id: 303
   title: "TBD"
-  service: true
+  description: ""
+  subtype: presentation
+  speakers: [tbd]
 -
   id: 304
   title: "PreLight"
@@ -132,24 +134,28 @@
   id: 312
   title: "Reproducibility in Practice - 1"
   subtype: presentation
-  speakers: []
+  description: "Interactive talk series given by early-career researchers about their experiences in reproduciblity challenges, hackathons and the like. "
+  speakers: [tbd]
 -
   id: 313
   title: "Reproducibility in Practice - 2"
   subtype: presentation
-  speakers: []
+  description: "Interactive talk series given by early-career researchers about their experiences in reproduciblity challenges, hackathons and the like. "
+  speakers: [tbd]
 -
   id: 314
   title: "Reproducibility in Practice - 3"
   description: ""
   subtype: presentation
-  speakers: []
+  description: "Interactive talk series given by early-career researchers about their experiences in reproduciblity challenges, hackathons and the like. "
+  speakers: [tbd]
 -
   id: 315
   title: "Reproducibility in Practice - 4"
   description: ""
   subtype: presentation
-  speakers: []
+  description: "Interactive talk series given by early-career researchers about their experiences in reproduciblity challenges, hackathons and the like. "
+  speakers: [tbd]
 -
   id: 316
   title: "Research Data Management"
@@ -171,7 +177,9 @@
 -
   id: 403
   title: "TBD"
-  service: true
+  subtype: presentation
+  description: ""
+  speakers: [tbd]
 -
   id: 405
   title: "Workshop: Code and data management: where to start?"
@@ -229,11 +237,12 @@
   id: 502
   title: "TBD"
   description: ""
-  service: true
+  service: true 
 -
   id: 503
   title: "Workshop: Frictionless Data for Reproducible Research"
   subtype: presentation
+  description: ""
   speakers: [lilly_winfree]
 -
   id: 504

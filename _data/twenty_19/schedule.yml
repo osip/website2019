@@ -6,7 +6,8 @@
   tracks:
     - {
     title: "",
-    color: "#FF9E6B"
+    colorText: "#FF9E6B",
+    colorBackground: "#FFC9AD"
     }
   timeslots:
     - {
@@ -58,7 +59,8 @@
   tracks:
     - {
     title: "",
-    color: "#FF9E6B"
+    colorText: "#FF9E6B",
+    colorBackground: "#FFC9AD"
     }
   timeslots:
     - {
@@ -120,11 +122,13 @@
   tracks:
     - {
     title: "Experimental",
-    color: "#FF9E6B"
+    colorText: "#FF9E6B",
+    colorBackground: "#FFC9AD"
     }
     - {
     title: "Computational",
-    color: "#FF9E6B"
+    colorText: "#2785CC",
+    colorBackground: "#80A9C8"
     }
   timeslots:
     - {
@@ -185,8 +189,14 @@
   defaultColor: "#FF9E6B"
   tracks:
     - {
-    title: "",
-    color: "#FF9E6B"
+    title: "Experimental",
+    colorText: "#FF9E6B",
+    colorBackground: "#FFC9AD"
+    }
+    - {
+    title: "Computational",
+    colorText: "#2785CC",
+    colorBackground: "#80A9C8"
     }
   timeslots:
     - {
@@ -242,8 +252,14 @@
   defaultColor: "#FF9E6B"
   tracks:
     - {
-    title: "",
-    color: "#FF9E6B"
+    title: "Experimental",
+    colorText: "#FF9E6B",
+    colorBackground: "#FFC9AD"
+    }
+    - {
+    title: "Computational",
+    colorText: "#2785CC",
+    colorBackground: "#80A9C8"
     }
   timeslots:
     - {

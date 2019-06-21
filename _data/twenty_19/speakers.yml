@@ -35,7 +35,6 @@
   topic: Experiences from going open source
   description: "Adrien is a software engineer and machine learning specialist. He has been working at Snips for the past 4 years where his recent focus has been on building the Natural Language Understanding (NLU) component powering the Snips Voice Assistant Technology. Adrien is a Python and Rust enthusiast and strongly believes in open source software development. Most of his contributions at Snips in the field of NLU are open source and publicly available on Github. He is an engineer from Ecole Polytechnique, and holds a MSc in Probabilities from Université Pierre & Marie Curie in Paris."
 
-
 - id: bruno_strasser
   name: Bruno Strasser
   subtitle: Professor, University of Geneva, Switzerland
@@ -293,4 +292,12 @@
   github: heluc
   linkedIn: https://www.linkedin.com/in/luc-henry/
   description: Luc Henry has perfected his research skills in Switzerland, Sweden, Germany and the United Kingdom, between 2002 and 2014. Over his scientific career, he gradually got involved in communication and policy. As a journalist and advisor, he later focused on the impact of new technologies on society, in particular in the fields of biotechnology and health. In 2014, Luc founded the community laboratory ‘Hackuarium’ in order to provide a space where like-minded people can meet and learn biology by doing, independently of their education and occupation. He currently advises the president of EPFL on research policy issues. Luc earned a DPhil (PhD) in chemical biology from the University of Oxford in 2012.
+  hide: true
+
+- id: tbd
+  name: _
+  subtitle: "                              " 
+  thumbnail: dummy.jpg
+  alt: dummy picture
+  description: ""
   hide: true
