@@ -5,7 +5,7 @@
   alt: Picture of Jon Tennant
   twitter: Protohedgehog
   github:
-  linkedin: https://www.linkedin.com/in/jonathan-tennant-3546953a/
+  linkedin: "https://www.linkedin.com/in/jonathan-tennant-3546953a/"
   website:
   topic: "Open Science: just science done right?"
   description: "Jon completed his PhD at Imperial College London where he researched evolutionary patterns in animals like dinosaurs and crocodiles. He was the Communications Director of ScienceOpen for 2 years, but has spent the last two years as an independent researcher. He is the founder of the Open Science MOOC, the digital publishing platform paleorXiv, and currently works as a PLOS Paleo Community Editor. He has spent much of his recent time challenging the business practices of the scholarly publishing industry, including working with Education International on a global campaign to democratise knowledge. He is also a Shuttleworth Flash grantee, and has also won an award for this work on peer review. As well as this, Jon was the lead author of the Foundations for Open Scholarship Strategy Development, is co-author for the Open Science Training Handbook, and is the Executive Editor for the OA journal Geoscience Communication. He has also written several kids books on dinosaurs."
@@ -277,8 +277,7 @@
   linkedin: https://ca.linkedin.com/in/benjamin-stecher-86706420
   website:
   topic: Open science and patient advocacy
-  description: Ben was born in Nairobi, Kenya as an Israeli to Jewish parents from Poland but grew up just outside Toronto, Canada. He studied history and philosophy at the University of Guelph, but as soon as he got his BA went to live and work as a teacher in South Korea for nearly three years while traveling the world. He moved to Shanghai, China at 26, spending one year at Jiao Tong University in a Chinese language program before being hired by Chinese education company, San Li. He rose quickly to become a managing partner where his duties included: overseeing operations at branches throughout South East China, developing curriculum, teacher training, parent relations, while teaching SAT and world history classes. Ben was diagnosed with Parkinson's disease at 29. He left China at 32 to learn how to better manage this disease and see what future therapies were on the horizon. He is now a prolific author and is actively involved in PD research advocacy. He is the founder of Tomorrow Edition (tmrwedition.com), co-founder of the Parkinson's Research Advocacy Group (prag.site), and patient advisor to the World Parkinson's Congress. 
-  #abstract: 
+  description: "Ben was born in Nairobi, Kenya as an Israeli to Jewish parents from Poland but grew up just outside Toronto, Canada. He studied history and philosophy at the University of Guelph, but as soon as he got his BA went to live and work as a teacher in South Korea for nearly three years while traveling the world. He moved to Shanghai, China at 26, spending one year at Jiao Tong University in a Chinese language program before being hired by Chinese education company, San Li. He rose quickly to become a managing partner where his duties included: overseeing operations at branches throughout South East China, developing curriculum, teacher training, parent relations, while teaching SAT and world history classes. Ben was diagnosed with Parkinson's disease at 29. He left China at 32 to learn how to better manage this disease and see what future therapies were on the horizon. He is now a prolific author and is actively involved in PD research advocacy. He is the founder of Tomorrow Edition (tmrwedition.com), co-founder of the Parkinson's Research Advocacy Group (prag.site), and patient advisor to the World Parkinson's Congress. "
   
 - id: alberto_antonietti
   name: Alberto Antonietti
@@ -326,12 +325,12 @@
   subtitle: Research Data Team, EPFL Library
   thumbnail: ElaineBlumer.jpg
   alt: Picture of ElaineBlumer
-  twitter: @ElianeBlumer
+  twitter: "@ElianeBlumer"
   github: 
   linkedin: 
   website:
   topic: "Coming soon"
-  description: Information System and Data Management Expert with over 10 years of experience in various higher education institutions and their respective IT or scientific information departments. Since 2017, I work as research data management coordinator at the EPFL Library and promote together with a dedicated team data management support, training and projects for the EPFL research community.
+  description: "Information System and Data Management Expert with over 10 years of experience in various higher education institutions and their respective IT or scientific information departments. Since 2017, I work as research data management coordinator at the EPFL Library and promote together with a dedicated team data management support, training and projects for the EPFL research community."
   #abstract: 
   
 - id: beatrice_marselli
@@ -341,7 +340,7 @@
   alt: Picture of Béatrice Marselli
   twitter: 
   github: 
-  linkedin: https://ch.linkedin.com/in/bmarsellifuerer
+  linkedin: "https://ch.linkedin.com/in/bmarsellifuerer"
   website:
   topic: "Coming soon"
   description: Béatrice has a background in chemistry. After her PhD, she worked as editorial assistant for academic journals at Stanford University and EPFL. She is now coordinating the Publishing Support team at EPFL Library that addresses all questions about publication, Open Access, and copyright.
@@ -360,7 +359,7 @@
   description: Francesco earned a PhD in Computational Physics from EFPL, with teaching and start-ups experience. Since 2018 part of the EPFL Research Data Library Team, also co-training to Research Data Management best practice. Francesco has a particular interest in complex systems, electronic devices, AI and ML for public services.
   #abstract: 
   
- - id: antoine_masson
+- id: antoine_masson
   name: Antoine Masson
   subtitle: Research Data Team, EPFL Library
   thumbnail: AntoineMasson.jpg

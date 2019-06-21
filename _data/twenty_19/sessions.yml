@@ -194,8 +194,8 @@
   id: 407
   title: "Discussion: Open Science and the rest of society"
   description: ""
-  subtype: Discussion
-  speakers: [alberto_antonietti][benjamin_stecher][galina_limorenko]
+  subtype: presentation 
+  speakers: [alberto_antonietti, benjamin_stecher, galina_limorenko]
 -
   id: 412
   title: "A Software Development Workflow for Academic Research"
