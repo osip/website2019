@@ -375,7 +375,7 @@
 - id: sittidha_samath
   name: Sittidha Samath
   subtitle: Metadata Specialist, EPFL Library
-  thumbnail: SittidhaSamath.jpg
+  thumbnail: dummy.jpg #SittidhaSamath.jpg
   alt: Picture of Sittidha Samath
   twitter: 
   github: 
