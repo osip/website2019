@@ -177,9 +177,7 @@
 -
   id: 403
   title: "TBD"
-  subtype: presentation
-  description: ""
-  speakers: [tbd]
+  service: true
 -
   id: 405
   title: "Workshop: Code and data management: where to start?"
@@ -196,8 +194,8 @@
   id: 407
   title: "Discussion: Open Science and the rest of society"
   description: ""
-  subtype: workshop
-  speakers: true # TBD
+  subtype: Discussion
+  speakers: [alberto_antonietti][benjamin_stecher][galina_limorenko]
 -
   id: 412
   title: "A Software Development Workflow for Academic Research"
@@ -235,9 +233,10 @@
   speakers: true # TBD
 -
   id: 502
-  title: "TBD"
+  title: "Show me your data! How to analyze and share your results in the most useful way."
+  subtype: presentation
   description: ""
-  service: true 
+  speakers: [alberto_antonietti]
 -
   id: 503
   title: "Workshop: Frictionless Data for Reproducible Research"
