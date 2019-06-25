@@ -316,7 +316,7 @@
   github: railyards
   linkedin: https://ch.linkedin.com/in/mathildepanes/en
   website:
-  topic: "Coming soon"
+  topic: Tools, tips and tricks that will make your life easier
   description: Mathilde Panes is an Information Specialist with a Master of Business Administration. After working as a research assistant and a system librarian, she joined the EPFL Library as a teaching librarian. She is the coordinator of the Library Teaching Team, whose goal is to develop skills related to information literacy and digital literacy among the EPFL community.
   #abstract: 
 
@@ -329,7 +329,7 @@
   github: 
   linkedin: 
   website:
-  topic: "Coming soon"
+  topic: Code and data management: where to start?
   description: "Information System and Data Management Expert with over 10 years of experience in various higher education institutions and their respective IT or scientific information departments. Since 2017, I work as research data management coordinator at the EPFL Library and promote together with a dedicated team data management support, training and projects for the EPFL research community."
   #abstract: 
   
@@ -342,7 +342,7 @@
   github: 
   linkedin: "https://ch.linkedin.com/in/bmarsellifuerer"
   website:
-  topic: "Coming soon"
+  topic: Publishing in Open Access: key concepts and current framework
   description: Béatrice has a background in chemistry. After her PhD, she worked as editorial assistant for academic journals at Stanford University and EPFL. She is now coordinating the Publishing Support team at EPFL Library that addresses all questions about publication, Open Access, and copyright.
   #abstract: 
   
@@ -355,7 +355,7 @@
   github: 
   linkedin: 
   website:
-  topic: "Coming soon"
+  topic: Tools, tips and tricks that will make your life easier
   description: Francesco earned a PhD in Computational Physics from EFPL, with teaching and start-ups experience. Since 2018 part of the EPFL Research Data Library Team, also co-training to Research Data Management best practice. Francesco has a particular interest in complex systems, electronic devices, AI and ML for public services.
   #abstract: 
   
@@ -368,20 +368,20 @@
   github: 
   linkedin: 
   website:
-  topic: "Coming soon"
+  topic: Code and data management: where to start?
   description: After earning a Ph.D. in physics in 2011, Antoine did two postdocs at EPFL in Switzerland from 2011 to 2015 and another one at LBNL in the United-States from 2015 to 2017. During those years, he developed diﬀerent scientiﬁc types of equipment that combined mass spectrometry with imaging, spectroscopy and molecular analysis. Since 2018, he is now part of the Research Data Team at EPFL Library. His main missions are the development of tools and workshops for researchers about for example code preservation and publication or data life cycle.
   #abstract: 
   
 - id: sittidha_samath
   name: Sittidha Samath
   subtitle: Metadata Specialist, EPFL Library
-  thumbnail: dummy.jpg #SittidhaSamath.jpg
+  thumbnail: SitthidaSammath.jpg
   alt: Picture of Sittidha Samath
   twitter: 
   github: 
   linkedin: 
   website:
-  topic: "Coming soon"
+  topic: Code and data management: where to start?
   description: Sittidha has spent 11 years doing research support for the social sciences and humanities. Sittidha joined EPFL Library in 2018 as metadata specialist, also providing training on documentation and metadata for source code and software.
   #abstract: 
 
@@ -394,8 +394,10 @@
   twitter: heluc
   github: heluc
   linkedIn: https://www.linkedin.com/in/luc-henry/
+  topic: 
   description: Luc Henry has perfected his research skills in Switzerland, Sweden, Germany and the United Kingdom, between 2002 and 2014. Over his scientific career, he gradually got involved in communication and policy. As a journalist and advisor, he later focused on the impact of new technologies on society, in particular in the fields of biotechnology and health. In 2014, Luc founded the community laboratory ‘Hackuarium’ in order to provide a space where like-minded people can meet and learn biology by doing, independently of their education and occupation. He currently advises the president of EPFL on research policy issues. Luc earned a DPhil (PhD) in chemical biology from the University of Oxford in 2012.
   hide: true
+  #abstract:
 
 - id: tbd
   name: _
