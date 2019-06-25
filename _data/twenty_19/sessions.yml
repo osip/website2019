@@ -61,7 +61,7 @@
   title: "Publishing in Open Access: key concepts and current framework "
   description: ""
   subtype: presentation
-  speakers: true # someone from EPFL Library, TDB
+  speakers: [beatrice_marselli]
 -
   id: 203
   title: "BioRxiv: How I Learned To Stop Worrying And Love The Preprints"
@@ -90,7 +90,7 @@
   title: "Workshop: Tools, tips and tricks that will make your life easier"
   description: ""
   subtype: workshop
-  speakers: true # someone from EPFL Library, TDB
+  speakers: [beatrice_marselli, mathilde_panes, francesco_varrato]
 
 -
   id: 301
@@ -183,7 +183,7 @@
   title: "Workshop: Code and data management: where to start?"
   subtype: workshop
   description: ""
-  speakers: true # someone from EPFL Library, TDB
+  speakers: [antoine_masson, elaine_blumer, sittidha_samath]
 -
   id: 406
   title: "Workshop: Robust data analysis: an introduction to R"
