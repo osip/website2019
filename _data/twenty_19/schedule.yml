@@ -3,6 +3,8 @@
   cornerTitle: "Monday"
   dateReadable: "September 2"
   defaultColor: "#FF9E6B"
+  firstTrackColor: "#FF9E6B"
+  secondTrackColor: "#2785CC"
   tracks:
     - {
     title: "",
@@ -56,6 +58,8 @@
   cornerTitle: "Tuesday"
   dateReadable: "September 3"
   defaultColor: "#FF9E6B"
+  firstTrackColor: "#FF9E6B"
+  secondTrackColor: "#2785CC"
   tracks:
     - {
     title: "",
@@ -119,6 +123,8 @@
   cornerTitle: "Wednesday"
   dateReadable: "September 4"
   defaultColor: "#FF9E6B"
+  firstTrackColor: "#FF9E6B"
+  secondTrackColor: "#2785CC"
   tracks:
     - {
     title: "Experimental",
@@ -187,6 +193,8 @@
   cornerTitle: "Thursday"
   dateReadable: "September 5"
   defaultColor: "#FF9E6B"
+  firstTrackColor: "#FF9E6B"
+  secondTrackColor: "#2785CC"
   tracks:
     - {
     title: "Experimental",
@@ -250,6 +258,8 @@
   cornerTitle: "Friday"
   dateReadable: "September 6"
   defaultColor: "#FF9E6B"
+  firstTrackColor: "#FF9E6B"
+  secondTrackColor: "#2785CC"
   tracks:
     - {
     title: "Experimental",

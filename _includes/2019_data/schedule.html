@@ -15,13 +15,13 @@
             <div class="timeslot-elements flexbox-wrapper">
               {% for track in day.tracks %}
               {% assign trackColWidth = 12 | divided_by: forloop.length %}
-              
+
               {% if forloop.length == 1 %}
               {% assign trackColor = 111111 %}
               {% else %}
               {% assign trackColor = track.colorBackground %}
               {% endif %}
-              <div class="track-header-slot col-md-{{ trackColWidth }} flexbox-item-height" style="background-color:{{ trackColor }}"><!-- hidden-xs"> -->
+              <div class="track-header-slot col-md-{{ trackColWidth }} flexbox-item-height"><!-- hidden-xs"> -->
                 <div class="track-header-title">{{ track.title }}</div>
               </div>
               {% endfor %}
@@ -62,13 +62,13 @@
                 {% if slot != 404 %}
                   {% for session in site.data.twenty_19.sessions %}
                     {% if slot == session.id and session.service == null %}
-                      <div id="session-{{ session.id }}" 
-                        class="slot col-md-{{ slotColWidth }} col-xs-12 flexbox-item-height" 
-                        data-slot-detail="{{ day.tracks[slotIndex].title }}" 
-                        data-toggle="modal" 
+                      <div id="session-{{ session.id }}"
+                        class="slot col-md-{{ slotColWidth }} col-xs-12 flexbox-item-height"
+                        data-slot-detail="{{ day.tracks[slotIndex].title }}"
+                        data-toggle="modal"
                         data-target="#sessionDetail-{{ session.id }}">
-                        <div class="color-line" style="background: {{ day.defaultColor }}"></div>
-                        <div class="slot-content" style="border-right-color: {{ day.defaultColor }}">
+                        <div class="color-line" style="background: {{ textColor }}"></div>
+                        <div class="slot-content">
                           <h3 class="slot-title" itemprop="name", style="color:{{ textColor }}">{{ session.title }}</h3>
                           <span class="slot-language">{{session.language | upcase}}</span>
                           <ul class="slot-speakers">

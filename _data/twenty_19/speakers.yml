@@ -57,7 +57,7 @@
   linkedin:
   website: "https://rgl.epfl.ch/people/wjakob"
   topic: A software development workflow for academic research
-  description: Wenzel is an assistant professor leading the Realistic Graphics Lab at EPFL's School of Computer and Communication Sciences. His research mostly revolves around light transport simulations and material appearance models. The overarching goal of this work is to improve the accuracy and fidelity of light transport simulations in computer graphics, and to make the underlying models accurate and fast enough for predictive design and manufacturing applications. 
+  description: Wenzel is an assistant professor leading the Realistic Graphics Lab at EPFL's School of Computer and Communication Sciences. His research mostly revolves around light transport simulations and material appearance models. The overarching goal of this work is to improve the accuracy and fidelity of light transport simulations in computer graphics, and to make the underlying models accurate and fast enough for predictive design and manufacturing applications.
 
 - id: melanie_rothlisberger
   name: Melanie Röthlisberger
@@ -273,12 +273,12 @@
   thumbnail: BenjaminStecher.jpg
   alt: Picture of Benjamin Stecher
   twitter: Neuronologist1
-  github: 
+  github:
   linkedin: https://ca.linkedin.com/in/benjamin-stecher-86706420
   website:
   topic: Open science and patient advocacy
   description: "Ben was born in Nairobi, Kenya as an Israeli to Jewish parents from Poland but grew up just outside Toronto, Canada. He studied history and philosophy at the University of Guelph, but as soon as he got his BA went to live and work as a teacher in South Korea for nearly three years while traveling the world. He moved to Shanghai, China at 26, spending one year at Jiao Tong University in a Chinese language program before being hired by Chinese education company, San Li. He rose quickly to become a managing partner where his duties included: overseeing operations at branches throughout South East China, developing curriculum, teacher training, parent relations, while teaching SAT and world history classes. Ben was diagnosed with Parkinson's disease at 29. He left China at 32 to learn how to better manage this disease and see what future therapies were on the horizon. He is now a prolific author and is actively involved in PD research advocacy. He is the founder of Tomorrow Edition (tmrwedition.com), co-founder of the Parkinson's Research Advocacy Group (prag.site), and patient advisor to the World Parkinson's Congress. "
-  
+
 - id: alberto_antonietti
   name: Alberto Antonietti
   subtitle: Postdoctoral research fellow, NeuroEngineering And medical Robotics Laboratory, Department of Electronics, Information and Bioengineering, Politecnico di Milano
@@ -286,26 +286,26 @@
   alt: Picture of Alberto Antonietti
   twitter: _AAlpha
   github: alberto-antonietti
-  linkedin: 
+  linkedin:
   website:
   topic: Show me your data! How to analyze and share your results in the most useful way.
   description: Alberto Antonietti got his Ph.D. in Bioengineering in May 2018, working at the Neuroengineering and Medical Robotics Laboratory of Politecnico di Milano, Italy. During his Ph.D., he has worked on computational neuroscience topics related to motor learning, in particular on the cerebellum. Now, he is working as a Postdoctoral research fellow, with interests not limited to computational neuroscience topics. He has been active in scientific communities of neuroinformatics and bioengineering, with a keen interest in promoting Open Science and Open Data.
   #abstract: Figures and graphs are one of the most useful ways to understand and analyze data in every scientific field. A nicely crafted picture can help yourself to better understand the data that you are investigating and, later on, it can convey much more information than a mere block of text. At the same time, a bad visualization of the data can lead to incorrect or biased interpretations. In this workshop, I will present various examples of data visualization in the neuroscience realm, identifying bad behaviors, and proposing some guidelines and best practices for data visualization. Finally, we will see how to share reproducible and interactive figures that can integrate the traditional journal paper that you are going to publish.
-  
-- id: sara_elgebali 
+
+- id: sara_elgebali
   name: Sara El Gebali
   subtitle: Scientific Database Curator, Finn team, European Bioinformatics Institute (EMBL-EBI)
   thumbnail: dummy.jpg
   alt: Picture of Sara El Gebali
   twitter: "@yalahowy"
-  description: "Coming soon" 
+  description: "Coming soon"
 
 - id: anne_fouilloux
-  name: Anne Claire Fouilloux 
+  name: Anne Claire Fouilloux
   subtitle: Senior Engineer, Department of Geosciences, University of Oslo
   thumbnail: dummy.jpg
-  alt: Picture of Anne Fouilloux 
-  description: "Coming soon" 
+  alt: Picture of Anne Fouilloux
+  description: "Coming soon"
 
 - id: mathilde_panes
   name: Mathilde Panes
@@ -318,7 +318,7 @@
   website:
   topic: Tools, tips and tricks that will make your life easier
   description: Mathilde Panes is an Information Specialist with a Master of Business Administration. After working as a research assistant and a system librarian, she joined the EPFL Library as a teaching librarian. She is the coordinator of the Library Teaching Team, whose goal is to develop skills related to information literacy and digital literacy among the EPFL community.
-  #abstract: 
+  #abstract:
 
 - id: elaine_blumer
   name: Elaine Blumer
@@ -326,64 +326,64 @@
   thumbnail: ElaineBlumer.jpg
   alt: Picture of ElaineBlumer
   twitter: "@ElianeBlumer"
-  github: 
-  linkedin: 
+  github:
+  linkedin:
   website:
-  topic: Code and data management: where to start?
+  topic: "Code and data management: where to start?"
   description: "Information System and Data Management Expert with over 10 years of experience in various higher education institutions and their respective IT or scientific information departments. Since 2017, I work as research data management coordinator at the EPFL Library and promote together with a dedicated team data management support, training and projects for the EPFL research community."
-  #abstract: 
-  
+  #abstract:
+
 - id: beatrice_marselli
   name: Béatrice Marselli
   subtitle: Librarian, EPFL Library
   thumbnail: BeatriceMarselli.jpg
   alt: Picture of Béatrice Marselli
-  twitter: 
-  github: 
+  twitter:
+  github:
   linkedin: "https://ch.linkedin.com/in/bmarsellifuerer"
   website:
-  topic: Publishing in Open Access: key concepts and current framework
+  topic: "Publishing in Open Access: key concepts and current framework"
   description: Béatrice has a background in chemistry. After her PhD, she worked as editorial assistant for academic journals at Stanford University and EPFL. She is now coordinating the Publishing Support team at EPFL Library that addresses all questions about publication, Open Access, and copyright.
-  #abstract: 
-  
+  #abstract:
+
 - id: francesco_varrato
   name: Francesco Varrato
   subtitle: Research Data Team, EPFL Library
   thumbnail: FrancescoVarrato.jpg
   alt: Picture of Francesco Varrato
-  twitter: 
-  github: 
-  linkedin: 
+  twitter:
+  github:
+  linkedin:
   website:
   topic: Tools, tips and tricks that will make your life easier
   description: Francesco earned a PhD in Computational Physics from EFPL, with teaching and start-ups experience. Since 2018 part of the EPFL Research Data Library Team, also co-training to Research Data Management best practice. Francesco has a particular interest in complex systems, electronic devices, AI and ML for public services.
-  #abstract: 
-  
+  #abstract:
+
 - id: antoine_masson
   name: Antoine Masson
   subtitle: Research Data Team, EPFL Library
   thumbnail: AntoineMasson.jpg
   alt: Picture of Antoine Masson
-  twitter: 
-  github: 
-  linkedin: 
+  twitter:
+  github:
+  linkedin:
   website:
-  topic: Code and data management: where to start?
+  topic: "Code and data management: where to start?"
   description: After earning a Ph.D. in physics in 2011, Antoine did two postdocs at EPFL in Switzerland from 2011 to 2015 and another one at LBNL in the United-States from 2015 to 2017. During those years, he developed diﬀerent scientiﬁc types of equipment that combined mass spectrometry with imaging, spectroscopy and molecular analysis. Since 2018, he is now part of the Research Data Team at EPFL Library. His main missions are the development of tools and workshops for researchers about for example code preservation and publication or data life cycle.
-  #abstract: 
-  
+  #abstract:
+
 - id: sittidha_samath
   name: Sittidha Samath
   subtitle: Metadata Specialist, EPFL Library
   thumbnail: SitthidaSammath.jpg
   alt: Picture of Sittidha Samath
-  twitter: 
-  github: 
-  linkedin: 
+  twitter:
+  github:
+  linkedin:
   website:
-  topic: Code and data management: where to start?
+  topic: "Code and data management: where to start?"
   description: Sittidha has spent 11 years doing research support for the social sciences and humanities. Sittidha joined EPFL Library in 2018 as metadata specialist, also providing training on documentation and metadata for source code and software.
-  #abstract: 
+  #abstract:
 
 - id: luc_henry
   name: Luc Henry
@@ -394,14 +394,14 @@
   twitter: heluc
   github: heluc
   linkedIn: https://www.linkedin.com/in/luc-henry/
-  topic: 
+  topic:
   description: Luc Henry has perfected his research skills in Switzerland, Sweden, Germany and the United Kingdom, between 2002 and 2014. Over his scientific career, he gradually got involved in communication and policy. As a journalist and advisor, he later focused on the impact of new technologies on society, in particular in the fields of biotechnology and health. In 2014, Luc founded the community laboratory ‘Hackuarium’ in order to provide a space where like-minded people can meet and learn biology by doing, independently of their education and occupation. He currently advises the president of EPFL on research policy issues. Luc earned a DPhil (PhD) in chemical biology from the University of Oxford in 2012.
   hide: true
   #abstract:
 
 - id: tbd
   name: _
-  subtitle: "                              " 
+  subtitle: "                              "
   thumbnail: dummy.jpg
   alt: dummy picture
   description: ""
