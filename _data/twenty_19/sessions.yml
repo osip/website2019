@@ -194,7 +194,7 @@
   id: 407
   title: "Discussion: Open Science for society"
   description: ""
-  subtype: presentation 
+  subtype: presentation
   speakers: [alberto_antonietti, benjamin_stecher, galina_limorenko]
 -
   id: 412
@@ -211,26 +211,27 @@
 -
   id: 415
   title: "TBD"
-  subtype: presentation 
+  subtype: presentation
   description: ""
   speakers: [anne_fouilloux] # someone from EPFL Library, TDB
 -
   id: 416
   title: "Tools for Reproducible Research - I"
   description: "Tim will introduce the Binder project to us. Binder drastically lowers the bar to sharing and re-using software. As a user wanting to try out someone else’s work requires only clicking a single link. For the author to prepare a binder-ready project is much easier than having to support many different platforms and for many projects involves little additional work."
-  subtype: workshop 
+  subtype: workshop
   speakers: [tim_head]
 -
   id: 417
   title: "Tools for Reproducible Research - II"
   description: "Tim will introduce the Binder project to us. Binder drastically lowers the bar to sharing and re-using software. As a user wanting to try out someone else’s work requires only clicking a single link. For the author to prepare a binder-ready project is much easier than having to support many different platforms and for many projects involves little additional work."
-  subtype: workshop 
+  subtype: workshop
   speakers: [tim_head] # TBD
 
 -
   id: 501
   title: "Welcome and introduction to Day 5"
   speakers: true # TBD
+  service: true
 -
   id: 502
   title: "Show me your data! How to analyze and share your results in the most useful way."

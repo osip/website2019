@@ -15,14 +15,8 @@
             <div class="timeslot-elements flexbox-wrapper">
               {% for track in day.tracks %}
               {% assign trackColWidth = 12 | divided_by: forloop.length %}
-
-              {% if forloop.length == 1 %}
-              {% assign trackColor = 111111 %}
-              {% else %}
-              {% assign trackColor = track.colorBackground %}
-              {% endif %}
-              <div class="track-header-slot col-md-{{ trackColWidth }} flexbox-item-height"><!-- hidden-xs"> -->
-                <div class="track-header-title">{{ track.title }}</div>
+              <div class="track-header-slot col-md-{{ trackColWidth }} flexbox-item-height">
+                <div class="track-header-title" style="color:{{ track.colorText }};">{{ track.title }}</div>
               </div>
               {% endfor %}
               <div class="track-header-slot col-xs-12 visible-xs">
@@ -46,10 +40,10 @@
             <div class="timeslot-elements flexbox-wrapper">
               {% for slot in timeslot.sessionIds %}
                 {% assign slotColWidth = 12 | divided_by: forloop.length %}
-                {% assign slotIndex = forloop.index0 %}
+                {% assign slotIndex = forloop.index %}
 
                 {% if forloop.length == 1 %} <!-- only one track; use black.  -->
-                {% assign textColor = 000000 %}
+                {% assign textColor = ccc %}
                 {% else %} <!-- Find the correct color based on track -->
                 {% assign trackIndex = forloop.index %}
                 {% for track in day.tracks %}
@@ -89,12 +83,8 @@
                       </div>
                     {% elsif slot == session.id and session.service != null %}
                       <div class="slot col-md-{{ slotColWidth }} col-xs-12 service-slot flexbox-item-height" data-slot-detail="{{ session.place }}">
-                        <div class="color-line"></div>
-                        <div class="slot-content">
+                        <div class="slot-content-no-hover">
                           <h5 class="slot-title" itemprop="name">{{ session.title }}</h5>
-                          <!-- {% if session.description != null %} -->
-                          <!-- <p class="service&#45;description">{{ session.description }}</p> -->
-                          <!-- {% endif %} -->
                         </div>
                       </div>
                     {% endif %}
