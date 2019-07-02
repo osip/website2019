@@ -174,12 +174,12 @@
   subtitle: PhD candidate at the Electrical Engineering department of the Eindhoven University of Technology, The Netherlands
   thumbnail: StephanHeunis.jpg
   alt: Picture of Stephan Heunis
-  twitter: jsheunis
+  twitter: fmrwhy
   github: jsheunis
   linkedin: https://www.linkedin.com/in/stephan-heunis-4b558154/
   website: http://www.fmrwhy.com
   topic: Practical tips for building open science communities
-  description:
+  description: Stephan is a researcher and PhD candidate at the Electrical Engineering department of the Eindhoven University of Technology in the Netherlands. His research focuses on developing new acquisition and signal processing methods for functional neuroimaging that allow the real-time tracking and visualisation of distributed MRI brain activity patterns. Stephan is passionate about making research and scientific practice more transparent, rigorous and inclusive. He started the Open Science Community Eindhoven, which is part of a wide Dutch network of researchers and university employees that focuses on improving scientific practice. He is also the founder of OpenMR Benelux, a community working on wider adoption of open science principles in MRI research through talks, discussions, workshops and hackathons.
 
 - id: anita_broellochs
   name: Anita Bröllochs
