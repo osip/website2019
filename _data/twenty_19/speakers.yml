@@ -304,14 +304,6 @@
   description: Alberto Antonietti got his Ph.D. in Bioengineering in May 2018, working at the Neuroengineering and Medical Robotics Laboratory of Politecnico di Milano, Italy. During his Ph.D., he has worked on computational neuroscience topics related to motor learning, in particular on the cerebellum. Now, he is working as a Postdoctoral research fellow, with interests not limited to computational neuroscience topics. He has been active in scientific communities of neuroinformatics and bioengineering, with a keen interest in promoting Open Science and Open Data.
   #abstract: Figures and graphs are one of the most useful ways to understand and analyze data in every scientific field. A nicely crafted picture can help yourself to better understand the data that you are investigating and, later on, it can convey much more information than a mere block of text. At the same time, a bad visualization of the data can lead to incorrect or biased interpretations. In this workshop, I will present various examples of data visualization in the neuroscience realm, identifying bad behaviors, and proposing some guidelines and best practices for data visualization. Finally, we will see how to share reproducible and interactive figures that can integrate the traditional journal paper that you are going to publish.
 
-- id: sara_elgebali
-  name: Sara El Gebali
-  subtitle: Scientific Database Curator, Finn team, European Bioinformatics Institute (EMBL-EBI)
-  thumbnail: SaraEl-Gabali.jpg
-  alt: Picture of Sara El Gebali
-  twitter: "@yalahowy"
-  description: "Coming soon"
-
 - id: anne_fouilloux
   name: Anne Claire Fouilloux
   subtitle: Senior Engineer, Department of Geosciences, University of Oslo

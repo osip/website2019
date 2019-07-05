@@ -161,7 +161,7 @@
   title: "TBD"
   description: ""
   subtype: presentation
-  speakers: [sara_elgebali]
+  speakers: []
 
 
 -
@@ -210,10 +210,10 @@
   speakers: [adrien_ball]
 -
   id: 415
-  title: "TBD"
+  title: "Reproducible Research through Containerisation: Docker and Singularity"
+  description: "A container image is a lightweight, standalone, executable package of software that includes everything needed to run an application: code, runtime, system tools, system libraries and settings. Containers can be used to package entire scientific workflows, software and libraries, and even data. This means that you don’t have to ask your cluster admin to install anything for you - you can put it in a container and run or easily share your analysis with collaborators. Containers are particularly useful way for reproducing research which relies on software to be configured in a certain way, and/or which makes use of libraries that vary between (or don’t exist on) different systems. There are a number of different tools available for creating and working with containers, and this workshop will focus on Docker and Singularity. "
   subtype: presentation
-  description: ""
-  speakers: [anne_fouilloux] # someone from EPFL Library, TDB
+  speakers: [rachael_ainsworth]
 -
   id: 416
   title: "Tools for Reproducible Research - I"
@@ -261,10 +261,11 @@
 
 -
   id: 513
-  title: "Reproducible Research through Containerisation: Docker and Singularity"
-  description: "A container image is a lightweight, standalone, executable package of software that includes everything needed to run an application: code, runtime, system tools, system libraries and settings. Containers can be used to package entire scientific workflows, software and libraries, and even data. This means that you don’t have to ask your cluster admin to install anything for you - you can put it in a container and run or easily share your analysis with collaborators. Containers are particularly useful way for reproducing research which relies on software to be configured in a certain way, and/or which makes use of libraries that vary between (or don’t exist on) different systems. There are a number of different tools available for creating and working with containers, and this workshop will focus on Docker and Singularity. "
+  title: "TBD"
   subtype: presentation
-  speakers: [rachael_ainsworth]
+  description: ""
+  speakers: [anne_fouilloux] 
+
 # Example
 # -
 #   id: 005
