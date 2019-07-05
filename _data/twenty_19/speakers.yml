@@ -73,15 +73,15 @@
 
 - id: gilles_kratzer
   name: Gilles Kratzer
-  subtitle: PhD students in biostatistics, University of Zurich, Switzerland. 
+  subtitle: PhD student in biostatistics, University of Zurich, Switzerland.
   thumbnail: GillesKratzer.jpg
   alt: Picture of Gilles Kratzer
-  twitter: GillesKratzer 
+  twitter: GillesKratzer
   github: gilleskratzer
   linkedin: https://www.linkedin.com/in/gilleskratzer/
   website:
   topic: "Open Science, your Career as a Researcher, and Beyond"
-  description: After working in clinical research for several years in different positions, Gilles decided to enhance his EPFL education in Physics by aquiring a Master degree in Biostatistics at the UZH. His PhD project is situated at the intersection of computational statistics, biostatistics and epidemiology. His goal is to provide reliable and ready-to-use software to the community in order to facilitate the analysis of epidemiological data using modern biostatistical methods with a high focus on observational data. Furthermore, he is the administrator of the statistical consulting service for the MNF of the UZH. As an Swiss National Science Fundation open access (OA) ambassador, he has the opportunity to promote OA beyond his direct research field. He strongly believe that reproducibility is a minimum requirement for good scientific research, and OA is a first step into this direction. 
+  description: After working in clinical research for several years in different positions, Gilles decided to enhance his EPFL education in Physics by aquiring a Master degree in Biostatistics at the UZH. His PhD project is situated at the intersection of computational statistics, biostatistics and epidemiology. His goal is to provide reliable and ready-to-use software to the community in order to facilitate the analysis of epidemiological data using modern biostatistical methods with a high focus on observational data. Furthermore, he is the administrator of the statistical consulting service for the MNF of the UZH. As an Swiss National Science Fundation open access (OA) ambassador, he has the opportunity to promote OA beyond his direct research field. He strongly believe that reproducibility is a minimum requirement for good scientific research, and OA is a first step into this direction.
 
 - id: charlotte_weber
   name: Charlotte Teresa Weber
@@ -192,7 +192,7 @@
   website: http://www.fmrwhy.com
   topic: Practical tips for building open science communities
   description: Stephan’s research focuses on developing new acquisition and signal processing methods for functional neuroimaging that allow the tracking and visualisation of distributed brain activity patterns in real-time, i.e. while someone is inside an MRI scanner, and applying this in clinical practice. Stephan is passionate about making research and scientific practice more transparent, rigorous and inclusive. He started the Open Science Community Eindhoven , which is part of a wide Dutch network of researchers and university employees that works on improving the way we do science, and he is the founder of OpenMR Benelux , a community working on wider adoption of open science principles in MRI research through talks, discussions, workshops and hackathons.
-  
+
 - id: anita_broellochs
   name: Anita Bröllochs
   subtitle: Head of Outreach, Protocols.io, USA
