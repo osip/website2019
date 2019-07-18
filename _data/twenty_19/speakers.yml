@@ -325,16 +325,16 @@
   #abstract:
 
 - id: elaine_blumer
-  name: Elaine Blumer
+  name: Eliane Blumer
   subtitle: Research Data Team, EPFL Library
   thumbnail: ElaineBlumer.jpg
-  alt: Picture of ElaineBlumer
+  alt: Picture of Eliane Blumer
   twitter: "@ElianeBlumer"
   github:
   linkedin:
   website:
   topic: "Code and data management: where to start?"
-  description: "Information System and Data Management Expert with over 10 years of experience in various higher education institutions and their respective IT or scientific information departments. Since 2017, I work as research data management coordinator at the EPFL Library and promote together with a dedicated team data management support, training and projects for the EPFL research community."
+  description: "Eliane is an information system and data management expert with over 10 years of experience in various higher education institutions and their respective IT or scientific information departments. Since 2017, Eliane works as a research data management coordinator at EPFL Library and promotes together data management support, training and projects for the EPFL research community with a dedicated team."
   #abstract:
 
 - id: beatrice_marselli
@@ -368,7 +368,7 @@
   subtitle: Research Data Team, EPFL Library
   thumbnail: AntoineMasson.jpg
   alt: Picture of Antoine Masson
-  twitter:
+  twitter: amasson_epfl
   github:
   linkedin:
   website:
@@ -377,16 +377,16 @@
   #abstract:
 
 - id: sittidha_samath
-  name: Sittidha Samath
+  name: Sitthida Samath
   subtitle: Metadata Specialist, EPFL Library
   thumbnail: SitthidaSammath.jpg
-  alt: Picture of Sittidha Samath
+  alt: Picture of Sitthida Samath
   twitter:
   github:
   linkedin:
   website:
   topic: "Code and data management: where to start?"
-  description: Sittidha has spent 11 years doing research support for the social sciences and humanities. Sittidha joined EPFL Library in 2018 as metadata specialist, also providing training on documentation and metadata for source code and software.
+  description: Sitthida has spent 11 years doing research support for the social sciences and humanities. Sitthida joined EPFL Library in 2018 as metadata specialist, also providing training on documentation and metadata for source code and software.
   #abstract:
 
 - id: luc_henry
