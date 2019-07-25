@@ -246,10 +246,10 @@
   speakers: [lilly_winfree]
 -
   id: 504
-  title: "Conclusions"
+  title: "Conclusions and Closing Remarks"
   subtype: presentation
   description: ""
-  speakers: [martin_vetterli]
+  speakers: [luc_henry]
 -
   id: 505
   title: "Closing remarks"
