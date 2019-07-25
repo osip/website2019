@@ -15,7 +15,7 @@
 -
   id: 101
   title: "Welcome and introduction to the course"
-  speakers: [luc_henry]
+  speakers: [pierre_vandergheynst, luc_henry]
 -
   id: 102
   title: "Open Science: just science done right?"
@@ -44,7 +44,7 @@
   title: "Workshop: The Research Process - What, When, With Whom?"
   description: ""
   subtype: workshop
-  speakers: [luc_henry]
+  speakers: [luc_henry, stephan_heunis]
 -
   id: 107
   title: "Workshop: Open Science, your Career as a Researcher, and Beyond"
