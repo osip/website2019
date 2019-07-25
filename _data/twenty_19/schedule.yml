@@ -11,7 +11,7 @@
     }
   timeslots:
     - {
-    	startTime: "08:00",
+    	startTime: "08:30",
     	endTime: "08:45",
     	sessionIds: [001]
     }
@@ -74,7 +74,7 @@
     }
   timeslots:
     - {
-    	startTime: "08:00",
+    	startTime: "08:30",
     	endTime: "08:45",
     	sessionIds: [000]
     }
@@ -147,7 +147,7 @@
     }
   timeslots:
     - {
-    	startTime: "08:00",
+    	startTime: "08:30",
     	endTime: "08:45",
     	sessionIds: [001]
     }
@@ -215,7 +215,7 @@
     }
   timeslots:
     - {
-    	startTime: "08:00",
+    	startTime: "08:30",
     	endTime: "08:45",
     	sessionIds: [001]
     }
@@ -283,7 +283,7 @@
     }
   timeslots:
     - {
-    	startTime: "08:00",
+    	startTime: "08:30",
     	endTime: "08:45",
     	sessionIds: [001]
     }
