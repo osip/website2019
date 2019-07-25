@@ -266,6 +266,18 @@
   topic: Closing remarks
   description: "Martin Vetterli is the President of the Swiss Federal Institute of Technology Lausanne (EPFL) since 2017. After a degree in electrical engineering from the ETH Zürich in 1981, he graduated from the Stanford University in 1982. He then obtained his doctorate in science at EPFL in 1986 and went on to teach at Columbia University as an assistant and then associate professor. In 1993, he was appointed ordinary professor in the Department of Electrical Engineering and Computer Science of the University of Berkeley. Since 1995, he is a full professor at the audiovisual communications laboratory at EPFL. From 2013 to 2016, Martin Vetterli was President of the National Research Council of the Swiss National Science Foundation (SNSF). In this role, he strengthened the promotion of young scientists under the 2013-2016 multiannual programme, as well as the SNSF’s commitment to Open Access and Open Science."
 
+- id: pierre_vandergheynst
+  name: Pierre Vandergheynst
+  subtitle: Professor of Electrical Engineering and Vice President for Education at EPFL, Lausanne, Switzerland
+  thumbnail: PierreVandergheynst.jpg
+  alt: Picture of Pierre Vandergheynst
+  twitter: @trekkinglemon
+  github:
+  linkedin: https://www.linkedin.com/in/pierre-vandergheynst-39b2a439/
+  website: https://about.me/pierre_vandergheynst
+  topic: Opening remarks
+  description: 
+  
 - id: lilly_winfree
   name: Lilly Winfree
   subtitle: Open Knowledge Foundation (OKFN)
@@ -398,7 +410,7 @@
   twitter: heluc
   github: heluc
   linkedIn: https://www.linkedin.com/in/luc-henry/
-  topic:
+  topic: Closing remarks
   description: Luc Henry has perfected his research skills in Switzerland, Sweden, Germany and the United Kingdom, between 2002 and 2014. Over his scientific career, he gradually got involved in communication and policy. As a journalist and advisor, he later focused on the impact of new technologies on society, in particular in the fields of biotechnology and health. In 2014, Luc founded the community laboratory ‘Hackuarium’ in order to provide a space where like-minded people can meet and learn biology by doing, independently of their education and occupation. He currently advises the president of EPFL on research policy issues. Luc earned a DPhil (PhD) in chemical biology from the University of Oxford in 2012.
   hide: true
   #abstract:
