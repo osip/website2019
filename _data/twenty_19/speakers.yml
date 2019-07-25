@@ -271,13 +271,13 @@
   subtitle: Professor of Electrical Engineering and Vice President for Education at EPFL, Lausanne, Switzerland
   thumbnail: PierreVandergheynst.jpg
   alt: Picture of Pierre Vandergheynst
-  twitter: @trekkinglemon
+  twitter: trekkinglemon
   github:
   linkedin: https://www.linkedin.com/in/pierre-vandergheynst-39b2a439/
   website: https://about.me/pierre_vandergheynst
   topic: Opening remarks
-  description: 
-  
+  description:
+
 - id: lilly_winfree
   name: Lilly Winfree
   subtitle: Open Knowledge Foundation (OKFN)
