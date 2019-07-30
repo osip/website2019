@@ -5,9 +5,8 @@ This is the code for website of the summer school Open Science in Practice
 # Installation
 1. [Install Ruby](https://www.ruby-lang.org/en/downloads/)
 2. Install Jekyll by using the command `gem install jekyll`.
-3. Then, install Jekyll Sitemap and Jekyll SEO gems by using the command `gem install jekyll-sitemap` and `gem install jekyll-seo-tag`.
-4. Start your localhost server by using the command `jekyll serve --baseurl ''` (The baseurl flag makes sure that asssets are served correctly on localhost). Make sure that you are at the root directory of your folder before using this command.
-5. Your site should be accessible at `localhost:4000`.
+3. Start your localhost server by using the command `jekyll serve --baseurl ''` (The baseurl flag makes sure that asssets are served correctly on localhost). Make sure that you are at the root directory of your folder before using this command.
+4. Your site should be accessible at `localhost:4000`.
 
 ## Files Structure
 - The main stylesheet is stored `/css/2019_style`.
