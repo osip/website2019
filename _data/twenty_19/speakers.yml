@@ -1,3 +1,15 @@
+- id: pierre_vandergheynst
+  name: Pierre Vandergheynst
+  subtitle: Professor of Electrical Engineering and Vice President for Education at EPFL, Lausanne, Switzerland
+  thumbnail: PierreVandergheynst.jpg
+  alt: Picture of Pierre Vandergheynst
+  twitter: trekkinglemon
+  github:
+  linkedin: https://www.linkedin.com/in/pierre-vandergheynst-39b2a439/
+  website: https://about.me/pierre_vandergheynst
+  topic: Opening remarks
+  description:
+
 - id: jon_tennant
   name: Jon Tennant
   subtitle: "Rogue Palaeontologist, Interdisciplinary Research Center (CRI), Paris, France"
@@ -9,6 +21,18 @@
   website:
   topic: "Open Science: just science done right?"
   description: "Jon completed his PhD at Imperial College London where he researched evolutionary patterns in animals like dinosaurs and crocodiles. He was the Communications Director of ScienceOpen for 2 years, but has spent the last two years as an independent researcher. He is the founder of the Open Science MOOC, the digital publishing platform paleorXiv, and currently works as a PLOS Paleo Community Editor. He has spent much of his recent time challenging the business practices of the scholarly publishing industry, including working with Education International on a global campaign to democratise knowledge. He is also a Shuttleworth Flash grantee, and has also won an award for this work on peer review. As well as this, Jon was the lead author of the Foundations for Open Scholarship Strategy Development, is co-author for the Open Science Training Handbook, and is the Executive Editor for the OA journal Geoscience Communication. He has also written several kids books on dinosaurs."
+
+- id: bruno_strasser
+  name: Bruno Strasser
+  subtitle: Professor, University of Geneva, Switzerland
+  thumbnail: BrunoStrasser.jpg
+  alt: Picture of Bruno Strasser
+  twitter: CitizenSciences
+  github:
+  linkedin:
+  website: http://citizensciences.net/bruno-strasser/
+  topic: "Openness in Science: a very short history"
+  description: "Bruno Strasser is an expert on the history of the life sciences in the twentieth and twenty–first centuries. He his particularly interested in the history of \"citizen science\" and the transformation of public participation in science. His new book, “Collecting Experiments - Making Big Data Biology”, questions what knowledge is, how it is produced, to whom it belongs, and who can be credited for producing it. His first book, “La fabrique d’une nouvelle science: La biologie moléculaire à l’âge atomique, 1945-1964”, explores the emergence of molecular biology as new scientific discipline and professional identity in the atomic age. He has established and is leading an outreach lab, the Bioscope, at the University of Geneva."
 
 - id: malvika_sharan
   name: Malvika Sharan
@@ -35,18 +59,6 @@
   topic: Experiences from going open source
   description: "Adrien is a software engineer and machine learning specialist. He has been working at Snips for the past 4 years where his recent focus has been on building the Natural Language Understanding (NLU) component powering the Snips Voice Assistant Technology. Adrien is a Python and Rust enthusiast and strongly believes in open source software development. Most of his contributions at Snips in the field of NLU are open source and publicly available on Github. He is an engineer from Ecole Polytechnique, and holds a MSc in Probabilities from Université Pierre & Marie Curie in Paris."
 
-- id: bruno_strasser
-  name: Bruno Strasser
-  subtitle: Professor, University of Geneva, Switzerland
-  thumbnail: BrunoStrasser.jpg
-  alt: Picture of Bruno Strasser
-  twitter: CitizenSciences
-  github:
-  linkedin:
-  website: http://citizensciences.net/bruno-strasser/
-  topic: "Openness in Science: a very short history"
-  description: "Bruno Strasser is an expert on the history of the life sciences in the twentieth and twenty–first centuries. He his particularly interested in the history of \"citizen science\" and the transformation of public participation in science. His new book, “Collecting Experiments - Making Big Data Biology”, questions what knowledge is, how it is produced, to whom it belongs, and who can be credited for producing it. His first book, “La fabrique d’une nouvelle science: La biologie moléculaire à l’âge atomique, 1945-1964”, explores the emergence of molecular biology as new scientific discipline and professional identity in the atomic age. He has established and is leading an outreach lab, the Bioscope, at the University of Geneva."
-
 - id: wenzel_jakob
   name: Wenzel Jakob
   subtitle: Professor at the School of Computer and Communication Sciences, EPFL, Switzerland
@@ -58,42 +70,6 @@
   website: "https://rgl.epfl.ch/people/wjakob"
   topic: A software development workflow for academic research
   description: Wenzel is an assistant professor leading the Realistic Graphics Lab at EPFL's School of Computer and Communication Sciences. His research mostly revolves around light transport simulations and material appearance models. The overarching goal of this work is to improve the accuracy and fidelity of light transport simulations in computer graphics, and to make the underlying models accurate and fast enough for predictive design and manufacturing applications.
-
-- id: melanie_rothlisberger
-  name: Melanie Röthlisberger
-  subtitle: Senior Research and Teaching Associate, English Department, University of Zurich, Switzerland
-  thumbnail: MelanieRothlisberger.jpg
-  alt: Picture of Melanie Röthlisberger
-  twitter: m_rothlisberger
-  github:
-  linkedin: https://www.linkedin.com/in/melanie-röthlisberger-3b976957/
-  website:
-  topic: "Open Science, your Career as a Researcher, and Beyond"
-  description: "Melanie Röthlisberger is a Swiss linguist working at the University of Zurich. She received her PhD in 2018 from Leuven (Belgium) and has since then been involved in the Open Science movement. Her main interests include Open Access and compliance with funding requirements, possibilities to acquire funding to publish open access (especially with regard to the humanities), making data and code open (and FAIR) and changing the reward system."
-
-- id: gilles_kratzer
-  name: Gilles Kratzer
-  subtitle: PhD student in biostatistics, University of Zurich, Switzerland.
-  thumbnail: GillesKratzer.jpg
-  alt: Picture of Gilles Kratzer
-  twitter: GillesKratzer
-  github: gilleskratzer
-  linkedin: https://www.linkedin.com/in/gilleskratzer/
-  website:
-  topic: "Open Science, your Career as a Researcher, and Beyond"
-  description: After working in clinical research for several years in different positions, Gilles decided to enhance his EPFL education in Physics by aquiring a Master degree in Biostatistics at the UZH. His PhD project is situated at the intersection of computational statistics, biostatistics and epidemiology. His goal is to provide reliable and ready-to-use software to the community in order to facilitate the analysis of epidemiological data using modern biostatistical methods with a high focus on observational data. Furthermore, he is the administrator of the statistical consulting service for the MNF of the UZH. As an Swiss National Science Fundation open access (OA) ambassador, he has the opportunity to promote OA beyond his direct research field. He strongly believe that reproducibility is a minimum requirement for good scientific research, and OA is a first step into this direction.
-
-- id: charlotte_weber
-  name: Charlotte Teresa Weber
-  subtitle: Researcher at The Arctic University of Norway in Tromsø, Norway
-  thumbnail: CharlotteWeber.jpg
-  alt: Picture of Charlotte Teresa Weber
-  twitter:
-  github:
-  linkedin:
-  website:
-  topic: "Open Science, your Career as a Researcher, and Beyond"
-  description: "Charlotte has a background in marine biology and conservation and a PhD in natural resource management. She currently works as an interdisciplinary researcher at UiT, The Arctic University of Norway in Tromsø, where she studies natural resources under climate change. She is the skills officer for Eurodoc and has been actively involved in (transferable) skills development, doctoral training, and the open science movement. Her main interests are open access, open access skills, and (early-career researchers’) career development under open science."
 
 - id: marc_robinson_rechavi
   name: Marc Robinson-Rechavi
@@ -156,6 +132,80 @@
   topic: "Reproducible Research through Containerisation: Docker and Singularity"
   description: "Rachael is a Research Associate in Radio Astronomy and Open Science Champion at the Jodrell Bank Centre for Astrophysics, University of Manchester. She is passionate about openness, transparency, reproducibility and inclusion in research. She is also a Software Sustainability Institute Fellow, FOSTER certified Open Science Trainer, Mozilla Open Leader, member of The Turing Way community, organiser for the women in data meetup group HER+Data MCR and member of the first cohort of Tech Future Female Leaders."
 
+
+- id: anita_broellochs
+  name: Anita Bröllochs
+  subtitle: Head of Outreach, Protocols.io, USA
+  thumbnail: AnitaBroellochs.jpg
+  alt: Picture of Anita Bröllochs
+  twitter: AnitaBroellochs
+  github:
+  linkedin: https://www.linkedin.com/in/anita-bröllochs-a42119100/
+  website:
+  topic: Detailed Experimental Methods for Reproducible Science
+  description: "Anita Bröllochs is working closely with the scientific community to help make research more reproducible. She has a strong passion for open access and tools that help accelerate scientific discoveries. Anita studied Life Science Engineering at the Friedrich-Alexander University Erlangen-Nürnberg, Germany. Her background is in optical clearing of skeletal muscle tissue for multi-photon microscopy."
+
+- id: sina_rueeger
+  name: Sina Rüeger
+  subtitle: Postdoctoral Researcher, EPFL, Switzerland
+  thumbnail: SinaRueeger.jpg
+  alt: Picture of Sina Rüeger
+  twitter: sinarueeger
+  github: sinarueeger
+  linkedin: https://www.linkedin.com/in/sinarueeger/
+  website:
+  topic: An Introduction to R
+  description: "In her research, Sina Rüeger analyses human genomic data in the context of infectious diseases. Her interests include statistical modelling, programming with R, and topics intersecting health, medicine and technology. First introduced to the statistical programming language during her bachelor’s degree, Sina has been using R since then on a daily basis. She is particularly interested in reproducible analysis workflows, data visualisation and making R accessible to newcomers. Sina is also a founding member of the R-Ladies chapter in Lausanne, an organisation that promotes gender diversity in the R community."
+
+- id: lilly_winfree
+  name: Lilly Winfree
+  subtitle: Open Knowledge Foundation (OKFN)
+  thumbnail: LillyWinfree.jpg
+  alt: Picture of Lilly Winfree
+  twitter: lilscientista
+  github: lwinfree
+  linkedin: https://www.linkedin.com/in/lilly-winfree-phd/
+  website:
+  topic: Frictionless Data for Reproducible Research
+  description: Lilly is the product manager for the Frictionless Data for Reproducible Research project. She has her PhD in neuroscience from Oregon Health and Science University, where she researched brain injury in fruit flies and became an advocate for open science and open data. Lilly believes that the future of research is open, and is using Frictionless Data tooling within the researcher community to make science more reproducible. In her free time, you can find Lilly running, hanging out with her dogs, or reading sci-fi.
+  #abstract: Getting insight from scientific data is not always a straightforward process. Data is often hard to find, archived in difficult to use formats, poorly structured and/or incomplete.  These issues create friction and make it difficult to use, publish and share data. The Frictionless Data initiative at Open Knowledge Foundation aims to reduce friction in working with data, with a goal to make it effortless to transport data among different tools and platforms for further analysis and with an emphasis on reproducible research. In this workshop, participants will learn about different sources of friction in working with scientific data and how to alleviate them using the open source Frictionless Data tools. This hands-on workshop is aimed for novices, but advanced programmers are also welcome.
+
+- id: benjamin_stecher
+  name: Benjamin Stecher
+  subtitle: Industry and Academic Patient Consultant & Open Science Advocate
+  thumbnail: BenjaminStecher.jpg
+  alt: Picture of Benjamin Stecher
+  twitter: Neuronologist1
+  github:
+  linkedin: https://ca.linkedin.com/in/benjamin-stecher-86706420
+  website:
+  topic: Open science and patient advocacy
+  description: "Ben was born in Nairobi, Kenya as an Israeli to Jewish parents from Poland but grew up just outside Toronto, Canada. He studied history and philosophy at the University of Guelph, but as soon as he got his BA went to live and work as a teacher in South Korea for nearly three years while traveling the world. He moved to Shanghai, China at 26, spending one year at Jiao Tong University in a Chinese language program before being hired by Chinese education company, San Li. He rose quickly to become a managing partner where his duties included: overseeing operations at branches throughout South East China, developing curriculum, teacher training, parent relations, while teaching SAT and world history classes. Ben was diagnosed with Parkinson's disease at 29. He left China at 32 to learn how to better manage this disease and see what future therapies were on the horizon. He is now a prolific author and is actively involved in PD research advocacy. He is the founder of Tomorrow Edition (tmrwedition.com), co-founder of the Parkinson's Research Advocacy Group (prag.site), and patient advisor to the World Parkinson's Congress. "
+
+- id: melanie_rothlisberger
+  name: Melanie Röthlisberger
+  subtitle: Senior Research and Teaching Associate, English Department, University of Zurich, Switzerland
+  thumbnail: MelanieRothlisberger.jpg
+  alt: Picture of Melanie Röthlisberger
+  twitter: m_rothlisberger
+  github:
+  linkedin: https://www.linkedin.com/in/melanie-röthlisberger-3b976957/
+  website:
+  topic: "Open Science, your Career as a Researcher, and Beyond"
+  description: "Melanie Röthlisberger is a Swiss linguist working at the University of Zurich. She received her PhD in 2018 from Leuven (Belgium) and has since then been involved in the Open Science movement. Her main interests include Open Access and compliance with funding requirements, possibilities to acquire funding to publish open access (especially with regard to the humanities), making data and code open (and FAIR) and changing the reward system."
+
+- id: gilles_kratzer
+  name: Gilles Kratzer
+  subtitle: PhD student in biostatistics, University of Zurich, Switzerland.
+  thumbnail: GillesKratzer.jpg
+  alt: Picture of Gilles Kratzer
+  twitter: GillesKratzer
+  github: gilleskratzer
+  linkedin: https://www.linkedin.com/in/gilleskratzer/
+  website:
+  topic: "Open Science, your Career as a Researcher, and Beyond"
+  description: After working in clinical research for several years in different positions, Gilles decided to enhance his EPFL education in Physics by aquiring a Master degree in Biostatistics at the UZH. His PhD project is situated at the intersection of computational statistics, biostatistics and epidemiology. His goal is to provide reliable and ready-to-use software to the community in order to facilitate the analysis of epidemiological data using modern biostatistical methods with a high focus on observational data. Furthermore, he is the administrator of the statistical consulting service for the MNF of the UZH. As an Swiss National Science Fundation open access (OA) ambassador, he has the opportunity to promote OA beyond his direct research field. He strongly believe that reproducibility is a minimum requirement for good scientific research, and OA is a first step into this direction.
+
 - id: fatma_deniz
   name: Fatma Deniz
   subtitle: Postdoctoral Fellow, University of California Berkeley, and Visiting Scientist, Technical University Berlin, Germany
@@ -193,30 +243,6 @@
   topic: Practical tips for building open science communities
   description: Stephan’s research focuses on developing new acquisition and signal processing methods for functional neuroimaging that allow the tracking and visualisation of distributed brain activity patterns in real-time, i.e. while someone is inside an MRI scanner, and applying this in clinical practice. Stephan is passionate about making research and scientific practice more transparent, rigorous and inclusive. He started the Open Science Community Eindhoven , which is part of a wide Dutch network of researchers and university employees that works on improving the way we do science, and he is the founder of OpenMR Benelux , a community working on wider adoption of open science principles in MRI research through talks, discussions, workshops and hackathons.
 
-- id: anita_broellochs
-  name: Anita Bröllochs
-  subtitle: Head of Outreach, Protocols.io, USA
-  thumbnail: AnitaBroellochs.jpg
-  alt: Picture of Anita Bröllochs
-  twitter: AnitaBroellochs
-  github:
-  linkedin: https://www.linkedin.com/in/anita-bröllochs-a42119100/
-  website:
-  topic: Detailed Experimental Methods for Reproducible Science
-  description: "Anita Bröllochs is working closely with the scientific community to help make research more reproducible. She has a strong passion for open access and tools that help accelerate scientific discoveries. Anita studied Life Science Engineering at the Friedrich-Alexander University Erlangen-Nürnberg, Germany. Her background is in optical clearing of skeletal muscle tissue for multi-photon microscopy."
-
-- id: sina_rueeger
-  name: Sina Rüeger
-  subtitle: Postdoctoral Researcher, EPFL, Switzerland
-  thumbnail: SinaRueeger.jpg
-  alt: Picture of Sina Rüeger
-  twitter: sinarueeger
-  github: sinarueeger
-  linkedin: https://www.linkedin.com/in/sinarueeger/
-  website:
-  topic: An Introduction to R
-  description: "In her research, Sina Rüeger analyses human genomic data in the context of infectious diseases. Her interests include statistical modelling, programming with R, and topics intersecting health, medicine and technology. First introduced to the statistical programming language during her bachelor’s degree, Sina has been using R since then on a daily basis. She is particularly interested in reproducible analysis workflows, data visualisation and making R accessible to newcomers. Sina is also a founding member of the R-Ladies chapter in Lausanne, an organisation that promotes gender diversity in the R community."
-
 - id: galina_limorenko
   name: Galina Limorenko
   subtitle: PhD candidate in the School of Life Sciences, EPFL, Switzerland
@@ -253,55 +279,6 @@
   website: "https://betatim.github.io/pages/about.html"
   topic: Tools for reproducible research
   description: "Tim is one of the founders of Project Binder, an open project that builds the tools and community needed to provide a free service that lets anyone run other people's code in the cloud, for free and without any setup hassle. As his day job he works as a software engineer for Skribble, a Zurich based company aiming to replace hand-written signatures in high trust transactions. Tim trained as an experimental physicist and worked at CERN and EPFL for several years."
-
-- id: martin_vetterli
-  name: Martin Vetterli
-  subtitle: Professor of Engineering and President at EPFL, Lausanne, Switzerland
-  thumbnail: MartinVetterli.jpg
-  alt: Picture of Martin Vetterli
-  twitter: MartinVetterli
-  github:
-  linkedin: https://www.linkedin.com/in/martin-vetterli-13842082/
-  website:
-  topic: Closing remarks
-  description: "Martin Vetterli is the President of the Swiss Federal Institute of Technology Lausanne (EPFL) since 2017. After a degree in electrical engineering from the ETH Zürich in 1981, he graduated from the Stanford University in 1982. He then obtained his doctorate in science at EPFL in 1986 and went on to teach at Columbia University as an assistant and then associate professor. In 1993, he was appointed ordinary professor in the Department of Electrical Engineering and Computer Science of the University of Berkeley. Since 1995, he is a full professor at the audiovisual communications laboratory at EPFL. From 2013 to 2016, Martin Vetterli was President of the National Research Council of the Swiss National Science Foundation (SNSF). In this role, he strengthened the promotion of young scientists under the 2013-2016 multiannual programme, as well as the SNSF’s commitment to Open Access and Open Science."
-
-- id: pierre_vandergheynst
-  name: Pierre Vandergheynst
-  subtitle: Professor of Electrical Engineering and Vice President for Education at EPFL, Lausanne, Switzerland
-  thumbnail: PierreVandergheynst.jpg
-  alt: Picture of Pierre Vandergheynst
-  twitter: trekkinglemon
-  github:
-  linkedin: https://www.linkedin.com/in/pierre-vandergheynst-39b2a439/
-  website: https://about.me/pierre_vandergheynst
-  topic: Opening remarks
-  description:
-
-- id: lilly_winfree
-  name: Lilly Winfree
-  subtitle: Open Knowledge Foundation (OKFN)
-  thumbnail: LillyWinfree.jpg
-  alt: Picture of Lilly Winfree
-  twitter: lilscientista
-  github: lwinfree
-  linkedin: https://www.linkedin.com/in/lilly-winfree-phd/
-  website:
-  topic: Frictionless Data for Reproducible Research
-  description: Lilly is the product manager for the Frictionless Data for Reproducible Research project. She has her PhD in neuroscience from Oregon Health and Science University, where she researched brain injury in fruit flies and became an advocate for open science and open data. Lilly believes that the future of research is open, and is using Frictionless Data tooling within the researcher community to make science more reproducible. In her free time, you can find Lilly running, hanging out with her dogs, or reading sci-fi.
-  #abstract: Getting insight from scientific data is not always a straightforward process. Data is often hard to find, archived in difficult to use formats, poorly structured and/or incomplete.  These issues create friction and make it difficult to use, publish and share data. The Frictionless Data initiative at Open Knowledge Foundation aims to reduce friction in working with data, with a goal to make it effortless to transport data among different tools and platforms for further analysis and with an emphasis on reproducible research. In this workshop, participants will learn about different sources of friction in working with scientific data and how to alleviate them using the open source Frictionless Data tools. This hands-on workshop is aimed for novices, but advanced programmers are also welcome.
-
-- id: benjamin_stecher
-  name: Benjamin Stecher
-  subtitle: Industry and Academic Patient Consultant & Open Science Advocate
-  thumbnail: BenjaminStecher.jpg
-  alt: Picture of Benjamin Stecher
-  twitter: Neuronologist1
-  github:
-  linkedin: https://ca.linkedin.com/in/benjamin-stecher-86706420
-  website:
-  topic: Open science and patient advocacy
-  description: "Ben was born in Nairobi, Kenya as an Israeli to Jewish parents from Poland but grew up just outside Toronto, Canada. He studied history and philosophy at the University of Guelph, but as soon as he got his BA went to live and work as a teacher in South Korea for nearly three years while traveling the world. He moved to Shanghai, China at 26, spending one year at Jiao Tong University in a Chinese language program before being hired by Chinese education company, San Li. He rose quickly to become a managing partner where his duties included: overseeing operations at branches throughout South East China, developing curriculum, teacher training, parent relations, while teaching SAT and world history classes. Ben was diagnosed with Parkinson's disease at 29. He left China at 32 to learn how to better manage this disease and see what future therapies were on the horizon. He is now a prolific author and is actively involved in PD research advocacy. He is the founder of Tomorrow Edition (tmrwedition.com), co-founder of the Parkinson's Research Advocacy Group (prag.site), and patient advisor to the World Parkinson's Congress. "
 
 - id: alberto_antonietti
   name: Alberto Antonietti
