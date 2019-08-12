@@ -261,9 +261,9 @@
 
 -
   id: 513
-  title: "TBD"
-  subtype: presentation
-  description: ""
+  title: "Open Science by default"
+  subtype: workshop
+  description: "During this workshop, we will put in practice our knowledge about Open Science and learn how to initiate an Open Research project from A to Z."
   speakers: [anne_fouilloux] 
 
 # Example

@@ -298,7 +298,8 @@
   subtitle: Senior Engineer, Department of Geosciences, University of Oslo
   thumbnail: AnneFouilloux.jpg
   alt: Picture of Anne Fouilloux
-  description: "Coming soon"
+  topic: Open Science by default
+  #description: "Coming soon"
 
 - id: mathilde_panes
   name: Mathilde Panes
