@@ -132,10 +132,10 @@
 
 -
   id: 312
-  title: "Reproducibility in Practice - 1"
+  title: "From academia to startup: Experiences with going open source"
   subtype: presentation
   description: "Interactive talk series given by early-career researchers about their experiences in reproduciblity challenges, hackathons and the like. "
-  speakers: [tbd]
+  speakers: [mohanty]
 -
   id: 313
   title: "Reproducibility in Practice - 2"
@@ -264,7 +264,7 @@
   title: "Open Science by default"
   subtype: workshop
   description: "During this workshop, we will put in practice our knowledge about Open Science and learn how to initiate an Open Research project from A to Z."
-  speakers: [anne_fouilloux] 
+  speakers: [anne_fouilloux]
 
 # Example
 # -
