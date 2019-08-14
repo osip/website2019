@@ -132,20 +132,19 @@
 
 -
   id: 312
-  title: "Reproducibility in Practice - 1"
-  description: ""
+  title: "Experiences from participating in a reproducibility challenge"
   subtype: presentation
   description: "Interactive talk series given by early-career researchers about their experiences in reproduciblity challenges, hackathons and the like. "
-  speakers: [tbd]
+  speakers: [arnout]
 -
   id: 313
-  title: "Reproducibility in Practice - 2"
+  title: "Obstacles to publishing software packages"
   subtype: presentation
   description: "Interactive talk series given by early-career researchers about their experiences in reproduciblity challenges, hackathons and the like. "
-  speakers: [tbd]
+  speakers: [pierre_salvy]
 -
   id: 314
-  title: "Reproducibility in Practice - 3"
+  title: "TBD"
   description: ""
   subtype: presentation
   description: "Interactive talk series given by early-career researchers about their experiences in reproduciblity challenges, hackathons and the like. "

@@ -397,7 +397,7 @@
   name: Sharada  Mohanty
   subtitle: CEO and Co-founder, AICrowd
   thumbnail: Mohanty.png
-  alt: Picture of Luc Henry
+  alt: Picture of Sharada Mohanty
   email: "spmohanty91@gmail.com"
   twitter: MeMohanty
   github: spMohanty
@@ -405,6 +405,30 @@
   topic: "From academia to startup: Experiences with going open source"
   description: "Sharada  Mohanty  is  the  CEO  and  Co-founder  of  AICrowd,  an opensource platform encouraging reproducible artificial intelligence research.  He was the co-organizer  of  many  large-scale  machine  learning  competitions,  such  as  NeurIPS  2017:Learning to Run Challenge, NeurIPS 2018:  AI for Prosthetics Challenge, NeurIPS 2018:Adversarial Vision Challenge, and the 2018 MarLO Challenge.  During his Ph.D. at EPFL,he worked on numerous problems at the intersection of AI and health, with a strong inter-est in reinforcement learning.  In his current role, he focuses on building better engineering tools  for  AI  researchers  and  making  research  in  AI  accessible  to  a  larger  community  ofengineers."
   #abstract:
+
+- id: arnout
+  name: Arnout Devos
+  subtitle:
+  thumbnail:
+  alt:
+  email:
+  twitter:
+  github:
+  linkedIn:
+  topic:
+  description:
+
+- id: pierre_salvy
+  name: Pierre Salvy
+  subtitle: PhD Student in Chemical Engineering
+  thumbnail: PierreSalvy.jpg
+  alt: Picture of Pierre Salvy
+  email: "pierre.salvy@epfl.ch"
+  twitter:
+  github:
+  linkedIn:
+  topic: "Publishing software packages"
+  description: "Coming soon"
 
 - id: tbd
   name: _
