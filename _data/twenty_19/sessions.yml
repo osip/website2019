@@ -132,10 +132,11 @@
 
 -
   id: 312
-  title: "From academia to startup: Experiences with going open source"
+  title: "Reproducibility in Practice - 1"
+  description: ""
   subtype: presentation
   description: "Interactive talk series given by early-career researchers about their experiences in reproduciblity challenges, hackathons and the like. "
-  speakers: [mohanty]
+  speakers: [tbd]
 -
   id: 313
   title: "Reproducibility in Practice - 2"
@@ -151,11 +152,10 @@
   speakers: [tbd]
 -
   id: 315
-  title: "Reproducibility in Practice - 4"
-  description: ""
+  title: "From academia to startup: Experiences with going open source"
   subtype: presentation
   description: "Interactive talk series given by early-career researchers about their experiences in reproduciblity challenges, hackathons and the like. "
-  speakers: [tbd]
+  speakers: [mohanty]
 -
   id: 316
   title: "TBD"
