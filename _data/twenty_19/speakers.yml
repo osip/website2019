@@ -408,15 +408,16 @@
 
 - id: arnout
   name: Arnout Devos
-  subtitle:
-  thumbnail:
-  alt:
-  email:
+  subtitle: PhD Student in Computer Science
+  thumbnail: ArnoutDevos.jpg
+  alt: Picture of Arnout Devos
+  email: arnout.devos@epfl.ch
   twitter:
-  github:
-  linkedIn:
-  topic:
-  description:
+  github: https://github.com/ArnoutDevos
+  linkedIn: https://ch.linkedin.com/in/arnoutdevos?trk=profile-badge
+  website: https://arnoutdevos.github.io
+  topic: "Reproducibility Challenge: From Reproduction to Publication"
+  description: "Arnout is doing a PhD in Computer Science (CS) at EPFL, supported by a Marie Skłodowska-Curie fellowship. His research focuses on increasing the versatility of machine learning systems, mainly to learn with very small data. Previously, he did machine learning research at Stanford University, and obtained a Master’s in CS at the University of Southern California (BAEF fellow), and a Bachelor’s in EECS at KU Leuven."
 
 - id: pierre_salvy
   name: Pierre Salvy
