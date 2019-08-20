@@ -157,6 +157,18 @@
   topic: An Introduction to R
   description: "In her research, Sina Rüeger analyses human genomic data in the context of infectious diseases. Her interests include statistical modelling, programming with R, and topics intersecting health, medicine and technology. First introduced to the statistical programming language during her bachelor’s degree, Sina has been using R since then on a daily basis. She is particularly interested in reproducible analysis workflows, data visualisation and making R accessible to newcomers. Sina is also a founding member of the R-Ladies chapter in Lausanne, an organisation that promotes gender diversity in the R community."
 
+- id: allison_burns
+  name: Allison Burns
+  subtitle: Doctoral student, EPFL, Switzerland
+  thumbnail: AllisonBurns.jpg
+  alt: Picture of Allison Burns
+  twitter: 
+  github: 
+  linkedin: https://www.linkedin.com/in/allison-burns-47285653/
+  website:
+  topic: An Introduction to R
+  description: In her current research, Allison uses molecular biology and next generation sequencing techniques in order to study the role that genetic and epigenetic mechanisms play in the complex processes of learning and memory formation. She has a master’s degree in bioinformatics from the University of Oregon and spent 4 years working as a bioinformatician at the Stowers Research Institute in Kansas City, MO, focused on RNA biology. Although she did not initially consider herself a “computer person”, Allison has grown competent in the use of the statistical language, R, and enjoys helping and encouraging others to use the language. Next to her research she is a member of the R-Ladies chapter in Lausanne and the Webmaster for the ADSV PhD student association.
+
 - id: lilly_winfree
   name: Lilly Winfree
   subtitle: Open Knowledge Foundation (OKFN)
