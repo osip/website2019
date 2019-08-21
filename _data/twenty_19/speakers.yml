@@ -399,7 +399,7 @@
   email: "luc.henry@epfl.ch"
   twitter: heluc
   github: heluc
-  linkedIn: https://www.linkedin.com/in/luc-henry/
+  linkedin: https://www.linkedin.com/in/luc-henry/
   topic: Closing remarks
   description: Luc Henry has perfected his research skills in Switzerland, Sweden, Germany and the United Kingdom, between 2002 and 2014. Over his scientific career, he gradually got involved in communication and policy. As a journalist and advisor, he later focused on the impact of new technologies on society, in particular in the fields of biotechnology and health. In 2014, Luc founded the community laboratory ‘Hackuarium’ in order to provide a space where like-minded people can meet and learn biology by doing, independently of their education and occupation. He currently advises the president of EPFL on research policy issues. Luc earned a DPhil (PhD) in chemical biology from the University of Oxford in 2012.
   hide: true
@@ -413,7 +413,7 @@
   email: "spmohanty91@gmail.com"
   twitter: MeMohanty
   github: spMohanty
-  linkedIn: https://www.linkedin.com/in/sharada-prasanna-mohanty-752003189/
+  linkedin: https://www.linkedin.com/in/sharada-prasanna-mohanty-752003189/
   topic: "From academia to startup: Experiences with going open source"
   description: "Sharada  Mohanty  is  the  CEO  and  Co-founder  of  AICrowd,  an opensource platform encouraging reproducible artificial intelligence research.  He was the co-organizer  of  many  large-scale  machine  learning  competitions,  such  as  NeurIPS  2017:Learning to Run Challenge, NeurIPS 2018:  AI for Prosthetics Challenge, NeurIPS 2018:Adversarial Vision Challenge, and the 2018 MarLO Challenge.  During his Ph.D. at EPFL,he worked on numerous problems at the intersection of AI and health, with a strong inter-est in reinforcement learning.  In his current role, he focuses on building better engineering tools  for  AI  researchers  and  making  research  in  AI  accessible  to  a  larger  community  ofengineers."
   #abstract:
@@ -426,7 +426,7 @@
   email: arnout.devos@epfl.ch
   twitter:
   github: https://github.com/ArnoutDevos
-  linkedIn: https://ch.linkedin.com/in/arnoutdevos?trk=profile-badge
+  linkedin: https://ch.linkedin.com/in/arnoutdevos?trk=profile-badge
   website: https://arnoutdevos.github.io
   topic: "Reproducibility Challenge: From Reproduction to Publication"
   description: "Arnout is doing a PhD in Computer Science (CS) at EPFL, supported by a Marie Skłodowska-Curie fellowship. His research focuses on increasing the versatility of machine learning systems, mainly to learn with very small data. Previously, he did machine learning research at Stanford University, and obtained a Master’s in CS at the University of Southern California (BAEF fellow), and a Bachelor’s in EECS at KU Leuven."
@@ -439,7 +439,7 @@
   email: "pierre.salvy@epfl.ch"
   twitter:
   github:
-  linkedIn:
+  linkedin:
   topic: "Publishing software packages"
   description: "Coming soon"
 
@@ -451,7 +451,7 @@
   email: "susancheatham1@gmail.com"
   twitter: https://twitter.com/CheathamSue
   github:
-  linkedIn: https://www.linkedin.com/in/susan-cheatham/
+  linkedin: https://www.linkedin.com/in/susan-cheatham/
   topic: "Storytelling through data"
   description: "Susan has a PhD in particle physics from CERN, with six years postdoctoral experience analysing data. She has worked as a Physics and Outdoor Activities teacher in UK secondary schools. Her experiences also includes working in industry, with companies such as Price Waterhouse, GEC and the Australian Broadcasting Company. She is currently working as a data science consultant, applying technical and communication skills to real world data."
 
