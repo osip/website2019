@@ -157,10 +157,10 @@
   speakers: [mohanty]
 -
   id: 316
-  title: "TBD"
-  description: ""
+  title: "Workshop: Storytelling through data"
+  description: "A wealth of data is openly available. The question is how to extract a story from data. In this workshop we will take a look at some open data sources and show how we get from raw data to visualization. This creative process can be applied to many types of data and we will see a few examples. In a second step, we will use Python and Jupyter notebooks to create our own story around an example data set."
   subtype: presentation
-  speakers: []
+  speakers: [susan_cheatham]
 
 
 -

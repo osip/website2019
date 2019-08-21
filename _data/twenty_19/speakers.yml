@@ -162,8 +162,8 @@
   subtitle: Doctoral student, EPFL, Switzerland
   thumbnail: AllisonBurns.jpg
   alt: Picture of Allison Burns
-  twitter: 
-  github: 
+  twitter:
+  github:
   linkedin: https://www.linkedin.com/in/allison-burns-47285653/
   website:
   topic: An Introduction to R
@@ -442,6 +442,18 @@
   linkedIn:
   topic: "Publishing software packages"
   description: "Coming soon"
+
+- id: susan_cheatham
+  name: Susan Cheatham
+  subtitle: Data Science Consultant
+  thumbnail: SusanCheatham.jpg
+  alt: Picture of Susan Cheatham
+  email: "susancheatham1@gmail.com"
+  twitter: https://twitter.com/CheathamSue
+  github:
+  linkedIn: https://www.linkedin.com/in/susan-cheatham/
+  topic: "Storytelling through data"
+  description: "Susan has a PhD in particle physics from CERN, with six years postdoctoral experience analysing data. She has worked as a Physics and Outdoor Activities teacher in UK secondary schools. Her experiences also includes working in industry, with companies such as Price Waterhouse, GEC and the Australian Broadcasting Company. She is currently working as a data science consultant, applying technical and communication skills to real world data."
 
 - id: tbd
   name: _
