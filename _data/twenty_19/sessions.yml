@@ -144,11 +144,12 @@
   speakers: [pierre_salvy]
 -
   id: 314
-  title: "TBD"
+  title: ""
   description: ""
   subtype: presentation
   description: "Interactive talk series given by early-career researchers about their experiences in reproduciblity challenges, hackathons and the like. "
-  speakers: [tbd]
+  speakers: []
+  service: true
 -
   id: 315
   title: "From academia to startup: Experiences with going open source"
@@ -223,6 +224,14 @@
   description: "Tim will introduce the Binder project to us. Binder drastically lowers the bar to sharing and re-using software. As a user wanting to try out someone else’s work requires only clicking a single link. For the author to prepare a binder-ready project is much easier than having to support many different platforms and for many projects involves little additional work."
   subtype: workshop
   speakers: [tim_head] # TBD
+-
+  id: 418
+  title: "Dinner @ Café Romand"
+  subtitle: "Joint course dinner starting at 7.30 pm. <a href=\"https://goo.gl/maps/hS5daox1qXZFVkyw7\" target=\"_blank\">Click here</a> for directions on Google Maps."
+  subtype:
+  speakers: [] # TBD
+  service: true
+-
 -
   id: 501
   title: "Welcome and introduction to Day 5"

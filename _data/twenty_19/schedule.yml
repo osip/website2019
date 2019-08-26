@@ -169,12 +169,12 @@
     - {
     	startTime: "09:30",
     	endTime: "09:45",
-    	sessionIds: [304, 314]
+    	sessionIds: [304, 315]
     }
     - {
     	startTime: "09:45",
     	endTime: "10:00",
-    	sessionIds: [305, 315]
+    	sessionIds: [305,314]
     }
     - {
     	startTime: "10:00",
@@ -263,6 +263,11 @@
     	startTime: "16:30",
     	endTime: "18:30",
     	sessionIds: [407, 417]
+    }
+    - {
+    	startTime: "19:30",
+    	endTime: "",
+    	sessionIds: [418]
     }
 
 -

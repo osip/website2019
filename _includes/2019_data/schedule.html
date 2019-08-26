@@ -65,6 +65,7 @@
                         <div class="slot-content">
                           <h3 class="slot-title" itemprop="name", style="color:{{ textColor }}">{{ session.title }}</h3>
                           <span class="slot-language">{{session.language | upcase}}</span>
+                          <span class="slot-subtitle">{{session.subtitle}}</span>
                           <ul class="slot-speakers">
                             {% for speaker in site.data.twenty_19.speakers %}
                             {% for session_speaker in session.speakers %}
@@ -85,6 +86,7 @@
                       <div class="slot col-md-{{ slotColWidth }} col-xs-12 service-slot flexbox-item-height" data-slot-detail="{{ session.place }}">
                         <div class="slot-content-no-hover">
                           <h5 class="slot-title" itemprop="name">{{ session.title }}</h5>
+                          <span class="slot-subtitle">{{session.subtitle}}</span>
                         </div>
                       </div>
                     {% endif %}
