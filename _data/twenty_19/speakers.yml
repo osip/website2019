@@ -437,12 +437,12 @@
   thumbnail: PierreSalvy.jpg
   alt: Picture of Pierre Salvy
   email: "pierre.salvy@epfl.ch"
-  twitter:
-  github:
+  twitter: https://mobile.twitter.com/psalvy_
+  github: https://github.com/psalvy
   linkedin:
   website:
-  topic: "Publishing software packages"
-  description: "Coming soon"
+  topic: "“But I don’t want people to steal our work!” and other stories about open-source code"
+  description: "I have been working in the field of computational biology for almost 5 years now, both in the industry and in academia, the latter as a PhD student. As you probably already guessed, computational biology involves computers and science, and computers in science often involve code. I have worked with people from different fields, with different sensibilities to the problem of code, open science, and open source. Hopefully, telling you about my stories will give you some ideas to deal with the hardships of promoting open science, and make you turn an optimistic eye to the future."
 
 - id: susan_cheatham
   name: Susan Cheatham

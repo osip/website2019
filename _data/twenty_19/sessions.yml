@@ -138,9 +138,9 @@
   speakers: [arnout]
 -
   id: 313
-  title: "Obstacles to publishing software packages"
+  title: "“But I don’t want people to steal our work!” and other stories about open-source code"
   subtype: presentation
-  description: "Interactive talk series given by early-career researchers about their experiences in reproduciblity challenges, hackathons and the like. "
+  description: "A collection of anecdotes about the hardships of convincing people to go open-source, and how I dealt with them (in a nice way)."
   speakers: [pierre_salvy]
 -
   id: 314
