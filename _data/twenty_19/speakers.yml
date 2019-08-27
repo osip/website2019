@@ -415,7 +415,7 @@
   github: spMohanty
   linkedin: https://www.linkedin.com/in/sharada-prasanna-mohanty-752003189/
   topic: "From academia to startup: Experiences with going open source"
-  description: "Sharada  Mohanty  is  the  CEO  and  Co-founder  of  AICrowd,  an opensource platform encouraging reproducible artificial intelligence research.  He was the co-organizer  of  many  large-scale  machine  learning  competitions,  such  as  NeurIPS  2017:Learning to Run Challenge, NeurIPS 2018:  AI for Prosthetics Challenge, NeurIPS 2018:Adversarial Vision Challenge, and the 2018 MarLO Challenge.  During his Ph.D. at EPFL,he worked on numerous problems at the intersection of AI and health, with a strong inter-est in reinforcement learning.  In his current role, he focuses on building better engineering tools  for  AI  researchers  and  making  research  in  AI  accessible  to  a  larger  community  ofengineers."
+  description: "Sharada  Mohanty  is  the  CEO  and  Co-founder  of  AICrowd,  an opensource platform encouraging reproducible artificial intelligence research.  He was the co-organizer  of  many  large-scale  machine  learning  competitions,  such  as  NeurIPS  2017:Learning to Run Challenge, NeurIPS 2018:  AI for Prosthetics Challenge, NeurIPS 2018:Adversarial Vision Challenge, and the 2018 MarLO Challenge. During his Ph.D. at EPFL, he worked on numerous problems at the intersection of AI and health, with a strong inter-est in reinforcement learning.  In his current role, he focuses on building better engineering tools  for  AI  researchers  and  making  research  in  AI  accessible  to  a  larger  community  of engineers."
   #abstract:
 
 - id: arnout
