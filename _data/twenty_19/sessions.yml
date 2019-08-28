@@ -174,8 +174,10 @@
   speakers: [maximilian_strauss]
 -
   id: 403
-  title: "TBD"
-  service: true
+  title: "RENKU. Open Science from a different perspective"
+  description: "RENKU is software designed to make reproducible open science painless. RENKU does not re-invent wheels; it builds on proven, widely-used solutions, such as Docker for capturing execution environments and git for version control, but combines them together into a cohesive package. In this presentation, we will look at the perspective on Open Science that motivates RENKU and see examples of the tool in use to understand the benefits it brings to data analysis projects."
+  subtype: presentation
+  speakers: [chandrasekhar_ramakrishnan]
 -
   id: 405
   title: "Workshop: Code and data management: where to start?"
