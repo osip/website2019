@@ -457,6 +457,19 @@
   topic: "Storytelling through data"
   description: "Susan has a PhD in particle physics from CERN, with six years postdoctoral experience analysing data. She has worked as a Physics and Outdoor Activities teacher in UK secondary schools. Her experiences also includes working in industry, with companies such as Price Waterhouse, GEC and the Australian Broadcasting Company. She is currently working as a data science consultant, applying technical and communication skills to real world data. In her free time, Sue enjoys road biking, VTT and ski randonnée."
 
+- id: chandrasekhar_ramakrishnan
+  name: Chandrasekhar Ramakrishnan
+  subtitle: Senior Computer Scientist, Swiss Data Science Center
+  thumbnail: ChandrasekharRamakrishnan.jpg
+  alt: Picture of Chandrasekhar Ramakrishnan
+  email:
+  twitter: 
+  github:
+  website: 
+  linkedin: https://www.linkedin.com/in/cramakrishnan/
+  topic: "RENKU. Open Science from a different perspective."
+  description: "Chandrasekhar Ramakrishnan studied mathematics at the University of California, Berkeley (B.A. 1997) and art and computer science at the University of California, Santa Barbara (M.A. 2003). He has worked as a software developer and data-science consultant for companies, research institutions, and NGOs in the US, Germany, and Switzerland. Since 2009, he has been at ETH Zürich supporting projects by developing software solutions for data management, analysis, and visualization."
+  
 - id: tbd
   name: _
   subtitle: "                              "
