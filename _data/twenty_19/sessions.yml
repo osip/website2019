@@ -111,7 +111,7 @@
 -
   id: 304
   title: "PreLight"
-  description: ""
+  description: "The recent appearance of preprint servers in the biological sciences has revolutionised the publishing landscape and the opportunities available to scientists wanting to disseminate their work. Indeed, the submission of a preprint bypasses the long delays associated with traditional journal publications, the exhorbitant costs associated with the process, the paywalls and embargoes imposed on the final product. Testifying of the success of such new publishing strategies is the exponential growth of the number of research papers uploaded every month to preprint-servers such as bioRxiv. Yet, how can scientists stay on top of such a rapidly accumulating new stream of literature? I will share my experience as a writer for preLights, an online platform driven by early career researchers in the biological sciences, highlighting preprints of interest, and bridging the gap between authors and their readership."
   speakers: [stefano_vianello]
 -
   id: 305
@@ -169,7 +169,7 @@
 -
   id: 402
   title: "Employing Open Source: A Case Study in Software and Hardware"
-  description: ""
+  description: "In a scientific era that is coined by the phrase “Publish or perish” employing Open Science can be a balancing act. While the increasing complexity of research questions require tools that are accessible by everyone, the dedication of resources to maintenance, documentation and community building is not always a given. Maximilian will discuss how principles of Open Science can be implemented with the lessons learned from employing open-source software and hardware in the field of microscopy that he experienced throughout his Ph.D. Here he performed DNA-PAINT super-resolution microscopy that can achieve nanometer resolution in biological targets and contributed in building the Python Picasso software package for analysis. He will highlight the benefits of sharing code, publication strategies and how to maintain a community."
   subtype: presentation
   speakers: [maximilian_strauss]
 -
@@ -243,13 +243,13 @@
   id: 502
   title: "Show me your data! How to analyze and share your results in the most useful way."
   subtype: presentation
-  description: ""
+  description: "Figures and graphs are one of the most useful ways to understand and analyze data in every scientific field. A nicely crafted picture can help yourself to better understand the data that you are investigating and, later on, it can convey much more information than a mere block of text. At the same time, a bad visualization of the data can lead to incorrect or biased interpretations. In this workshop, I will present various examples of data visualization in the neuroscience realm, identifying bad behaviors, and proposing some guidelines and best practices for data visualization. Finally, we will see how to share reproducible and interactive figures that can integrate the traditional journal paper that you are going to publish."
   speakers: [alberto_antonietti]
 -
   id: 503
   title: "Workshop: Frictionless Data for Reproducible Research"
   subtype: presentation
-  description: ""
+  description: "Getting insight from scientific data is not always a straightforward process. Data is often hard to find, archived in difficult to use formats, poorly structured and/or incomplete.  These issues create friction and make it difficult to use, publish and share data. The Frictionless Data initiative at Open Knowledge Foundation aims to reduce friction in working with data, with a goal to make it effortless to transport data among different tools and platforms for further analysis and with an emphasis on reproducible research. In this workshop, participants will learn about different sources of friction in working with scientific data and how to alleviate them using the open source Frictionless Data tools. This hands-on workshop is aimed for novices, but advanced programmers are also welcome."
   speakers: [lilly_winfree]
 -
   id: 504
