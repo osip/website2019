@@ -21,8 +21,20 @@
           </div>
           {% endif %}
           <p class="theme-description">{{ session.description }}</p>
+          {% if session.slides %}
+          <div>
+            Find the slides to this talk <a href="{{session.slides}}" target="_blank">here</a>.
+          </div>
+          {% endif %}
+          {% if session.additional_material %}
+          <div>
+            Additional material provided in the workshop can be found <a href="{{session.additional_material}}" target="_blank">here</a>.
+          </div>
+          {% endif %}
           {% if session.presentation %}
-          <a class="theme-presentation" href="{{ session.presentation }}" title="Presentation" target="_blank">View presentation</a>
+          <div>
+            <a class="theme-presentation" href="{{ session.presentation }}" title="Presentation" target="_blank">View presentation</a>
+          </div>
           {% endif %}
           <hr>
           <div class="people-details">

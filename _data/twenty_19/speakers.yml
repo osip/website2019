@@ -463,13 +463,13 @@
   thumbnail: ChandrasekharRamakrishnan.jpg
   alt: Picture of Chandrasekhar Ramakrishnan
   email:
-  twitter: 
+  twitter:
   github:
-  website: 
+  website:
   linkedin: https://www.linkedin.com/in/cramakrishnan/
   topic: "RENKU. Open Science from a different perspective."
   description: "Chandrasekhar Ramakrishnan studied mathematics at the University of California, Berkeley (B.A. 1997) and art and computer science at the University of California, Santa Barbara (M.A. 2003). He has worked as a software developer and data-science consultant for companies, research institutions, and NGOs in the US, Germany, and Switzerland. Since 2009, he has been at ETH Zürich supporting projects by developing software solutions for data management, analysis, and visualization."
-  
+
 - id: tbd
   name: _
   subtitle: "                              "
