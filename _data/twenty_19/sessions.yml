@@ -151,6 +151,7 @@
   subtype: presentation
   description: "A collection of anecdotes about the hardships of convincing people to go open-source, and how I dealt with them (in a nice way)."
   speakers: [pierre_salvy]
+  slides: "https://drive.google.com/file/d/1RzGzEDk28G3L7fjv4FNZu7RDexg90LIs/view?usp=sharing"
 -
   id: 314
   title: ""
@@ -181,6 +182,7 @@
   description: "In a scientific era that is coined by the phrase “Publish or perish” employing Open Science can be a balancing act. While the increasing complexity of research questions require tools that are accessible by everyone, the dedication of resources to maintenance, documentation and community building is not always a given. Maximilian will discuss how principles of Open Science can be implemented with the lessons learned from employing open-source software and hardware in the field of microscopy that he experienced throughout his Ph.D. Here he performed DNA-PAINT super-resolution microscopy that can achieve nanometer resolution in biological targets and contributed in building the Python Picasso software package for analysis. He will highlight the benefits of sharing code, publication strategies and how to maintain a community."
   subtype: presentation
   speakers: [maximilian_strauss]
+  slides: "https://drive.google.com/file/d/1ohV58eCrh1DFWgiyNGQH-yOl1FERNRkM/view?usp=sharing"
 -
   id: 403
   title: "RENKU. Open Science from a different perspective"
