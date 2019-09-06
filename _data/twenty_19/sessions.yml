@@ -28,6 +28,7 @@
   description: ""
   subtype: presentation
   speakers: [bruno_strasser]
+  slides: "https://drive.google.com/file/d/1wR-qq8o1vcC1yXNzp-2DqSMHLlG6I3aS/view?usp=sharing"
 -
   id: 104
   title: "Coffee break and ice breaker"
@@ -52,7 +53,7 @@
   description: ""
   subtype: workshop
   speakers: [melanie_rothlisberger, gilles_kratzer]
-
+  slides: "https://drive.google.com/file/d/1U_nLQpMYlNKLmLEKz4BcVRCfrWpLgjiK/view?usp=sharing"
 -
   id: 201
   title: "Welcome and introduction to Day 2"
@@ -63,6 +64,7 @@
   description: ""
   subtype: presentation
   speakers: [beatrice_marselli]
+  slides: "https://drive.google.com/file/d/1KtCzRhFzRntkl8aIkRZhsP6F12y0Sg9t/view?usp=sharing"
 -
   id: 203
   title: "BioRxiv: How I Learned To Stop Worrying And Love The Preprints"
@@ -75,6 +77,7 @@
   title: "Wikipedia means Open Science"
   description: ""
   speakers: [frederic_schutz]
+  slides: "https://drive.google.com/file/d/1z32Vd_6xonW57AbpM6CBAE21650JZhXI/view?usp=sharing"
 -
   id: 205
   title: "Open Science: what can we expect from lawyers?"
@@ -116,6 +119,7 @@
   title: "PreLight"
   description: "The recent appearance of preprint servers in the biological sciences has revolutionised the publishing landscape and the opportunities available to scientists wanting to disseminate their work. Indeed, the submission of a preprint bypasses the long delays associated with traditional journal publications, the exhorbitant costs associated with the process, the paywalls and embargoes imposed on the final product. Testifying of the success of such new publishing strategies is the exponential growth of the number of research papers uploaded every month to preprint-servers such as bioRxiv. Yet, how can scientists stay on top of such a rapidly accumulating new stream of literature? I will share my experience as a writer for preLights, an online platform driven by early career researchers in the biological sciences, highlighting preprints of interest, and bridging the gap between authors and their readership."
   speakers: [stefano_vianello]
+  slides: "https://drive.google.com/file/d/1MtOkrHnA09Kdu5bsZQQd5UH2NzO9-6E1/view?usp=sharing"
 -
   id: 305
   title: "How to build your own community"
@@ -256,12 +260,14 @@
   subtype: presentation
   description: "Figures and graphs are one of the most useful ways to understand and analyze data in every scientific field. A nicely crafted picture can help yourself to better understand the data that you are investigating and, later on, it can convey much more information than a mere block of text. At the same time, a bad visualization of the data can lead to incorrect or biased interpretations. In this workshop, I will present various examples of data visualization in the neuroscience realm, identifying bad behaviors, and proposing some guidelines and best practices for data visualization. Finally, we will see how to share reproducible and interactive figures that can integrate the traditional journal paper that you are going to publish."
   speakers: [alberto_antonietti]
+  slides: "https://drive.google.com/file/d/1tpURwZX-KEFyHYcerWRyLwUHOSFnpLFL/view?usp=sharing"
 -
   id: 503
   title: "Workshop: Frictionless Data for Reproducible Research"
   subtype: presentation
   description: "Getting insight from scientific data is not always a straightforward process. Data is often hard to find, archived in difficult to use formats, poorly structured and/or incomplete.  These issues create friction and make it difficult to use, publish and share data. The Frictionless Data initiative at Open Knowledge Foundation aims to reduce friction in working with data, with a goal to make it effortless to transport data among different tools and platforms for further analysis and with an emphasis on reproducible research. In this workshop, participants will learn about different sources of friction in working with scientific data and how to alleviate them using the open source Frictionless Data tools. This hands-on workshop is aimed for novices, but advanced programmers are also welcome."
   speakers: [lilly_winfree]
+  slides: "http://bit.ly/FDepfl"
 -
   id: 504
   title: "Conclusions and Closing Remarks"
