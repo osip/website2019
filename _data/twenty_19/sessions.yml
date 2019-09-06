@@ -193,6 +193,7 @@
   subtype: workshop
   description: ""
   speakers: [antoine_masson, elaine_blumer, sittidha_samath]
+  slides: "https://go.epfl.ch/osip19-wcm"
 -
   id: 406
   title: "Workshop: Robust data analysis: an introduction to R"
@@ -219,6 +220,7 @@
   description: "There are many good reasons to open source a library but the journey to open source may feel painful on various aspects. Open sourcing done right requires efforts on several fronts like packaging, testing, documentation or code clarity in general. However, it turns out that there is a lot to gain in the process as some of these efforts get converted into good practices. Making choices that incentivize people to use and contribute to your work will eventually benefit both the community and you as the maintainer."
   subtype: presentation
   speakers: [adrien_ball]
+  slides: "https://drive.google.com/file/d/1ShE6N7dozITSU-M1N3MOMN0zJTStsjmu/view?usp=sharing"
 -
   id: 415
   title: "Workshop: Reproducible Research through Containerisation: Docker and Singularity"
@@ -246,13 +248,12 @@
   title: "Dinner @ Café Romand"
   subtitle: "Joint course dinner starting at 7.30 pm. <a href=\"https://goo.gl/maps/hS5daox1qXZFVkyw7\" target=\"_blank\">Click here</a> for directions on Google Maps."
   subtype:
-  speakers: [] # TBD
+  speakers: []
   service: true
 -
 -
   id: 501
   title: "Welcome and introduction to Day 5"
-  speakers: true # TBD
   service: true
 -
   id: 502
@@ -289,6 +290,7 @@
   subtype: workshop
   description: "During this workshop, we will put in practice our knowledge about Open Science and learn how to initiate an Open Research project from A to Z."
   speakers: [anne_fouilloux]
+  slides: "https://coderefinery.github.io/osip/introduction"
 
 # Example
 # -
