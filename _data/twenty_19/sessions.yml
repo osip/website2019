@@ -216,6 +216,7 @@
   description: "Wenzel will introduce us to the software development workflow used by his group, which enforces maintainable and reproducible development practices without losing the agility that is needed to make progress on a challenging research problem. He will step through all parts of the stack including Jupyter notebooks, C++14, pybind11, continuous integration and Git submodules in a hands-on manner. He will also share his experiences in creating projects that ultimately became relatively widely used and some of the positive and unexpected fallout that this has created."
   subtype: presentation
   speakers: [wenzel_jakob]
+  slides: "https://drive.google.com/file/d/1yuna9RLU8yTD_ye1XnYbvNjhSwYMpl29/view?usp=sharing"
 -
   id: 413
   title: "Experiences from Going Open Source"
