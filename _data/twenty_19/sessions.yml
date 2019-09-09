@@ -145,6 +145,7 @@
   subtype: presentation
   description: "A key assumption in research, that unfortunately doesn't always hold true, is that published results are reliable and reproducible. In support of this, the goal of the reproducibility challenge is to investigate reproducibility of empirical results. We participated in the 2019 edition of the challenge, and evaluated results submitted to the 2019 International Conference on Learning Representations (ICLR), without any source code available. We will share how we participated with our 2-month paper reproducibility project, won the challenge, presented it at ICLR 2019, and got published in a journal. We will show you how you can participate in future editions of the challenge and can help make science more reproducible!"
   speakers: [arnout]
+  slides: "https://docs.google.com/presentation/d/1T2chEuk2YECzSbHDn8oQ-QPgXrmbIXvxV1od4wSFmXo/edit?usp=sharing"
 -
   id: 313
   title: "“But I don’t want people to steal our work!” and other stories about open-source code"
