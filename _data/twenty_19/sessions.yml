@@ -173,6 +173,7 @@
   description: "A wealth of data is openly available. The question is how to extract a story from data. In this workshop we will take a look at some open data sources and show how we get from raw data to visualization. This creative process can be applied to many types of data and we will see a few examples. In a second step, we will use Python and Jupyter notebooks to create our own story around an example data set."
   subtype: presentation
   speakers: [susan_cheatham]
+  slides: "https://drive.google.com/file/d/1ON3dL3kq1lyFFI8UtPXUjmpymaax9Vno/view?usp=sharing"
 -
   id: 401
   title: "Welcome and introduction to Day 4"
